@@ -1,5 +1,5 @@
 import kuromoji from "kuromoji";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Pie, PieChart, ResponsiveContainer } from "recharts";
 
 import "./App.scss";
