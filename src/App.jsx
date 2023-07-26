@@ -1,4 +1,3 @@
-import kuromoji from "kuromoji";
 import { useEffect, useState } from "react";
 import { Pie, PieChart, ResponsiveContainer } from "recharts";
 
@@ -77,14 +76,16 @@ function App() {
     const NO_CONTENT = "*";
 
     const text = "親譲りの無鉄砲で小供の時から損ばかりしている";
-    kuromoji.builder({ dicPath: "/dict" }).build((err, tokenizer) => {
-      if (err) {
-        console.log(err);
-      } else {
-        const tokens = tokenizer.tokenize(text);
-        console.log(tokens);
-      }
-    });
+    kuromoji
+      .builder({ dicPath: "bower_components/kuromoji/dict" })
+      .build((err, tokenizer) => {
+        if (err) {
+          console.log(err);
+        } else {
+          const tokens = tokenizer.tokenize(text);
+          console.log(tokens);
+        }
+      });
 
     // kuromoji.builder({ dicPath: "/dict" }).build((err, tokenizer) => {
     //   if (err) {
