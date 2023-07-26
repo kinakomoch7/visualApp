@@ -103,20 +103,22 @@ export const DisplayLineChart = (props) => {
       <svg width="100%" height={600}>
         <g transform="translate(200, 100)">
           {x0.ticks(3).map((item, i) => {
-            return (
-              <g key={i}>
-                <line
-                  x1={x0(item)}
-                  y1="400"
-                  x2={x0(item + 0.3)}
-                  y2="400"
-                  stroke="black"
-                />
-                <text x={x0(item)} y="420" textAnchor="middle">
-                  {item}月
-                </text>
-              </g>
-            );
+            if (i !== 0) {
+              return (
+                <g key={i}>
+                  <line
+                    x1={x0(item)}
+                    y1="400"
+                    x2={x0(item)}
+                    y2="400"
+                    stroke="black"
+                  />
+                  <text x={x0(item)} y="420" textAnchor="middle">
+                    {item}月
+                  </text>
+                </g>
+              );
+            }
           })}
         </g>
         {/* y座標ラベル、線 */}
@@ -138,7 +140,7 @@ export const DisplayLineChart = (props) => {
                   textAnchor="end"
                   transform="scale(1, -1)"
                 >
-                  {item}
+                  {item / 1000000}
                 </text>
               </g>
             );

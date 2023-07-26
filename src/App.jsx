@@ -1,3 +1,4 @@
+import kuromoji from "kuromoji";
 import React, { useEffect, useState } from "react";
 import { Pie, PieChart, ResponsiveContainer } from "recharts";
 
@@ -29,6 +30,8 @@ function App() {
   const [JanData, setJanData] = useState([]);
   const [FebData, setFebData] = useState([]);
   const [MarData, setMarData] = useState([]);
+
+  const [dataForD3Cloud, setDataForD3Cloud] = useState([]);
 
   const JanURL =
     "https://raw.githubusercontent.com/kinakomoch7/TokyoOpenData/main/opData01.json";
@@ -66,7 +69,60 @@ function App() {
       .then((response) => {
         setMarData(response);
       });
+
+    // WordCloudの情報として抽出する品詞（助詞、助動詞などは意味がないので拾わない）
+    const TARGET_POS = ["名詞"];
+
+    // kuromoji.jsの解析結果の値で特に値がない場合は以下の文字が設定される
+    const NO_CONTENT = "*";
+
+    const text = "親譲りの無鉄砲で小供の時から損ばかりしている";
+    kuromoji.builder({ dicPath: "/dict" }).build((err, tokenizer) => {
+      if (err) {
+        console.log(err);
+      } else {
+        const tokens = tokenizer.tokenize(text);
+        console.log(tokens);
+      }
+    });
+
+    // kuromoji.builder({ dicPath: "/dict" }).build((err, tokenizer) => {
+    //   if (err) {
+    //     console.log(err);
+    //     return;
+    //   }
+
+    //   // テキストを引数にして形態素解析
+    //   const tokens = tokenizer.tokenize(JanData[labels[8]]);
+
+    //   // 解析結果から単語と出現回数を抽出
+    //   const dataForD3Cloud = tokens
+    //     // pos（品詞）を参照し、'名詞', '動詞', '形容詞'のみを抽出
+    //     .filter((t) => TARGET_POS.includes(t.pos))
+    //     // 単語を抽出(basic_formかsurface_formに単語が存在する)
+    //     .map((t) =>
+    //       t.basic_form === NO_CONTENT ? t.surface_form : t.basic_form
+    //     )
+    //     // [{text: 単語, value: 出現回数}]の形にReduce
+    //     .reduce((data, text) => {
+    //       const target = data.find((c) => c.text === text);
+    //       if (target) {
+    //         target.value = target.value + 1;
+    //       } else {
+    //         data.push({
+    //           text,
+    //           value: 1,
+    //         });
+    //       }
+    //       return data;
+    //     }, []);
+
+    //   // 加工した解析結果をstateにセット
+    //   setDataForD3Cloud(data);
+    // });
   }, []);
+
+  console.log();
 
   const totalOfDept = new Array(deptDataLabels.length);
   for (var i in data) {
