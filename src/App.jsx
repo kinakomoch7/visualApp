@@ -1,9 +1,8 @@
 import { useEffect, useState } from "react";
-import { Pie, PieChart, ResponsiveContainer } from "recharts";
 
 import "./App.scss";
 import { DisplayLineChart } from "./components/DisplayLineChart.jsx";
-// import { DisplayPieChart } from "./components/DisplayPieChart";
+import { DisplayPieChart } from "./components/DisplayPieChart";
 // import { DisplayWordcloud } from "./components/DisplayWordcloud";
 import Footer from "./components/Footer.jsx";
 import Header from "./components/Header.jsx";
@@ -26,10 +25,16 @@ function App() {
   const [deptDataLabels, setDeptDataLabels] = useState([]);
   const [moneyData, setMoneyData] = useState([]);
 
+  //月別データ
   const [JanData, setJanData] = useState([]);
   const [FebData, setFebData] = useState([]);
   const [MarData, setMarData] = useState([]);
 
+  //円グラフ用のデータセット
+  const [deptSelectedData, setDeptSelectedData] = useState([0]);
+  const [selectedIndex, setSelectedIndex] = useState([-1]);
+
+  //ワードクラウド用データ
   const [dataForD3Cloud, setDataForD3Cloud] = useState([]);
 
   const JanURL =
@@ -49,7 +54,7 @@ function App() {
         const deptLabelsArray = Array.from(
           new Set(response.map((item) => item[labels[0]]))
         );
-        setDeptDataLabels(deptLabelsArray.slice(0, 24));
+        setDeptDataLabels(deptLabelsArray);
 
         const moneyArray = response.map((item) =>
           parseInt(item[labels[9]].replace(/,/g, "") || 0, 10)
@@ -69,23 +74,21 @@ function App() {
         setMarData(response);
       });
 
-    // WordCloudの情報として抽出する品詞（助詞、助動詞などは意味がないので拾わない）
-    const TARGET_POS = ["名詞"];
+    // // WordCloudの情報として抽出する品詞（助詞、助動詞などは意味がないので拾わない）
+    // const TARGET_POS = ["名詞"];
 
-    // kuromoji.jsの解析結果の値で特に値がない場合は以下の文字が設定される
-    const NO_CONTENT = "*";
+    // // kuromoji.jsの解析結果の値で特に値がない場合は以下の文字が設定される
+    // const NO_CONTENT = "*";
 
-    const text = "親譲りの無鉄砲で小供の時から損ばかりしている";
-    kuromoji
-      .builder({ dicPath: "bower_components/kuromoji/dict" })
-      .build((err, tokenizer) => {
-        if (err) {
-          console.log(err);
-        } else {
-          const tokens = tokenizer.tokenize(text);
-          console.log(tokens);
-        }
-      });
+    // const text = "親譲りの無鉄砲で小供の時から損ばかりしている";
+    // kuromoji.builder({ dicPath: "../public/dict" }).build((err, tokenizer) => {
+    //   if (err) {
+    //     console.log(err);
+    //   } else {
+    //     const tokens = tokenizer.tokenize(text);
+    //     console.log(tokens);
+    //   }
+    // });
 
     // kuromoji.builder({ dicPath: "/dict" }).build((err, tokenizer) => {
     //   if (err) {
@@ -123,8 +126,6 @@ function App() {
     // });
   }, []);
 
-  console.log();
-
   const totalOfDept = new Array(deptDataLabels.length);
   for (var i in data) {
     if (i >= deptDataLabels.length) {
@@ -154,7 +155,14 @@ function App() {
   }));
 
   const onSelect = (props) => {
-    console.log(props);
+    const selectIndex = props;
+
+    // setDeptSelectedData([
+    //   JanData.filter((item) => item[labels[0]] === deptDataLabels[selectIndex]),
+    //   FebData.filter((item) => item[labels[0]] === deptDataLabels[selectIndex]),
+    //   MarData.filter((item) => item[labels[0]] === deptDataLabels[selectIndex]),
+    // ]);
+    setSelectedIndex(selectIndex);
   };
 
   return (
@@ -167,13 +175,19 @@ function App() {
         MarData={MarData}
         labels={labels}
         onSelect={onSelect}
+        selectedIndex={selectedIndex}
       />
 
-      {/* <DisplayPieChart formattedData={formattedData} />
+      <DisplayPieChart
+        data={[JanData, FebData, MarData]}
+        labels={labels}
+        selectedIndex={selectedIndex}
+        deptLabels={deptDataLabels}
+      />
 
-      <DisplayWordcloud JanData={JanData} labels={labels} /> */}
+      {/* <DisplayWordcloud JanData={JanData} labels={labels} />  */}
 
-      <div style={{ width: "100%", height: "500px" }}>
+      {/* <div style={{ width: "100%", height: "500px" }}>
         <ResponsiveContainer width="100%" height="100%">
           <PieChart>
             <Pie
@@ -186,7 +200,7 @@ function App() {
             />
           </PieChart>
         </ResponsiveContainer>
-      </div>
+      </div> */}
 
       <Footer />
     </div>
