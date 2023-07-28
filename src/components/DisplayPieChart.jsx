@@ -1,5 +1,5 @@
 import React from "react";
-import { Pie, PieChart, ResponsiveContainer } from "recharts";
+import { LabelList, Pie, PieChart, ResponsiveContainer } from "recharts";
 
 export const DisplayPieChart = (props) => {
   const { data, labels, selectedIndex, deptLabels } = props;
@@ -142,9 +142,38 @@ export const DisplayPieChart = (props) => {
     }
   }
 
+  //ラベルの調整
+  const RADIAN = Math.PI / 180;
+  const renderCustomizedLabel = ({
+    cx,
+    cy,
+    midAngle,
+    innerRadius,
+    outerRadius,
+    name,
+    value,
+  }) => {
+    const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
+    const x = cx + radius * Math.cos(-midAngle * RADIAN);
+    const y = cy + radius * Math.sin(-midAngle * RADIAN);
+
+    return (
+      <text
+        x={x}
+        y={y}
+        fill="black"
+        textAnchor={x > cx ? "start" : "end"}
+        fontSize={8}
+        dominantBaseline="central"
+      >
+        {name}
+      </text>
+    );
+  };
+
   return (
-    <div style={{ width: "100%", height: "500px" }} id="pieChart">
-      <ResponsiveContainer width="100%" height="100%">
+    <div id="pieChart">
+      <ResponsiveContainer width={500} height={500}>
         <PieChart>
           <Pie
             data={formattedDivisionData}
@@ -153,6 +182,8 @@ export const DisplayPieChart = (props) => {
             cy="50%"
             outerRadius={60}
             fill="#8884d8"
+            labelLine={false}
+            label={renderCustomizedLabel}
           />
           <Pie
             data={formattedSectionDataChanged}
@@ -160,8 +191,14 @@ export const DisplayPieChart = (props) => {
             innerRadius={70}
             outerRadius={90}
             fill="#82ca9d"
-            label
-          />
+          >
+            <LabelList
+              dataKey="name"
+              position="outside"
+              stroke="black"
+              offset={50}
+            />
+          </Pie>
         </PieChart>
       </ResponsiveContainer>
     </div>

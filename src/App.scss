@@ -1,4 +1,25 @@
 * {
     margin: 0px;
     padding: 0px;
+
+    .lineChart{
+        height:600px;
+        width:auto;
+    }
+    
+    .subCharts{
+        display: flex;
+        align-items:stretch; 
+        margin-left: 50px;
+
+       .PieChart{
+            width: 500px;
+            height: 500px
+        }
+        .Wordcloud{
+            margin-left: 50px;
+            width: 600px;
+            height: 600px;
+        }
+    }
 }

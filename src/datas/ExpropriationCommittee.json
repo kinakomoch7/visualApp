@@ -1,0 +1,366 @@
+[
+  {
+    "text": "支出",
+    "value": 60
+  },
+  {
+    "text": "経費",
+    "value": 39
+  },
+  {
+    "text": "契約",
+    "value": 24
+  },
+  {
+    "text": "年間",
+    "value": 21
+  },
+  {
+    "text": "委員",
+    "value": 15
+  },
+  {
+    "text": "旅費",
+    "value": 15
+  },
+  {
+    "text": "収用",
+    "value": 12
+  },
+  {
+    "text": "会",
+    "value": 12
+  },
+  {
+    "text": "事務",
+    "value": 12
+  },
+  {
+    "text": "職員",
+    "value": 12
+  },
+  {
+    "text": "海外",
+    "value": 12
+  },
+  {
+    "text": "研修",
+    "value": 12
+  },
+  {
+    "text": "実施",
+    "value": 12
+  },
+  {
+    "text": "追録",
+    "value": 9
+  },
+  {
+    "text": "複数",
+    "value": 9
+  },
+  {
+    "text": "支払",
+    "value": 9
+  },
+  {
+    "text": "月",
+    "value": 9
+  },
+  {
+    "text": "借入れ",
+    "value": 9
+  },
+  {
+    "text": "サービス",
+    "value": 9
+  },
+  {
+    "text": "処理",
+    "value": 9
+  },
+  {
+    "text": "少額",
+    "value": 6
+  },
+  {
+    "text": "案件",
+    "value": 6
+  },
+  {
+    "text": "前渡金",
+    "value": 6
+  },
+  {
+    "text": "等",
+    "value": 6
+  },
+  {
+    "text": "利用",
+    "value": 6
+  },
+  {
+    "text": "細",
+    "value": 6
+  },
+  {
+    "text": "長期",
+    "value": 6
+  },
+  {
+    "text": "継続",
+    "value": 6
+  },
+  {
+    "text": "単価",
+    "value": 6
+  },
+  {
+    "text": "分",
+    "value": 6
+  },
+  {
+    "text": "チケット",
+    "value": 6
+  },
+  {
+    "text": "東京",
+    "value": 6
+  },
+  {
+    "text": "都",
+    "value": 6
+  },
+  {
+    "text": "タクシー",
+    "value": 6
+  },
+  {
+    "text": "供給",
+    "value": 6
+  },
+  {
+    "text": "土",
+    "value": 6
+  },
+  {
+    "text": "処分",
+    "value": 6
+  },
+  {
+    "text": "資金",
+    "value": 6
+  },
+  {
+    "text": "渡",
+    "value": 6
+  },
+  {
+    "text": "訴訟",
+    "value": 3
+  },
+  {
+    "text": "代理",
+    "value": 3
+  },
+  {
+    "text": "令",
+    "value": 3
+  },
+  {
+    "text": "和年",
+    "value": 3
+  },
+  {
+    "text": "行",
+    "value": 3
+  },
+  {
+    "text": "ウ",
+    "value": 3
+  },
+  {
+    "text": "号",
+    "value": 3
+  },
+  {
+    "text": "一",
+    "value": 3
+  },
+  {
+    "text": "需",
+    "value": 3
+  },
+  {
+    "text": "役務",
+    "value": 3
+  },
+  {
+    "text": "局",
+    "value": 3
+  },
+  {
+    "text": "管理",
+    "value": 3
+  },
+  {
+    "text": "用",
+    "value": 3
+  },
+  {
+    "text": "サーバ",
+    "value": 3
+  },
+  {
+    "text": "判例",
+    "value": 3
+  },
+  {
+    "text": "情報",
+    "value": 3
+  },
+  {
+    "text": "法律",
+    "value": 3
+  },
+  {
+    "text": "関係",
+    "value": 3
+  },
+  {
+    "text": "書籍",
+    "value": 3
+  },
+  {
+    "text": "横断",
+    "value": 3
+  },
+  {
+    "text": "検索",
+    "value": 3
+  },
+  {
+    "text": "新聞",
+    "value": 3
+  },
+  {
+    "text": "購読",
+    "value": 3
+  },
+  {
+    "text": "断",
+    "value": 3
+  },
+  {
+    "text": "機",
+    "value": 3
+  },
+  {
+    "text": "鉢",
+    "value": 3
+  },
+  {
+    "text": "付",
+    "value": 3
+  },
+  {
+    "text": "植物",
+    "value": 3
+  },
+  {
+    "text": "賃借",
+    "value": 3
+  },
+  {
+    "text": "自動",
+    "value": 3
+  },
+  {
+    "text": "体外",
+    "value": 3
+  },
+  {
+    "text": "式",
+    "value": 3
+  },
+  {
+    "text": "除",
+    "value": 3
+  },
+  {
+    "text": "動",
+    "value": 3
+  },
+  {
+    "text": "器",
+    "value": 3
+  },
+  {
+    "text": "AED",
+    "value": 3
+  },
+  {
+    "text": "収納",
+    "value": 3
+  },
+  {
+    "text": "ボックス",
+    "value": 3
+  },
+  {
+    "text": "安否",
+    "value": 3
+  },
+  {
+    "text": "確認",
+    "value": 3
+  },
+  {
+    "text": "速記",
+    "value": 3
+  },
+  {
+    "text": "委託",
+    "value": 3
+  },
+  {
+    "text": "雑誌",
+    "value": 3
+  },
+  {
+    "text": "購入",
+    "value": 3
+  },
+  {
+    "text": "概算",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "定日",
+    "value": 3
+  },
+  {
+    "text": "払",
+    "value": 3
+  },
+  {
+    "text": "令和",
+    "value": 3
+  },
+  {
+    "text": "年月",
+    "value": 3
+  },
+  {
+    "text": "公共",
+    "value": 3
+  },
+  {
+    "text": "料金",
+    "value": 3
+  }
+]

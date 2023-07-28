@@ -1,0 +1,890 @@
+[
+  {
+    "text": "食肉",
+    "value": 138
+  },
+  {
+    "text": "市場",
+    "value": 129
+  },
+  {
+    "text": "委託",
+    "value": 114
+  },
+  {
+    "text": "購入",
+    "value": 96
+  },
+  {
+    "text": "単価",
+    "value": 51
+  },
+  {
+    "text": "動物",
+    "value": 48
+  },
+  {
+    "text": "点",
+    "value": 42
+  },
+  {
+    "text": "ほか",
+    "value": 36
+  },
+  {
+    "text": "点検",
+    "value": 36
+  },
+  {
+    "text": "令和",
+    "value": 33
+  },
+  {
+    "text": "年度",
+    "value": 33
+  },
+  {
+    "text": "分",
+    "value": 33
+  },
+  {
+    "text": "物",
+    "value": 33
+  },
+  {
+    "text": "保守",
+    "value": 33
+  },
+  {
+    "text": "契約",
+    "value": 30
+  },
+  {
+    "text": "棟",
+    "value": 30
+  },
+  {
+    "text": "支払い",
+    "value": 30
+  },
+  {
+    "text": "場",
+    "value": 27
+  },
+  {
+    "text": "管理",
+    "value": 27
+  },
+  {
+    "text": "設備",
+    "value": 27
+  },
+  {
+    "text": "用",
+    "value": 24
+  },
+  {
+    "text": "産業",
+    "value": 21
+  },
+  {
+    "text": "廃棄",
+    "value": 21
+  },
+  {
+    "text": "の",
+    "value": 21
+  },
+  {
+    "text": "料",
+    "value": 21
+  },
+  {
+    "text": "処理",
+    "value": 21
+  },
+  {
+    "text": "水",
+    "value": 21
+  },
+  {
+    "text": "センター",
+    "value": 21
+  },
+  {
+    "text": "手袋",
+    "value": 18
+  },
+  {
+    "text": "清掃",
+    "value": 18
+  },
+  {
+    "text": "作業",
+    "value": 18
+  },
+  {
+    "text": "機",
+    "value": 18
+  },
+  {
+    "text": "系",
+    "value": 15
+  },
+  {
+    "text": "衛生",
+    "value": 15
+  },
+  {
+    "text": "工事",
+    "value": 15
+  },
+  {
+    "text": "定期",
+    "value": 15
+  },
+  {
+    "text": "他",
+    "value": 15
+  },
+  {
+    "text": "支出",
+    "value": 12
+  },
+  {
+    "text": "袋",
+    "value": 12
+  },
+  {
+    "text": "収集",
+    "value": 12
+  },
+  {
+    "text": "業務",
+    "value": 12
+  },
+  {
+    "text": "運搬",
+    "value": 12
+  },
+  {
+    "text": "ガス",
+    "value": 12
+  },
+  {
+    "text": "高圧",
+    "value": 12
+  },
+  {
+    "text": "洗浄",
+    "value": 12
+  },
+  {
+    "text": "会計",
+    "value": 9
+  },
+  {
+    "text": "一般",
+    "value": 9
+  },
+  {
+    "text": "月",
+    "value": 9
+  },
+  {
+    "text": "固形",
+    "value": 9
+  },
+  {
+    "text": "不要",
+    "value": 9
+  },
+  {
+    "text": "室",
+    "value": 9
+  },
+  {
+    "text": "消毒",
+    "value": 9
+  },
+  {
+    "text": "等",
+    "value": 9
+  },
+  {
+    "text": "処分",
+    "value": 9
+  },
+  {
+    "text": "調査",
+    "value": 9
+  },
+  {
+    "text": "電話",
+    "value": 9
+  },
+  {
+    "text": "補修",
+    "value": 9
+  },
+  {
+    "text": "特殊",
+    "value": 9
+  },
+  {
+    "text": "機械",
+    "value": 9
+  },
+  {
+    "text": "加工",
+    "value": 9
+  },
+  {
+    "text": "金",
+    "value": 6
+  },
+  {
+    "text": "経費",
+    "value": 6
+  },
+  {
+    "text": "ごみ",
+    "value": 6
+  },
+  {
+    "text": "安全",
+    "value": 6
+  },
+  {
+    "text": "医",
+    "value": 6
+  },
+  {
+    "text": "委任",
+    "value": 6
+  },
+  {
+    "text": "畜",
+    "value": 6
+  },
+  {
+    "text": "維持",
+    "value": 6
+  },
+  {
+    "text": "ゴム",
+    "value": 6
+  },
+  {
+    "text": "製",
+    "value": 6
+  },
+  {
+    "text": "料金",
+    "value": 6
+  },
+  {
+    "text": "使用",
+    "value": 6
+  },
+  {
+    "text": "汚泥",
+    "value": 6
+  },
+  {
+    "text": "事業",
+    "value": 6
+  },
+  {
+    "text": "可燃",
+    "value": 6
+  },
+  {
+    "text": "建物",
+    "value": 6
+  },
+  {
+    "text": "駆除",
+    "value": 6
+  },
+  {
+    "text": "その他",
+    "value": 6
+  },
+  {
+    "text": "中央",
+    "value": 6
+  },
+  {
+    "text": "監視",
+    "value": 6
+  },
+  {
+    "text": "装置",
+    "value": 6
+  },
+  {
+    "text": "剤",
+    "value": 6
+  },
+  {
+    "text": "小",
+    "value": 6
+  },
+  {
+    "text": "炭酸",
+    "value": 6
+  },
+  {
+    "text": "-",
+    "value": 6
+  },
+  {
+    "text": "運転",
+    "value": 6
+  },
+  {
+    "text": "ｾﾝﾀｰﾋﾞﾙ",
+    "value": 6
+  },
+  {
+    "text": "食道",
+    "value": 6
+  },
+  {
+    "text": "結",
+    "value": 6
+  },
+  {
+    "text": "さ",
+    "value": 6
+  },
+  {
+    "text": "クリップ",
+    "value": 6
+  },
+  {
+    "text": "牛",
+    "value": 6
+  },
+  {
+    "text": "テール",
+    "value": 6
+  },
+  {
+    "text": "修理",
+    "value": 6
+  },
+  {
+    "text": "部品",
+    "value": 6
+  },
+  {
+    "text": "洗濯",
+    "value": 6
+  },
+  {
+    "text": "灯油",
+    "value": 6
+  },
+  {
+    "text": "鋸",
+    "value": 6
+  },
+  {
+    "text": "高温",
+    "value": 6
+  },
+  {
+    "text": "繰出",
+    "value": 3
+  },
+  {
+    "text": "指定",
+    "value": 3
+  },
+  {
+    "text": "医師",
+    "value": 3
+  },
+  {
+    "text": "診断",
+    "value": 3
+  },
+  {
+    "text": "書",
+    "value": 3
+  },
+  {
+    "text": "作成",
+    "value": 3
+  },
+  {
+    "text": "外",
+    "value": 3
+  },
+  {
+    "text": "耐",
+    "value": 3
+  },
+  {
+    "text": "切断",
+    "value": 3
+  },
+  {
+    "text": "性",
+    "value": 3
+  },
+  {
+    "text": "源泉",
+    "value": 3
+  },
+  {
+    "text": "徴収",
+    "value": 3
+  },
+  {
+    "text": "所得",
+    "value": 3
+  },
+  {
+    "text": "税",
+    "value": 3
+  },
+  {
+    "text": "還付",
+    "value": 3
+  },
+  {
+    "text": "大",
+    "value": 3
+  },
+  {
+    "text": "病",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "サービス",
+    "value": 3
+  },
+  {
+    "text": "リサイクル",
+    "value": 3
+  },
+  {
+    "text": "内",
+    "value": 3
+  },
+  {
+    "text": "おがくず",
+    "value": 3
+  },
+  {
+    "text": "回収",
+    "value": 3
+  },
+  {
+    "text": "槽",
+    "value": 3
+  },
+  {
+    "text": "保健",
+    "value": 3
+  },
+  {
+    "text": "埋設",
+    "value": 3
+  },
+  {
+    "text": "排水",
+    "value": 3
+  },
+  {
+    "text": "管",
+    "value": 3
+  },
+  {
+    "text": "脂",
+    "value": 3
+  },
+  {
+    "text": "除去",
+    "value": 3
+  },
+  {
+    "text": "胸当て",
+    "value": 3
+  },
+  {
+    "text": "ズボン",
+    "value": 3
+  },
+  {
+    "text": "チケット",
+    "value": 3
+  },
+  {
+    "text": "タクシー",
+    "value": 3
+  },
+  {
+    "text": "利用",
+    "value": 3
+  },
+  {
+    "text": "費",
+    "value": 3
+  },
+  {
+    "text": "通話",
+    "value": 3
+  },
+  {
+    "text": "生水",
+    "value": 3
+  },
+  {
+    "text": "洗い場",
+    "value": 3
+  },
+  {
+    "text": "個体",
+    "value": 3
+  },
+  {
+    "text": "電気",
+    "value": 3
+  },
+  {
+    "text": "水道",
+    "value": 3
+  },
+  {
+    "text": "地域",
+    "value": 3
+  },
+  {
+    "text": "冷暖房",
+    "value": 3
+  },
+  {
+    "text": "高度",
+    "value": 3
+  },
+  {
+    "text": "供給",
+    "value": 3
+  },
+  {
+    "text": "携帯",
+    "value": 3
+  },
+  {
+    "text": "資源",
+    "value": 3
+  },
+  {
+    "text": "臨時",
+    "value": 3
+  },
+  {
+    "text": "ねずみ",
+    "value": 3
+  },
+  {
+    "text": "害虫",
+    "value": 3
+  },
+  {
+    "text": "階",
+    "value": 3
+  },
+  {
+    "text": "排",
+    "value": 3
+  },
+  {
+    "text": "煙",
+    "value": 3
+  },
+  {
+    "text": "窓",
+    "value": 3
+  },
+  {
+    "text": "グレーチング",
+    "value": 3
+  },
+  {
+    "text": "ベルト",
+    "value": 3
+  },
+  {
+    "text": "自動",
+    "value": 3
+  },
+  {
+    "text": "扉",
+    "value": 3
+  },
+  {
+    "text": "ビル",
+    "value": 3
+  },
+  {
+    "text": "防腐",
+    "value": 3
+  },
+  {
+    "text": "高分子",
+    "value": 3
+  },
+  {
+    "text": "凝集",
+    "value": 3
+  },
+  {
+    "text": "生物",
+    "value": 3
+  },
+  {
+    "text": "脱臭",
+    "value": 3
+  },
+  {
+    "text": "内蔵",
+    "value": 3
+  },
+  {
+    "text": "搬送",
+    "value": 3
+  },
+  {
+    "text": "ラインノッキングペン",
+    "value": 3
+  },
+  {
+    "text": "液化",
+    "value": 3
+  },
+  {
+    "text": "冷凍",
+    "value": 3
+  },
+  {
+    "text": "麻酔",
+    "value": 3
+  },
+  {
+    "text": "センタービルエスカレータ",
+    "value": 3
+  },
+  {
+    "text": "エレベーター",
+    "value": 3
+  },
+  {
+    "text": "建築",
+    "value": 3
+  },
+  {
+    "text": "法",
+    "value": 3
+  },
+  {
+    "text": "関係",
+    "value": 3
+  },
+  {
+    "text": "仮設",
+    "value": 3
+  },
+  {
+    "text": "感知",
+    "value": 3
+  },
+  {
+    "text": "器",
+    "value": 3
+  },
+  {
+    "text": "消防",
+    "value": 3
+  },
+  {
+    "text": "修繕",
+    "value": 3
+  },
+  {
+    "text": "アルゴン",
+    "value": 3
+  },
+  {
+    "text": "シリコン",
+    "value": 3
+  },
+  {
+    "text": "ホース",
+    "value": 3
+  },
+  {
+    "text": "ｴﾚﾍﾞｰﾀｰ",
+    "value": 3
+  },
+  {
+    "text": "高",
+    "value": 3
+  },
+  {
+    "text": "温水",
+    "value": 3
+  },
+  {
+    "text": "水質",
+    "value": 3
+  },
+  {
+    "text": "測定",
+    "value": 3
+  },
+  {
+    "text": "TA",
+    "value": 3
+  },
+  {
+    "text": "DX",
+    "value": 3
+  },
+  {
+    "text": "空包",
+    "value": 3
+  },
+  {
+    "text": "合成",
+    "value": 3
+  },
+  {
+    "text": "使い捨て",
+    "value": 3
+  },
+  {
+    "text": "ニトリル",
+    "value": 3
+  },
+  {
+    "text": "金属",
+    "value": 3
+  },
+  {
+    "text": "保護",
+    "value": 3
+  },
+  {
+    "text": "液",
+    "value": 3
+  },
+  {
+    "text": "ウオーター",
+    "value": 3
+  },
+  {
+    "text": "クーラー",
+    "value": 3
+  },
+  {
+    "text": "まな板",
+    "value": 3
+  },
+  {
+    "text": "ナイフ",
+    "value": 3
+  },
+  {
+    "text": "汚染",
+    "value": 3
+  },
+  {
+    "text": "防止",
+    "value": 3
+  },
+  {
+    "text": "ハンド",
+    "value": 3
+  },
+  {
+    "text": "ローダ",
+    "value": 3
+  },
+  {
+    "text": "貸与",
+    "value": 3
+  },
+  {
+    "text": "被服",
+    "value": 3
+  },
+  {
+    "text": "液体",
+    "value": 3
+  },
+  {
+    "text": "洗剤",
+    "value": 3
+  },
+  {
+    "text": "ペニシリン",
+    "value": 3
+  },
+  {
+    "text": "ホッグスタンナー",
+    "value": 3
+  },
+  {
+    "text": "衣",
+    "value": 3
+  },
+  {
+    "text": "背割り",
+    "value": 3
+  },
+  {
+    "text": "電動",
+    "value": 3
+  },
+  {
+    "text": "背",
+    "value": 3
+  },
+  {
+    "text": "割",
+    "value": 3
+  },
+  {
+    "text": "ゴミ",
+    "value": 3
+  },
+  {
+    "text": "ラップ",
+    "value": 3
+  },
+  {
+    "text": "事故",
+    "value": 3
+  },
+  {
+    "text": "救済",
+    "value": 3
+  },
+  {
+    "text": "基金",
+    "value": 3
+  },
+  {
+    "text": "負担",
+    "value": 3
+  }
+]

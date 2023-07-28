@@ -1,0 +1,290 @@
+[
+  {
+    "text": "経費",
+    "value": 19569
+  },
+  {
+    "text": "管理",
+    "value": 12354
+  },
+  {
+    "text": "施設",
+    "value": 8721
+  },
+  {
+    "text": "警察",
+    "value": 4659
+  },
+  {
+    "text": "活動",
+    "value": 3336
+  },
+  {
+    "text": "費",
+    "value": 2307
+  },
+  {
+    "text": "一般",
+    "value": 2304
+  },
+  {
+    "text": "通信",
+    "value": 1986
+  },
+  {
+    "text": "職員",
+    "value": 1419
+  },
+  {
+    "text": "安全",
+    "value": 1395
+  },
+  {
+    "text": "交通",
+    "value": 1206
+  },
+  {
+    "text": "装備",
+    "value": 1053
+  },
+  {
+    "text": "器材",
+    "value": 1053
+  },
+  {
+    "text": "生活",
+    "value": 945
+  },
+  {
+    "text": "刑事",
+    "value": 825
+  },
+  {
+    "text": "者",
+    "value": 783
+  },
+  {
+    "text": "旅費",
+    "value": 711
+  },
+  {
+    "text": "対策",
+    "value": 606
+  },
+  {
+    "text": "民間",
+    "value": 552
+  },
+  {
+    "text": "協力",
+    "value": 552
+  },
+  {
+    "text": "表彰",
+    "value": 552
+  },
+  {
+    "text": "教養",
+    "value": 498
+  },
+  {
+    "text": "運転",
+    "value": 495
+  },
+  {
+    "text": "免許",
+    "value": 495
+  },
+  {
+    "text": "業務",
+    "value": 495
+  },
+  {
+    "text": "留置",
+    "value": 462
+  },
+  {
+    "text": "運営",
+    "value": 423
+  },
+  {
+    "text": "地域",
+    "value": 423
+  },
+  {
+    "text": "雑踏",
+    "value": 405
+  },
+  {
+    "text": "警備",
+    "value": 405
+  },
+  {
+    "text": "災害",
+    "value": 405
+  },
+  {
+    "text": "情報",
+    "value": 381
+  },
+  {
+    "text": "システム",
+    "value": 381
+  },
+  {
+    "text": "整備",
+    "value": 309
+  },
+  {
+    "text": "被服",
+    "value": 279
+  },
+  {
+    "text": "調製",
+    "value": 279
+  },
+  {
+    "text": "少年",
+    "value": 276
+  },
+  {
+    "text": "組織",
+    "value": 201
+  },
+  {
+    "text": "犯罪",
+    "value": 201
+  },
+  {
+    "text": "任用",
+    "value": 198
+  },
+  {
+    "text": "採用",
+    "value": 138
+  },
+  {
+    "text": "試験",
+    "value": 138
+  },
+  {
+    "text": "航空機",
+    "value": 135
+  },
+  {
+    "text": "健康",
+    "value": 114
+  },
+  {
+    "text": "広報",
+    "value": 111
+  },
+  {
+    "text": "会計",
+    "value": 60
+  },
+  {
+    "text": "年度",
+    "value": 60
+  },
+  {
+    "text": "訴訟",
+    "value": 51
+  },
+  {
+    "text": "賠償",
+    "value": 51
+  },
+  {
+    "text": "改修",
+    "value": 45
+  },
+  {
+    "text": "福利",
+    "value": 45
+  },
+  {
+    "text": "厚生",
+    "value": 45
+  },
+  {
+    "text": "金",
+    "value": 30
+  },
+  {
+    "text": "通訳",
+    "value": 30
+  },
+  {
+    "text": "センタ",
+    "value": 30
+  },
+  {
+    "text": "－",
+    "value": 30
+  },
+  {
+    "text": "団体",
+    "value": 15
+  },
+  {
+    "text": "補助",
+    "value": 15
+  },
+  {
+    "text": "過誤",
+    "value": 15
+  },
+  {
+    "text": "納",
+    "value": 15
+  },
+  {
+    "text": "還付",
+    "value": 15
+  },
+  {
+    "text": "公安",
+    "value": 12
+  },
+  {
+    "text": "委員",
+    "value": 12
+  },
+  {
+    "text": "会",
+    "value": 12
+  },
+  {
+    "text": "特別",
+    "value": 12
+  },
+  {
+    "text": "職",
+    "value": 12
+  },
+  {
+    "text": "非常勤",
+    "value": 12
+  },
+  {
+    "text": "庁舎",
+    "value": 9
+  },
+  {
+    "text": "退職",
+    "value": 3
+  },
+  {
+    "text": "手当",
+    "value": 3
+  },
+  {
+    "text": "共済",
+    "value": 3
+  },
+  {
+    "text": "事務",
+    "value": 3
+  }
+]

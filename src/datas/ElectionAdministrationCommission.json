@@ -1,0 +1,418 @@
+[
+  {
+    "text": "支出",
+    "value": 51
+  },
+  {
+    "text": "契約",
+    "value": 27
+  },
+  {
+    "text": "用",
+    "value": 21
+  },
+  {
+    "text": "賃借",
+    "value": 21
+  },
+  {
+    "text": "旅費",
+    "value": 21
+  },
+  {
+    "text": "等",
+    "value": 18
+  },
+  {
+    "text": "選挙",
+    "value": 18
+  },
+  {
+    "text": "システム",
+    "value": 12
+  },
+  {
+    "text": "サーバ",
+    "value": 12
+  },
+  {
+    "text": "令和",
+    "value": 12
+  },
+  {
+    "text": "参議院",
+    "value": 12
+  },
+  {
+    "text": "議員",
+    "value": 12
+  },
+  {
+    "text": "内",
+    "value": 12
+  },
+  {
+    "text": "月",
+    "value": 12
+  },
+  {
+    "text": "分",
+    "value": 12
+  },
+  {
+    "text": "資金",
+    "value": 9
+  },
+  {
+    "text": "投開票",
+    "value": 9
+  },
+  {
+    "text": "速報",
+    "value": 9
+  },
+  {
+    "text": "リース",
+    "value": 9
+  },
+  {
+    "text": "購入",
+    "value": 9
+  },
+  {
+    "text": "年間",
+    "value": 9
+  },
+  {
+    "text": "講師",
+    "value": 9
+  },
+  {
+    "text": "派遣",
+    "value": 9
+  },
+  {
+    "text": "謝礼",
+    "value": 9
+  },
+  {
+    "text": "/",
+    "value": 9
+  },
+  {
+    "text": "年",
+    "value": 9
+  },
+  {
+    "text": "単価",
+    "value": 9
+  },
+  {
+    "text": "支払",
+    "value": 9
+  },
+  {
+    "text": "競争",
+    "value": 9
+  },
+  {
+    "text": "近接",
+    "value": 9
+  },
+  {
+    "text": "地",
+    "value": 9
+  },
+  {
+    "text": "委託",
+    "value": 9
+  },
+  {
+    "text": "料金",
+    "value": 9
+  },
+  {
+    "text": "モバイルルータ",
+    "value": 6
+  },
+  {
+    "text": "回線",
+    "value": 6
+  },
+  {
+    "text": "費用",
+    "value": 6
+  },
+  {
+    "text": "機器",
+    "value": 6
+  },
+  {
+    "text": "長",
+    "value": 6
+  },
+  {
+    "text": "継",
+    "value": 6
+  },
+  {
+    "text": "ノート",
+    "value": 6
+  },
+  {
+    "text": "PC",
+    "value": 6
+  },
+  {
+    "text": "事務",
+    "value": 6
+  },
+  {
+    "text": "継続",
+    "value": 6
+  },
+  {
+    "text": "区",
+    "value": 6
+  },
+  {
+    "text": "年度",
+    "value": 6
+  },
+  {
+    "text": "電算",
+    "value": 6
+  },
+  {
+    "text": "外",
+    "value": 6
+  },
+  {
+    "text": "用品",
+    "value": 6
+  },
+  {
+    "text": "処分",
+    "value": 6
+  },
+  {
+    "text": "調査",
+    "value": 6
+  },
+  {
+    "text": "国際",
+    "value": 6
+  },
+  {
+    "text": "力",
+    "value": 6
+  },
+  {
+    "text": "プロジェクト",
+    "value": 6
+  },
+  {
+    "text": "複数",
+    "value": 6
+  },
+  {
+    "text": "少額",
+    "value": 6
+  },
+  {
+    "text": "案件",
+    "value": 6
+  },
+  {
+    "text": "渡",
+    "value": 6
+  },
+  {
+    "text": "実施",
+    "value": 6
+  },
+  {
+    "text": "タクシー",
+    "value": 6
+  },
+  {
+    "text": "利用",
+    "value": 6
+  },
+  {
+    "text": "政治",
+    "value": 3
+  },
+  {
+    "text": "業務",
+    "value": 3
+  },
+  {
+    "text": "政党",
+    "value": 3
+  },
+  {
+    "text": "助成",
+    "value": 3
+  },
+  {
+    "text": "デスク",
+    "value": 3
+  },
+  {
+    "text": "トップ",
+    "value": 3
+  },
+  {
+    "text": "ＰＣ",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "新聞",
+    "value": 3
+  },
+  {
+    "text": "局",
+    "value": 3
+  },
+  {
+    "text": "管理",
+    "value": 3
+  },
+  {
+    "text": "ホームページ",
+    "value": 3
+  },
+  {
+    "text": "長期",
+    "value": 3
+  },
+  {
+    "text": "文京",
+    "value": 3
+  },
+  {
+    "text": "管内",
+    "value": 3
+  },
+  {
+    "text": "会計",
+    "value": 3
+  },
+  {
+    "text": "任用",
+    "value": 3
+  },
+  {
+    "text": "職員",
+    "value": 3
+  },
+  {
+    "text": "年代",
+    "value": 3
+  },
+  {
+    "text": "別",
+    "value": 3
+  },
+  {
+    "text": "投票",
+    "value": 3
+  },
+  {
+    "text": "行動",
+    "value": 3
+  },
+  {
+    "text": "結果",
+    "value": 3
+  },
+  {
+    "text": "印刷",
+    "value": 3
+  },
+  {
+    "text": "江戸川",
+    "value": 3
+  },
+  {
+    "text": "三鷹",
+    "value": 3
+  },
+  {
+    "text": "市",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "サービス",
+    "value": 3
+  },
+  {
+    "text": "役務",
+    "value": 3
+  },
+  {
+    "text": "費",
+    "value": 3
+  },
+  {
+    "text": "接地",
+    "value": 3
+  },
+  {
+    "text": "執行",
+    "value": 3
+  },
+  {
+    "text": "世論",
+    "value": 3
+  },
+  {
+    "text": "後納",
+    "value": 3
+  },
+  {
+    "text": "郵便",
+    "value": 3
+  },
+  {
+    "text": "代金",
+    "value": 3
+  },
+  {
+    "text": "強化",
+    "value": 3
+  },
+  {
+    "text": "時報",
+    "value": 3
+  },
+  {
+    "text": "ポスターコンクールイベント",
+    "value": 3
+  },
+  {
+    "text": "啓発",
+    "value": 3
+  },
+  {
+    "text": "資材",
+    "value": 3
+  },
+  {
+    "text": "版下",
+    "value": 3
+  },
+  {
+    "text": "作成",
+    "value": 3
+  }
+]

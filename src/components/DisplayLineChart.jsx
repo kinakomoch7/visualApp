@@ -130,7 +130,7 @@ export const DisplayLineChart = (props) => {
                   textAnchor="end"
                   transform="scale(1, -1)"
                 >
-                  {item / 1000000}
+                  {item / 100000000000}
                 </text>
               </g>
             );

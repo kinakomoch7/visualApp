@@ -1,0 +1,1282 @@
+[
+  {
+    "text": "分",
+    "value": 420
+  },
+  {
+    "text": "月",
+    "value": 312
+  },
+  {
+    "text": "借入れ",
+    "value": 261
+  },
+  {
+    "text": "年度",
+    "value": 195
+  },
+  {
+    "text": "等",
+    "value": 162
+  },
+  {
+    "text": "端末",
+    "value": 162
+  },
+  {
+    "text": "TAIMS",
+    "value": 129
+  },
+  {
+    "text": "用",
+    "value": 123
+  },
+  {
+    "text": "令和",
+    "value": 114
+  },
+  {
+    "text": "更新",
+    "value": 105
+  },
+  {
+    "text": "利用",
+    "value": 99
+  },
+  {
+    "text": "機器",
+    "value": 93
+  },
+  {
+    "text": "支出",
+    "value": 90
+  },
+  {
+    "text": "委託",
+    "value": 81
+  },
+  {
+    "text": "事業",
+    "value": 66
+  },
+  {
+    "text": "所",
+    "value": 66
+  },
+  {
+    "text": "無線",
+    "value": 60
+  },
+  {
+    "text": "LAN",
+    "value": 60
+  },
+  {
+    "text": "回線",
+    "value": 57
+  },
+  {
+    "text": "経費",
+    "value": 51
+  },
+  {
+    "text": "事務",
+    "value": 51
+  },
+  {
+    "text": "出張",
+    "value": 48
+  },
+  {
+    "text": "料",
+    "value": 48
+  },
+  {
+    "text": "番号",
+    "value": 48
+  },
+  {
+    "text": "支払",
+    "value": 45
+  },
+  {
+    "text": "契約",
+    "value": 45
+  },
+  {
+    "text": "通信",
+    "value": 45
+  },
+  {
+    "text": "東京",
+    "value": 45
+  },
+  {
+    "text": "都",
+    "value": 42
+  },
+  {
+    "text": "受講",
+    "value": 42
+  },
+  {
+    "text": "R",
+    "value": 39
+  },
+  {
+    "text": "研修",
+    "value": 39
+  },
+  {
+    "text": "会議",
+    "value": 39
+  },
+  {
+    "text": "サービス",
+    "value": 36
+  },
+  {
+    "text": "強化",
+    "value": 36
+  },
+  {
+    "text": "申込",
+    "value": 36
+  },
+  {
+    "text": "単価",
+    "value": 33
+  },
+  {
+    "text": "ｼｽﾃﾑ",
+    "value": 33
+  },
+  {
+    "text": "提供",
+    "value": 33
+  },
+  {
+    "text": "専門",
+    "value": 33
+  },
+  {
+    "text": "少額",
+    "value": 30
+  },
+  {
+    "text": "情報",
+    "value": 30
+  },
+  {
+    "text": "運用",
+    "value": 30
+  },
+  {
+    "text": "データ",
+    "value": 30
+  },
+  {
+    "text": "海外",
+    "value": 30
+  },
+  {
+    "text": "光",
+    "value": 30
+  },
+  {
+    "text": "案件",
+    "value": 27
+  },
+  {
+    "text": "料金",
+    "value": 27
+  },
+  {
+    "text": "環境",
+    "value": 27
+  },
+  {
+    "text": "機能",
+    "value": 27
+  },
+  {
+    "text": "重点",
+    "value": 27
+  },
+  {
+    "text": ":",
+    "value": 27
+  },
+  {
+    "text": "Wi",
+    "value": 27
+  },
+  {
+    "text": "-",
+    "value": 27
+  },
+  {
+    "text": "Fi",
+    "value": 27
+  },
+  {
+    "text": "ＷＥＢ",
+    "value": 27
+  },
+  {
+    "text": "ﾃﾞｰﾀｾﾝﾀｰ",
+    "value": 27
+  },
+  {
+    "text": "保守",
+    "value": 24
+  },
+  {
+    "text": "使用",
+    "value": 24
+  },
+  {
+    "text": "_",
+    "value": 24
+  },
+  {
+    "text": "基盤",
+    "value": 24
+  },
+  {
+    "text": "スマート",
+    "value": 24
+  },
+  {
+    "text": "フォン",
+    "value": 24
+  },
+  {
+    "text": "四半期",
+    "value": 24
+  },
+  {
+    "text": "前渡金",
+    "value": 21
+  },
+  {
+    "text": "準備",
+    "value": 21
+  },
+  {
+    "text": "業務",
+    "value": 21
+  },
+  {
+    "text": "自治体",
+    "value": 21
+  },
+  {
+    "text": "現地",
+    "value": 21
+  },
+  {
+    "text": "平成",
+    "value": 21
+  },
+  {
+    "text": "ﾈｯﾄﾜｰｸ",
+    "value": 21
+  },
+  {
+    "text": "金",
+    "value": 18
+  },
+  {
+    "text": "ｻｰﾋﾞｽ",
+    "value": 18
+  },
+  {
+    "text": "システム",
+    "value": 18
+  },
+  {
+    "text": "電子",
+    "value": 18
+  },
+  {
+    "text": "プロバイダ",
+    "value": 18
+  },
+  {
+    "text": "プロバイダサービス",
+    "value": 18
+  },
+  {
+    "text": "ｻｰﾊﾞ",
+    "value": 18
+  },
+  {
+    "text": "外部",
+    "value": 15
+  },
+  {
+    "text": "ｾｷｭﾘﾃｨｸﾗｳﾄﾞ",
+    "value": 15
+  },
+  {
+    "text": "支援",
+    "value": 15
+  },
+  {
+    "text": "会",
+    "value": 15
+  },
+  {
+    "text": "複数",
+    "value": 15
+  },
+  {
+    "text": "大韓民国",
+    "value": 15
+  },
+  {
+    "text": "ｵｰｽﾄﾗﾘｱ",
+    "value": 15
+  },
+  {
+    "text": "化",
+    "value": 15
+  },
+  {
+    "text": "チケット",
+    "value": 12
+  },
+  {
+    "text": "タクシー",
+    "value": 12
+  },
+  {
+    "text": "支払い",
+    "value": 12
+  },
+  {
+    "text": "公共",
+    "value": 12
+  },
+  {
+    "text": "技術",
+    "value": 12
+  },
+  {
+    "text": "二",
+    "value": 12
+  },
+  {
+    "text": "運営",
+    "value": 12
+  },
+  {
+    "text": "申請",
+    "value": 12
+  },
+  {
+    "text": "付き",
+    "value": 12
+  },
+  {
+    "text": "補助",
+    "value": 12
+  },
+  {
+    "text": "ﾃﾞｼﾞﾀﾙ",
+    "value": 12
+  },
+  {
+    "text": "講習",
+    "value": 12
+  },
+  {
+    "text": "会場",
+    "value": 12
+  },
+  {
+    "text": "オフィス",
+    "value": 12
+  },
+  {
+    "text": "スマホ",
+    "value": 12
+  },
+  {
+    "text": "ペーパー",
+    "value": 12
+  },
+  {
+    "text": "レス",
+    "value": 12
+  },
+  {
+    "text": "ダッシュボード",
+    "value": 12
+  },
+  {
+    "text": "調達",
+    "value": 12
+  },
+  {
+    "text": "装置",
+    "value": 12
+  },
+  {
+    "text": "費",
+    "value": 9
+  },
+  {
+    "text": "複写",
+    "value": 9
+  },
+  {
+    "text": "連携",
+    "value": 9
+  },
+  {
+    "text": "共同",
+    "value": 9
+  },
+  {
+    "text": "作成",
+    "value": 9
+  },
+  {
+    "text": "次元",
+    "value": 9
+  },
+  {
+    "text": "ｺｰﾄﾞ",
+    "value": 9
+  },
+  {
+    "text": "管理",
+    "value": 9
+  },
+  {
+    "text": "手数料",
+    "value": 9
+  },
+  {
+    "text": "者",
+    "value": 9
+  },
+  {
+    "text": "タブレット",
+    "value": 9
+  },
+  {
+    "text": "資金",
+    "value": 9
+  },
+  {
+    "text": "前途",
+    "value": 9
+  },
+  {
+    "text": "ｲﾝﾀｰﾈｯﾄ",
+    "value": 9
+  },
+  {
+    "text": "閲覧",
+    "value": 9
+  },
+  {
+    "text": "LGWAN",
+    "value": 9
+  },
+  {
+    "text": "ﾘｰｽ",
+    "value": 9
+  },
+  {
+    "text": "本庁",
+    "value": 9
+  },
+  {
+    "text": "仮想",
+    "value": 9
+  },
+  {
+    "text": "共通",
+    "value": 9
+  },
+  {
+    "text": "ｸﾗｳﾄﾞ",
+    "value": 9
+  },
+  {
+    "text": "役務",
+    "value": 6
+  },
+  {
+    "text": "推進",
+    "value": 6
+  },
+  {
+    "text": "謝礼",
+    "value": 6
+  },
+  {
+    "text": "石川",
+    "value": 6
+  },
+  {
+    "text": "県",
+    "value": 6
+  },
+  {
+    "text": "コンピューター",
+    "value": 6
+  },
+  {
+    "text": "クラブハウス",
+    "value": 6
+  },
+  {
+    "text": "視察",
+    "value": 6
+  },
+  {
+    "text": "文書",
+    "value": 6
+  },
+  {
+    "text": "溶解",
+    "value": 6
+  },
+  {
+    "text": "処理",
+    "value": 6
+  },
+  {
+    "text": "データベース",
+    "value": 6
+  },
+  {
+    "text": "監視",
+    "value": 6
+  },
+  {
+    "text": "ｾｷｭﾘﾃｨｸﾗｳﾄﾞﾃﾞｰﾀｾﾝﾀｰ",
+    "value": 6
+  },
+  {
+    "text": "接続",
+    "value": 6
+  },
+  {
+    "text": "電話",
+    "value": 6
+  },
+  {
+    "text": "申",
+    "value": 6
+  },
+  {
+    "text": "込み",
+    "value": 6
+  },
+  {
+    "text": "CSIRT",
+    "value": 6
+  },
+  {
+    "text": "向け",
+    "value": 6
+  },
+  {
+    "text": "ソフトウェア",
+    "value": 6
+  },
+  {
+    "text": "手続",
+    "value": 6
+  },
+  {
+    "text": "型",
+    "value": 6
+  },
+  {
+    "text": "旅券",
+    "value": 6
+  },
+  {
+    "text": "交付",
+    "value": 6
+  },
+  {
+    "text": "デザイン",
+    "value": 6
+  },
+  {
+    "text": "在席",
+    "value": 6
+  },
+  {
+    "text": "確認",
+    "value": 6
+  },
+  {
+    "text": "ﾂｰﾙ",
+    "value": 6
+  },
+  {
+    "text": "整備",
+    "value": 6
+  },
+  {
+    "text": "学識",
+    "value": 6
+  },
+  {
+    "text": "経験",
+    "value": 6
+  },
+  {
+    "text": "シェア",
+    "value": 6
+  },
+  {
+    "text": "スマートシティスクール",
+    "value": 6
+  },
+  {
+    "text": "利島",
+    "value": 6
+  },
+  {
+    "text": "申し込み",
+    "value": 6
+  },
+  {
+    "text": "閉域",
+    "value": 6
+  },
+  {
+    "text": "付",
+    "value": 6
+  },
+  {
+    "text": "クラ",
+    "value": 6
+  },
+  {
+    "text": "ウド",
+    "value": 6
+  },
+  {
+    "text": "PBX",
+    "value": 6
+  },
+  {
+    "text": "ライセンス",
+    "value": 6
+  },
+  {
+    "text": "拡張",
+    "value": 6
+  },
+  {
+    "text": "ﾘﾓｰﾄｱｸｾｽ",
+    "value": 6
+  },
+  {
+    "text": "ﾌﾟﾘﾝﾀ",
+    "value": 6
+  },
+  {
+    "text": "ｶｰﾄﾞｼｽﾃﾑ",
+    "value": 6
+  },
+  {
+    "text": "基幹",
+    "value": 6
+  },
+  {
+    "text": "系",
+    "value": 6
+  },
+  {
+    "text": "ｱｸｾｼﾋﾞﾘﾃｨ",
+    "value": 6
+  },
+  {
+    "text": "更改",
+    "value": 6
+  },
+  {
+    "text": "特定",
+    "value": 6
+  },
+  {
+    "text": "組織",
+    "value": 6
+  },
+  {
+    "text": "IC",
+    "value": 6
+  },
+  {
+    "text": "カード",
+    "value": 6
+  },
+  {
+    "text": "外",
+    "value": 6
+  },
+  {
+    "text": "点",
+    "value": 6
+  },
+  {
+    "text": "一",
+    "value": 3
+  },
+  {
+    "text": "需費",
+    "value": 3
+  },
+  {
+    "text": "戦略",
+    "value": 3
+  },
+  {
+    "text": "政策",
+    "value": 3
+  },
+  {
+    "text": "本部",
+    "value": 3
+  },
+  {
+    "text": "ファイル",
+    "value": 3
+  },
+  {
+    "text": "サーバ",
+    "value": 3
+  },
+  {
+    "text": "ヒアリング",
+    "value": 3
+  },
+  {
+    "text": "民間",
+    "value": 3
+  },
+  {
+    "text": "給与",
+    "value": 3
+  },
+  {
+    "text": "調査",
+    "value": 3
+  },
+  {
+    "text": "導入",
+    "value": 3
+  },
+  {
+    "text": "デジタルサービスフェロー",
+    "value": 3
+  },
+  {
+    "text": "謝金",
+    "value": 3
+  },
+  {
+    "text": "統合",
+    "value": 3
+  },
+  {
+    "text": "ｲﾍﾞﾝﾄ",
+    "value": 3
+  },
+  {
+    "text": "借入",
+    "value": 3
+  },
+  {
+    "text": "中継",
+    "value": 3
+  },
+  {
+    "text": "DDoS",
+    "value": 3
+  },
+  {
+    "text": "攻撃",
+    "value": 3
+  },
+  {
+    "text": "対策",
+    "value": 3
+  },
+  {
+    "text": "携帯",
+    "value": 3
+  },
+  {
+    "text": "プラン",
+    "value": 3
+  },
+  {
+    "text": "変更",
+    "value": 3
+  },
+  {
+    "text": "ｻｲﾊﾞｰｾｷｭﾘﾃｨ",
+    "value": 3
+  },
+  {
+    "text": "審査",
+    "value": 3
+  },
+  {
+    "text": "委員",
+    "value": 3
+  },
+  {
+    "text": "回",
+    "value": 3
+  },
+  {
+    "text": "期",
+    "value": 3
+  },
+  {
+    "text": "都区",
+    "value": 3
+  },
+  {
+    "text": "市町村",
+    "value": 3
+  },
+  {
+    "text": "庁",
+    "value": 3
+  },
+  {
+    "text": "内",
+    "value": 3
+  },
+  {
+    "text": "ハードウェア",
+    "value": 3
+  },
+  {
+    "text": "保存",
+    "value": 3
+  },
+  {
+    "text": "検証",
+    "value": 3
+  },
+  {
+    "text": "稼働",
+    "value": 3
+  },
+  {
+    "text": "手洗い",
+    "value": 3
+  },
+  {
+    "text": "スタンド",
+    "value": 3
+  },
+  {
+    "text": "ﾀﾌﾞﾚｯﾄ",
+    "value": 3
+  },
+  {
+    "text": "タイム",
+    "value": 3
+  },
+  {
+    "text": "スタンプ",
+    "value": 3
+  },
+  {
+    "text": "付与",
+    "value": 3
+  },
+  {
+    "text": "旅費",
+    "value": 3
+  },
+  {
+    "text": "モバイルルータ",
+    "value": 3
+  },
+  {
+    "text": "プロジェクタ",
+    "value": 3
+  },
+  {
+    "text": "公開",
+    "value": 3
+  },
+  {
+    "text": "講座",
+    "value": 3
+  },
+  {
+    "text": "振込",
+    "value": 3
+  },
+  {
+    "text": "協定",
+    "value": 3
+  },
+  {
+    "text": "覚書",
+    "value": 3
+  },
+  {
+    "text": "什器",
+    "value": 3
+  },
+  {
+    "text": "類",
+    "value": 3
+  },
+  {
+    "text": "運搬",
+    "value": 3
+  },
+  {
+    "text": "オープンデータカタログサイト",
+    "value": 3
+  },
+  {
+    "text": "アジャイル",
+    "value": 3
+  },
+  {
+    "text": "方式",
+    "value": 3
+  },
+  {
+    "text": "開発",
+    "value": 3
+  },
+  {
+    "text": "一般需用費月分",
+    "value": 3
+  },
+  {
+    "text": "大島",
+    "value": 3
+  },
+  {
+    "text": "超過",
+    "value": 3
+  },
+  {
+    "text": "手荷物",
+    "value": 3
+  },
+  {
+    "text": "南多摩",
+    "value": 3
+  },
+  {
+    "text": "困難",
+    "value": 3
+  },
+  {
+    "text": "地域",
+    "value": 3
+  },
+  {
+    "text": "予測",
+    "value": 3
+  },
+  {
+    "text": "地図",
+    "value": 3
+  },
+  {
+    "text": "改修",
+    "value": 3
+  },
+  {
+    "text": "工事",
+    "value": 3
+  },
+  {
+    "text": "調整",
+    "value": 3
+  },
+  {
+    "text": "旅",
+    "value": 3
+  },
+  {
+    "text": "各種",
+    "value": 3
+  },
+  {
+    "text": "ソフトウェアライセンスダッシュボード",
+    "value": 3
+  },
+  {
+    "text": "網",
+    "value": 3
+  },
+  {
+    "text": "一般",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "紙",
+    "value": 3
+  },
+  {
+    "text": "購読",
+    "value": 3
+  },
+  {
+    "text": "シュレッダー",
+    "value": 3
+  },
+  {
+    "text": "三",
+    "value": 3
+  },
+  {
+    "text": "年",
+    "value": 3
+  },
+  {
+    "text": "意見",
+    "value": 3
+  },
+  {
+    "text": "聴取",
+    "value": 3
+  },
+  {
+    "text": "報償",
+    "value": 3
+  },
+  {
+    "text": "OpenRPA",
+    "value": 3
+  },
+  {
+    "text": "活用",
+    "value": 3
+  },
+  {
+    "text": "的",
+    "value": 3
+  },
+  {
+    "text": "雑誌",
+    "value": 3
+  },
+  {
+    "text": "購入",
+    "value": 3
+  },
+  {
+    "text": "概算",
+    "value": 3
+  },
+  {
+    "text": "AI",
+    "value": 3
+  },
+  {
+    "text": "音声",
+    "value": 3
+  },
+  {
+    "text": "テキスト",
+    "value": 3
+  },
+  {
+    "text": "議事",
+    "value": 3
+  },
+  {
+    "text": "録",
+    "value": 3
+  },
+  {
+    "text": "ツール",
+    "value": 3
+  },
+  {
+    "text": "新型",
+    "value": 3
+  },
+  {
+    "text": "コロナ",
+    "value": 3
+  },
+  {
+    "text": "メール",
+    "value": 3
+  },
+  {
+    "text": "版",
+    "value": 3
+  },
+  {
+    "text": "ＩＤ",
+    "value": 3
+  },
+  {
+    "text": "の",
+    "value": 3
+  },
+  {
+    "text": "既存",
+    "value": 3
+  },
+  {
+    "text": "追加",
+    "value": 3
+  },
+  {
+    "text": "クラウ",
+    "value": 3
+  },
+  {
+    "text": "四",
+    "value": 3
+  },
+  {
+    "text": "次",
+    "value": 3
+  },
+  {
+    "text": "内部",
+    "value": 3
+  },
+  {
+    "text": "認証",
+    "value": 3
+  },
+  {
+    "text": "ｿﾌﾄｳｪｱ",
+    "value": 3
+  },
+  {
+    "text": "自動",
+    "value": 3
+  },
+  {
+    "text": "体外",
+    "value": 3
+  },
+  {
+    "text": "式",
+    "value": 3
+  },
+  {
+    "text": "除",
+    "value": 3
+  },
+  {
+    "text": "細",
+    "value": 3
+  },
+  {
+    "text": "動",
+    "value": 3
+  },
+  {
+    "text": "器",
+    "value": 3
+  },
+  {
+    "text": "AED",
+    "value": 3
+  },
+  {
+    "text": "収納",
+    "value": 3
+  },
+  {
+    "text": "ﾎﾞｯｸｽ",
+    "value": 3
+  },
+  {
+    "text": "月島",
+    "value": 3
+  },
+  {
+    "text": "ＨＵＢ",
+    "value": 3
+  },
+  {
+    "text": "接点",
+    "value": 3
+  },
+  {
+    "text": "ﾃﾞｰﾀﾍﾞｰｽｿﾌﾄｳｪｱ",
+    "value": 3
+  },
+  {
+    "text": "出退勤",
+    "value": 3
+  },
+  {
+    "text": "記録",
+    "value": 3
+  },
+  {
+    "text": "ｼｽﾃﾑｻｰﾊﾞｰ",
+    "value": 3
+  },
+  {
+    "text": "ﾊｳｼﾞﾝｸﾞ",
+    "value": 3
+  },
+  {
+    "text": "労働",
+    "value": 3
+  },
+  {
+    "text": "派遣",
+    "value": 3
+  },
+  {
+    "text": "拡大",
+    "value": 3
+  },
+  {
+    "text": "ｾｷｭﾘﾃｨ",
+    "value": 3
+  },
+  {
+    "text": "監査",
+    "value": 3
+  },
+  {
+    "text": "｢",
+    "value": 3
+  },
+  {
+    "text": "ﾃﾞｰﾀ",
+    "value": 3
+  },
+  {
+    "text": "構築",
+    "value": 3
+  },
+  {
+    "text": "設計",
+    "value": 3
+  }
+]

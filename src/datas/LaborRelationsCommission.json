@@ -1,0 +1,434 @@
+[
+  {
+    "text": "支出",
+    "value": 63
+  },
+  {
+    "text": "月",
+    "value": 27
+  },
+  {
+    "text": "支払",
+    "value": 27
+  },
+  {
+    "text": "分",
+    "value": 24
+  },
+  {
+    "text": "契約",
+    "value": 24
+  },
+  {
+    "text": "料",
+    "value": 21
+  },
+  {
+    "text": "借入れ",
+    "value": 18
+  },
+  {
+    "text": "事件",
+    "value": 18
+  },
+  {
+    "text": "年度",
+    "value": 12
+  },
+  {
+    "text": "労働",
+    "value": 12
+  },
+  {
+    "text": "購読",
+    "value": 12
+  },
+  {
+    "text": "資金",
+    "value": 12
+  },
+  {
+    "text": "料金",
+    "value": 9
+  },
+  {
+    "text": "等",
+    "value": 9
+  },
+  {
+    "text": "R",
+    "value": 9
+  },
+  {
+    "text": "複数",
+    "value": 9
+  },
+  {
+    "text": "少額",
+    "value": 9
+  },
+  {
+    "text": "案件",
+    "value": 9
+  },
+  {
+    "text": "経費",
+    "value": 9
+  },
+  {
+    "text": "前渡金",
+    "value": 9
+  },
+  {
+    "text": "集",
+    "value": 9
+  },
+  {
+    "text": "概算",
+    "value": 9
+  },
+  {
+    "text": "代金",
+    "value": 9
+  },
+  {
+    "text": "使用",
+    "value": 9
+  },
+  {
+    "text": "端末",
+    "value": 9
+  },
+  {
+    "text": "旅費",
+    "value": 6
+  },
+  {
+    "text": "職員",
+    "value": 6
+  },
+  {
+    "text": "公共",
+    "value": 6
+  },
+  {
+    "text": "国際",
+    "value": 6
+  },
+  {
+    "text": "競争",
+    "value": 6
+  },
+  {
+    "text": "力",
+    "value": 6
+  },
+  {
+    "text": "強化",
+    "value": 6
+  },
+  {
+    "text": "プロジェクト",
+    "value": 6
+  },
+  {
+    "text": "中央",
+    "value": 6
+  },
+  {
+    "text": "時報",
+    "value": 6
+  },
+  {
+    "text": "外",
+    "value": 6
+  },
+  {
+    "text": "点",
+    "value": 6
+  },
+  {
+    "text": "ノート",
+    "value": 6
+  },
+  {
+    "text": "パソコン",
+    "value": 6
+  },
+  {
+    "text": "長期",
+    "value": 6
+  },
+  {
+    "text": "継続",
+    "value": 6
+  },
+  {
+    "text": "サービス",
+    "value": 6
+  },
+  {
+    "text": "利用",
+    "value": 6
+  },
+  {
+    "text": "不当",
+    "value": 6
+  },
+  {
+    "text": "行為",
+    "value": 6
+  },
+  {
+    "text": "命令",
+    "value": 6
+  },
+  {
+    "text": "令和",
+    "value": 6
+  },
+  {
+    "text": "年",
+    "value": 6
+  },
+  {
+    "text": "印刷",
+    "value": 6
+  },
+  {
+    "text": "送付",
+    "value": 6
+  },
+  {
+    "text": "用",
+    "value": 6
+  },
+  {
+    "text": "行政",
+    "value": 6
+  },
+  {
+    "text": "訴訟",
+    "value": 6
+  },
+  {
+    "text": "法人",
+    "value": 6
+  },
+  {
+    "text": "弁護",
+    "value": 6
+  },
+  {
+    "text": "TAIMS",
+    "value": 6
+  },
+  {
+    "text": "修理",
+    "value": 6
+  },
+  {
+    "text": "内",
+    "value": 3
+  },
+  {
+    "text": "会計",
+    "value": 3
+  },
+  {
+    "text": "外国",
+    "value": 3
+  },
+  {
+    "text": "保険",
+    "value": 3
+  },
+  {
+    "text": "AED",
+    "value": 3
+  },
+  {
+    "text": "収納",
+    "value": 3
+  },
+  {
+    "text": "ボックス",
+    "value": 3
+  },
+  {
+    "text": "追録",
+    "value": 3
+  },
+  {
+    "text": "購入",
+    "value": 3
+  },
+  {
+    "text": "スキャナ",
+    "value": 3
+  },
+  {
+    "text": "植木",
+    "value": 3
+  },
+  {
+    "text": "新聞",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "紙",
+    "value": 3
+  },
+  {
+    "text": "シュレッダー",
+    "value": 3
+  },
+  {
+    "text": "安否",
+    "value": 3
+  },
+  {
+    "text": "確認",
+    "value": 3
+  },
+  {
+    "text": "ファイル",
+    "value": 3
+  },
+  {
+    "text": "サーバ",
+    "value": 3
+  },
+  {
+    "text": "審問",
+    "value": 3
+  },
+  {
+    "text": "速記",
+    "value": 3
+  },
+  {
+    "text": "委託",
+    "value": 3
+  },
+  {
+    "text": "単価",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "雑誌",
+    "value": 3
+  },
+  {
+    "text": "web",
+    "value": 3
+  },
+  {
+    "text": "調査",
+    "value": 3
+  },
+  {
+    "text": "携帯",
+    "value": 3
+  },
+  {
+    "text": "電話",
+    "value": 3
+  },
+  {
+    "text": "Wi",
+    "value": 3
+  },
+  {
+    "text": "－",
+    "value": 3
+  },
+  {
+    "text": "Fi",
+    "value": 3
+  },
+  {
+    "text": "ルータ",
+    "value": 3
+  },
+  {
+    "text": "委員",
+    "value": 3
+  },
+  {
+    "text": "モバイル",
+    "value": 3
+  },
+  {
+    "text": "金",
+    "value": 3
+  },
+  {
+    "text": "インターネット",
+    "value": 3
+  },
+  {
+    "text": "接続",
+    "value": 3
+  },
+  {
+    "text": "プロバイダ",
+    "value": 3
+  },
+  {
+    "text": "タクシー",
+    "value": 3
+  },
+  {
+    "text": "支払い",
+    "value": 3
+  },
+  {
+    "text": "一般",
+    "value": 3
+  },
+  {
+    "text": "財団",
+    "value": 3
+  },
+  {
+    "text": "大学",
+    "value": 3
+  },
+  {
+    "text": "証人",
+    "value": 3
+  },
+  {
+    "text": "費用",
+    "value": 3
+  },
+  {
+    "text": "弁償",
+    "value": 3
+  },
+  {
+    "text": "支給",
+    "value": 3
+  },
+  {
+    "text": "近接",
+    "value": 2
+  },
+  {
+    "text": "地",
+    "value": 2
+  },
+  {
+    "text": "接地",
+    "value": 1
+  }
+]

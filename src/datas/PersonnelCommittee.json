@@ -1,0 +1,402 @@
+[
+  {
+    "text": "月",
+    "value": 54
+  },
+  {
+    "text": "分",
+    "value": 54
+  },
+  {
+    "text": "支出",
+    "value": 51
+  },
+  {
+    "text": "経費",
+    "value": 30
+  },
+  {
+    "text": "借入れ",
+    "value": 21
+  },
+  {
+    "text": "R",
+    "value": 18
+  },
+  {
+    "text": "採用",
+    "value": 15
+  },
+  {
+    "text": "選考",
+    "value": 15
+  },
+  {
+    "text": "謝礼",
+    "value": 15
+  },
+  {
+    "text": "委員",
+    "value": 12
+  },
+  {
+    "text": "用",
+    "value": 12
+  },
+  {
+    "text": "試験",
+    "value": 12
+  },
+  {
+    "text": "支払",
+    "value": 9
+  },
+  {
+    "text": "ｼｽﾃﾑ",
+    "value": 9
+  },
+  {
+    "text": "機器",
+    "value": 9
+  },
+  {
+    "text": "購入",
+    "value": 9
+  },
+  {
+    "text": "事務",
+    "value": 9
+  },
+  {
+    "text": "業務",
+    "value": 9
+  },
+  {
+    "text": "氷河期",
+    "value": 9
+  },
+  {
+    "text": "世代",
+    "value": 9
+  },
+  {
+    "text": "キャリア",
+    "value": 6
+  },
+  {
+    "text": "活用",
+    "value": 6
+  },
+  {
+    "text": "次",
+    "value": 6
+  },
+  {
+    "text": "少額",
+    "value": 6
+  },
+  {
+    "text": "案件",
+    "value": 6
+  },
+  {
+    "text": "資金",
+    "value": 6
+  },
+  {
+    "text": "渡",
+    "value": 6
+  },
+  {
+    "text": "任",
+    "value": 6
+  },
+  {
+    "text": "公",
+    "value": 6
+  },
+  {
+    "text": "部",
+    "value": 6
+  },
+  {
+    "text": "等",
+    "value": 6
+  },
+  {
+    "text": "給与",
+    "value": 6
+  },
+  {
+    "text": "労働",
+    "value": 6
+  },
+  {
+    "text": "者",
+    "value": 6
+  },
+  {
+    "text": "派遣",
+    "value": 6
+  },
+  {
+    "text": "報酬",
+    "value": 6
+  },
+  {
+    "text": "対象",
+    "value": 6
+  },
+  {
+    "text": "採点",
+    "value": 6
+  },
+  {
+    "text": "一",
+    "value": 3
+  },
+  {
+    "text": "需",
+    "value": 3
+  },
+  {
+    "text": "役務",
+    "value": 3
+  },
+  {
+    "text": "ﾍﾟｰﾊﾟｰﾚｽ",
+    "value": 3
+  },
+  {
+    "text": "会議",
+    "value": 3
+  },
+  {
+    "text": "プリンタ",
+    "value": 3
+  },
+  {
+    "text": "ＡＥＤ",
+    "value": 3
+  },
+  {
+    "text": "裁断",
+    "value": 3
+  },
+  {
+    "text": "機",
+    "value": 3
+  },
+  {
+    "text": "勧告",
+    "value": 3
+  },
+  {
+    "text": "音響",
+    "value": 3
+  },
+  {
+    "text": "機材",
+    "value": 3
+  },
+  {
+    "text": "借入",
+    "value": 3
+  },
+  {
+    "text": "ｶﾗｰﾚｰｻﾞｰﾌﾟﾘﾝﾀｰ",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "新聞",
+    "value": 3
+  },
+  {
+    "text": "ファイル",
+    "value": 3
+  },
+  {
+    "text": "サーバ",
+    "value": 3
+  },
+  {
+    "text": "参考",
+    "value": 3
+  },
+  {
+    "text": "図書",
+    "value": 3
+  },
+  {
+    "text": "操",
+    "value": 3
+  },
+  {
+    "text": "作業",
+    "value": 3
+  },
+  {
+    "text": "ﾌｧｲﾘﾝｸﾞ",
+    "value": 3
+  },
+  {
+    "text": "ｲﾝﾀｰﾈｯﾄ",
+    "value": 3
+  },
+  {
+    "text": "記事",
+    "value": 3
+  },
+  {
+    "text": "検索",
+    "value": 3
+  },
+  {
+    "text": "ｻｰﾋﾞｽ",
+    "value": 3
+  },
+  {
+    "text": "利用",
+    "value": 3
+  },
+  {
+    "text": "秘書",
+    "value": 3
+  },
+  {
+    "text": "操作",
+    "value": 3
+  },
+  {
+    "text": "弁護士",
+    "value": 3
+  },
+  {
+    "text": "金",
+    "value": 3
+  },
+  {
+    "text": "実施",
+    "value": 3
+  },
+  {
+    "text": "係員",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "サービス",
+    "value": 3
+  },
+  {
+    "text": "契約",
+    "value": 3
+  },
+  {
+    "text": "昇任",
+    "value": 3
+  },
+  {
+    "text": "運用",
+    "value": 3
+  },
+  {
+    "text": "保守",
+    "value": 3
+  },
+  {
+    "text": "委託",
+    "value": 3
+  },
+  {
+    "text": "後納",
+    "value": 3
+  },
+  {
+    "text": "郵便",
+    "value": 3
+  },
+  {
+    "text": "料金",
+    "value": 3
+  },
+  {
+    "text": "都内",
+    "value": 3
+  },
+  {
+    "text": "民間",
+    "value": 3
+  },
+  {
+    "text": "実態",
+    "value": 3
+  },
+  {
+    "text": "令和",
+    "value": 3
+  },
+  {
+    "text": "年",
+    "value": 3
+  },
+  {
+    "text": "印刷",
+    "value": 3
+  },
+  {
+    "text": "郵券",
+    "value": 3
+  },
+  {
+    "text": "冊子",
+    "value": 3
+  },
+  {
+    "text": "送付",
+    "value": 3
+  },
+  {
+    "text": "国際",
+    "value": 3
+  },
+  {
+    "text": "競争",
+    "value": 3
+  },
+  {
+    "text": "力",
+    "value": 3
+  },
+  {
+    "text": "強化",
+    "value": 3
+  },
+  {
+    "text": "ﾌﾟﾛｼﾞｪｸﾄ",
+    "value": 3
+  },
+  {
+    "text": "海外",
+    "value": 3
+  },
+  {
+    "text": "傷害",
+    "value": 3
+  },
+  {
+    "text": "保険",
+    "value": 3
+  },
+  {
+    "text": "料",
+    "value": 3
+  }
+]

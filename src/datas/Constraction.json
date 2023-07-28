@@ -1,0 +1,6350 @@
+[
+  {
+    "text": "月",
+    "value": 6882
+  },
+  {
+    "text": "分",
+    "value": 6852
+  },
+  {
+    "text": "料金",
+    "value": 4506
+  },
+  {
+    "text": "支払",
+    "value": 4362
+  },
+  {
+    "text": "公共",
+    "value": 3993
+  },
+  {
+    "text": "契約",
+    "value": 2112
+  },
+  {
+    "text": "委託",
+    "value": 1701
+  },
+  {
+    "text": "単価",
+    "value": 1446
+  },
+  {
+    "text": "支出",
+    "value": 1386
+  },
+  {
+    "text": "工事",
+    "value": 1155
+  },
+  {
+    "text": "区",
+    "value": 738
+  },
+  {
+    "text": "工",
+    "value": 717
+  },
+  {
+    "text": "管理",
+    "value": 675
+  },
+  {
+    "text": "維持",
+    "value": 624
+  },
+  {
+    "text": "購入",
+    "value": 612
+  },
+  {
+    "text": "道路",
+    "value": 594
+  },
+  {
+    "text": "令和",
+    "value": 474
+  },
+  {
+    "text": "外",
+    "value": 441
+  },
+  {
+    "text": "金",
+    "value": 435
+  },
+  {
+    "text": "公園",
+    "value": 429
+  },
+  {
+    "text": "補償",
+    "value": 423
+  },
+  {
+    "text": "等",
+    "value": 420
+  },
+  {
+    "text": "電気",
+    "value": 417
+  },
+  {
+    "text": "ほか",
+    "value": 411
+  },
+  {
+    "text": "料",
+    "value": 396
+  },
+  {
+    "text": "複写",
+    "value": 390
+  },
+  {
+    "text": "点",
+    "value": 366
+  },
+  {
+    "text": "号",
+    "value": 357
+  },
+  {
+    "text": "土地",
+    "value": 351
+  },
+  {
+    "text": "街路",
+    "value": 336
+  },
+  {
+    "text": "資金",
+    "value": 330
+  },
+  {
+    "text": "物件",
+    "value": 318
+  },
+  {
+    "text": "年度",
+    "value": 303
+  },
+  {
+    "text": "渡",
+    "value": 300
+  },
+  {
+    "text": "事務所",
+    "value": 285
+  },
+  {
+    "text": "補",
+    "value": 282
+  },
+  {
+    "text": "移転",
+    "value": 276
+  },
+  {
+    "text": "樹",
+    "value": 276
+  },
+  {
+    "text": "サービス",
+    "value": 273
+  },
+  {
+    "text": "業務",
+    "value": 273
+  },
+  {
+    "text": "-",
+    "value": 273
+  },
+  {
+    "text": "継続",
+    "value": 264
+  },
+  {
+    "text": "完了",
+    "value": 264
+  },
+  {
+    "text": "清掃",
+    "value": 252
+  },
+  {
+    "text": "支払い",
+    "value": 246
+  },
+  {
+    "text": "契",
+    "value": 246
+  },
+  {
+    "text": "用",
+    "value": 240
+  },
+  {
+    "text": "物",
+    "value": 240
+  },
+  {
+    "text": "施設",
+    "value": 237
+  },
+  {
+    "text": "東京",
+    "value": 234
+  },
+  {
+    "text": "少額",
+    "value": 234
+  },
+  {
+    "text": "案件",
+    "value": 234
+  },
+  {
+    "text": "～",
+    "value": 225
+  },
+  {
+    "text": "代金",
+    "value": 222
+  },
+  {
+    "text": "二",
+    "value": 219
+  },
+  {
+    "text": "調査",
+    "value": 219
+  },
+  {
+    "text": "機",
+    "value": 216
+  },
+  {
+    "text": "地",
+    "value": 210
+  },
+  {
+    "text": "建設",
+    "value": 201
+  },
+  {
+    "text": "整備",
+    "value": 198
+  },
+  {
+    "text": "北",
+    "value": 195
+  },
+  {
+    "text": "都",
+    "value": 192
+  },
+  {
+    "text": "買収",
+    "value": 192
+  },
+  {
+    "text": "点検",
+    "value": 189
+  },
+  {
+    "text": "の",
+    "value": 189
+  },
+  {
+    "text": "払",
+    "value": 186
+  },
+  {
+    "text": "設備",
+    "value": 183
+  },
+  {
+    "text": "年月",
+    "value": 180
+  },
+  {
+    "text": "設計",
+    "value": 180
+  },
+  {
+    "text": "街灯",
+    "value": 180
+  },
+  {
+    "text": "保守",
+    "value": 177
+  },
+  {
+    "text": "旅費",
+    "value": 168
+  },
+  {
+    "text": "西",
+    "value": 168
+  },
+  {
+    "text": "川",
+    "value": 168
+  },
+  {
+    "text": "費",
+    "value": 165
+  },
+  {
+    "text": "町",
+    "value": 165
+  },
+  {
+    "text": "借入れ",
+    "value": 162
+  },
+  {
+    "text": "河川",
+    "value": 162
+  },
+  {
+    "text": "廃棄",
+    "value": 162
+  },
+  {
+    "text": "機器",
+    "value": 159
+  },
+  {
+    "text": "橋",
+    "value": 159
+  },
+  {
+    "text": "線",
+    "value": 156
+  },
+  {
+    "text": "東村山",
+    "value": 153
+  },
+  {
+    "text": "－",
+    "value": 153
+  },
+  {
+    "text": "期",
+    "value": 147
+  },
+  {
+    "text": "橋梁",
+    "value": 147
+  },
+  {
+    "text": "利用",
+    "value": 141
+  },
+  {
+    "text": "処理",
+    "value": 141
+  },
+  {
+    "text": "緑地",
+    "value": 141
+  },
+  {
+    "text": "賃借",
+    "value": 138
+  },
+  {
+    "text": "ｻｰﾋﾞｽ",
+    "value": 135
+  },
+  {
+    "text": "産業",
+    "value": 132
+  },
+  {
+    "text": "使用",
+    "value": 129
+  },
+  {
+    "text": "用地",
+    "value": 129
+  },
+  {
+    "text": "恩賜",
+    "value": 129
+  },
+  {
+    "text": "精算",
+    "value": 129
+  },
+  {
+    "text": "払込",
+    "value": 126
+  },
+  {
+    "text": "電話",
+    "value": 123
+  },
+  {
+    "text": "警備",
+    "value": 123
+  },
+  {
+    "text": "庁",
+    "value": 120
+  },
+  {
+    "text": "有",
+    "value": 120
+  },
+  {
+    "text": "車",
+    "value": 120
+  },
+  {
+    "text": "ガソリン",
+    "value": 120
+  },
+  {
+    "text": "R",
+    "value": 117
+  },
+  {
+    "text": "東",
+    "value": 117
+  },
+  {
+    "text": "長期",
+    "value": 117
+  },
+  {
+    "text": "前渡金",
+    "value": 114
+  },
+  {
+    "text": "複数",
+    "value": 111
+  },
+  {
+    "text": "路面",
+    "value": 111
+  },
+  {
+    "text": "事業",
+    "value": 108
+  },
+  {
+    "text": "前払",
+    "value": 108
+  },
+  {
+    "text": "建物",
+    "value": 108
+  },
+  {
+    "text": "･",
+    "value": 105
+  },
+  {
+    "text": "道",
+    "value": 105
+  },
+  {
+    "text": "測量",
+    "value": 105
+  },
+  {
+    "text": "雑誌",
+    "value": 102
+  },
+  {
+    "text": "自動車",
+    "value": 102
+  },
+  {
+    "text": "設置",
+    "value": 102
+  },
+  {
+    "text": "車検",
+    "value": 99
+  },
+  {
+    "text": "売買",
+    "value": 99
+  },
+  {
+    "text": "上野",
+    "value": 99
+  },
+  {
+    "text": "複合",
+    "value": 96
+  },
+  {
+    "text": "場",
+    "value": 96
+  },
+  {
+    "text": "町田",
+    "value": 96
+  },
+  {
+    "text": "トンネル",
+    "value": 93
+  },
+  {
+    "text": "処分",
+    "value": 93
+  },
+  {
+    "text": "排水",
+    "value": 93
+  },
+  {
+    "text": "者",
+    "value": 90
+  },
+  {
+    "text": "庁舎",
+    "value": 90
+  },
+  {
+    "text": "新宿",
+    "value": 90
+  },
+  {
+    "text": "改修",
+    "value": 90
+  },
+  {
+    "text": "保護",
+    "value": 90
+  },
+  {
+    "text": "ファクシミリ",
+    "value": 90
+  },
+  {
+    "text": "一",
+    "value": 87
+  },
+  {
+    "text": "運搬",
+    "value": 87
+  },
+  {
+    "text": "システム",
+    "value": 84
+  },
+  {
+    "text": "建",
+    "value": 81
+  },
+  {
+    "text": "歩行",
+    "value": 81
+  },
+  {
+    "text": "専用",
+    "value": 81
+  },
+  {
+    "text": "剪定",
+    "value": 81
+  },
+  {
+    "text": "課",
+    "value": 81
+  },
+  {
+    "text": "立川",
+    "value": 81
+  },
+  {
+    "text": "出張",
+    "value": 78
+  },
+  {
+    "text": "四",
+    "value": 78
+  },
+  {
+    "text": "三",
+    "value": 78
+  },
+  {
+    "text": "南西",
+    "value": 78
+  },
+  {
+    "text": "経費",
+    "value": 75
+  },
+  {
+    "text": "作成",
+    "value": 75
+  },
+  {
+    "text": "五",
+    "value": 75
+  },
+  {
+    "text": "残",
+    "value": 75
+  },
+  {
+    "text": "小平",
+    "value": 75
+  },
+  {
+    "text": "法定",
+    "value": 72
+  },
+  {
+    "text": "環",
+    "value": 72
+  },
+  {
+    "text": "自家用",
+    "value": 72
+  },
+  {
+    "text": "工作",
+    "value": 72
+  },
+  {
+    "text": "か所",
+    "value": 72
+  },
+  {
+    "text": "Ⅰ",
+    "value": 72
+  },
+  {
+    "text": "新聞",
+    "value": 69
+  },
+  {
+    "text": "書",
+    "value": 69
+  },
+  {
+    "text": "詳細",
+    "value": 69
+  },
+  {
+    "text": "請求",
+    "value": 69
+  },
+  {
+    "text": "修繕",
+    "value": 66
+  },
+  {
+    "text": "実施",
+    "value": 66
+  },
+  {
+    "text": "保安",
+    "value": 66
+  },
+  {
+    "text": "情報",
+    "value": 63
+  },
+  {
+    "text": "チケット",
+    "value": 63
+  },
+  {
+    "text": "タクシー",
+    "value": 63
+  },
+  {
+    "text": "巡回",
+    "value": 63
+  },
+  {
+    "text": "近接",
+    "value": 63
+  },
+  {
+    "text": "準備",
+    "value": 63
+  },
+  {
+    "text": "収集",
+    "value": 63
+  },
+  {
+    "text": "補修",
+    "value": 63
+  },
+  {
+    "text": "所",
+    "value": 60
+  },
+  {
+    "text": "作業",
+    "value": 60
+  },
+  {
+    "text": "費用",
+    "value": 60
+  },
+  {
+    "text": "南",
+    "value": 60
+  },
+  {
+    "text": "六",
+    "value": 60
+  },
+  {
+    "text": "予約",
+    "value": 60
+  },
+  {
+    "text": "定期",
+    "value": 60
+  },
+  {
+    "text": "都立",
+    "value": 60
+  },
+  {
+    "text": "河岸",
+    "value": 60
+  },
+  {
+    "text": "回線",
+    "value": 57
+  },
+  {
+    "text": "Ⅲ",
+    "value": 57
+  },
+  {
+    "text": "防災",
+    "value": 57
+  },
+  {
+    "text": "草刈",
+    "value": 57
+  },
+  {
+    "text": "局",
+    "value": 54
+  },
+  {
+    "text": "通信",
+    "value": 54
+  },
+  {
+    "text": "回",
+    "value": 54
+  },
+  {
+    "text": "隅田川",
+    "value": 54
+  },
+  {
+    "text": "意見",
+    "value": 54
+  },
+  {
+    "text": "葛",
+    "value": 54
+  },
+  {
+    "text": "調布",
+    "value": 54
+  },
+  {
+    "text": "植物",
+    "value": 51
+  },
+  {
+    "text": "追録",
+    "value": 51
+  },
+  {
+    "text": "杉並",
+    "value": 51
+  },
+  {
+    "text": "補足",
+    "value": 51
+  },
+  {
+    "text": "水門",
+    "value": 51
+  },
+  {
+    "text": "調節",
+    "value": 51
+  },
+  {
+    "text": "池",
+    "value": 51
+  },
+  {
+    "text": "東部",
+    "value": 51
+  },
+  {
+    "text": "報酬",
+    "value": 51
+  },
+  {
+    "text": "･･",
+    "value": 51
+  },
+  {
+    "text": "四半期",
+    "value": 48
+  },
+  {
+    "text": "残額",
+    "value": 48
+  },
+  {
+    "text": "足立",
+    "value": 48
+  },
+  {
+    "text": "豊",
+    "value": 48
+  },
+  {
+    "text": "台",
+    "value": 48
+  },
+  {
+    "text": "箇所",
+    "value": 48
+  },
+  {
+    "text": "北多摩",
+    "value": 48
+  },
+  {
+    "text": "多摩",
+    "value": 45
+  },
+  {
+    "text": "中野",
+    "value": 45
+  },
+  {
+    "text": "水道",
+    "value": 45
+  },
+  {
+    "text": "地下",
+    "value": 45
+  },
+  {
+    "text": "共同",
+    "value": 45
+  },
+  {
+    "text": "医",
+    "value": 45
+  },
+  {
+    "text": "ごみ",
+    "value": 45
+  },
+  {
+    "text": "鑑定",
+    "value": 45
+  },
+  {
+    "text": "昇降",
+    "value": 45
+  },
+  {
+    "text": "冬期",
+    "value": 45
+  },
+  {
+    "text": "/",
+    "value": 45
+  },
+  {
+    "text": "江戸",
+    "value": 45
+  },
+  {
+    "text": "端末",
+    "value": 42
+  },
+  {
+    "text": "カード",
+    "value": 42
+  },
+  {
+    "text": "研修",
+    "value": 42
+  },
+  {
+    "text": "ｼｽﾃﾑ",
+    "value": 42
+  },
+  {
+    "text": "計画",
+    "value": 42
+  },
+  {
+    "text": "携帯",
+    "value": 42
+  },
+  {
+    "text": "西部",
+    "value": 42
+  },
+  {
+    "text": "評価",
+    "value": 42
+  },
+  {
+    "text": "積算",
+    "value": 42
+  },
+  {
+    "text": "江東",
+    "value": 42
+  },
+  {
+    "text": "借入",
+    "value": 39
+  },
+  {
+    "text": "図",
+    "value": 39
+  },
+  {
+    "text": "切手",
+    "value": 39
+  },
+  {
+    "text": "常時",
+    "value": 39
+  },
+  {
+    "text": "室",
+    "value": 39
+  },
+  {
+    "text": "海外",
+    "value": 39
+  },
+  {
+    "text": "役務",
+    "value": 39
+  },
+  {
+    "text": "耐震",
+    "value": 39
+  },
+  {
+    "text": "修正",
+    "value": 39
+  },
+  {
+    "text": "照明",
+    "value": 39
+  },
+  {
+    "text": "園",
+    "value": 39
+  },
+  {
+    "text": "その他",
+    "value": 39
+  },
+  {
+    "text": "会",
+    "value": 39
+  },
+  {
+    "text": "溝",
+    "value": 39
+  },
+  {
+    "text": "環状",
+    "value": 39
+  },
+  {
+    "text": "カラー",
+    "value": 39
+  },
+  {
+    "text": "　-",
+    "value": 39
+  },
+  {
+    "text": "ガス",
+    "value": 39
+  },
+  {
+    "text": "年",
+    "value": 39
+  },
+  {
+    "text": "日野",
+    "value": 39
+  },
+  {
+    "text": "井の頭",
+    "value": 39
+  },
+  {
+    "text": "八丈島",
+    "value": 36
+  },
+  {
+    "text": "サーバ",
+    "value": 36
+  },
+  {
+    "text": "基礎",
+    "value": 36
+  },
+  {
+    "text": "監視",
+    "value": 36
+  },
+  {
+    "text": "改築",
+    "value": 36
+  },
+  {
+    "text": "センター",
+    "value": 36
+  },
+  {
+    "text": "石神井川",
+    "value": 36
+  },
+  {
+    "text": "浚渫",
+    "value": 36
+  },
+  {
+    "text": "残金",
+    "value": 36
+  },
+  {
+    "text": "移設",
+    "value": 36
+  },
+  {
+    "text": "青梅",
+    "value": 36
+  },
+  {
+    "text": "予備",
+    "value": 36
+  },
+  {
+    "text": "　～",
+    "value": 36
+  },
+  {
+    "text": "管内",
+    "value": 36
+  },
+  {
+    "text": "八王子",
+    "value": 36
+  },
+  {
+    "text": "金山",
+    "value": 36
+  },
+  {
+    "text": "郵便",
+    "value": 33
+  },
+  {
+    "text": "印紙",
+    "value": 33
+  },
+  {
+    "text": "都市",
+    "value": 33
+  },
+  {
+    "text": "千代田",
+    "value": 33
+  },
+  {
+    "text": "自転車",
+    "value": 33
+  },
+  {
+    "text": "補強",
+    "value": 33
+  },
+  {
+    "text": "化",
+    "value": 33
+  },
+  {
+    "text": "八",
+    "value": 33
+  },
+  {
+    "text": "築造",
+    "value": 33
+  },
+  {
+    "text": "路",
+    "value": 33
+  },
+  {
+    "text": "中川",
+    "value": 33
+  },
+  {
+    "text": "補助",
+    "value": 33
+  },
+  {
+    "text": "中央",
+    "value": 33
+  },
+  {
+    "text": "内",
+    "value": 33
+  },
+  {
+    "text": "ヶ",
+    "value": 33
+  },
+  {
+    "text": "灯",
+    "value": 33
+  },
+  {
+    "text": "地質",
+    "value": 33
+  },
+  {
+    "text": "合同庁舎",
+    "value": 33
+  },
+  {
+    "text": "西多摩",
+    "value": 33
+  },
+  {
+    "text": "中清戸",
+    "value": 33
+  },
+  {
+    "text": "朝日新聞",
+    "value": 30
+  },
+  {
+    "text": "環境",
+    "value": 30
+  },
+  {
+    "text": "土木",
+    "value": 30
+  },
+  {
+    "text": "立ち",
+    "value": 30
+  },
+  {
+    "text": "建築",
+    "value": 30
+  },
+  {
+    "text": "神代",
+    "value": 30
+  },
+  {
+    "text": "霊園",
+    "value": 30
+  },
+  {
+    "text": "特別",
+    "value": 30
+  },
+  {
+    "text": "地区",
+    "value": 30
+  },
+  {
+    "text": "資源",
+    "value": 30
+  },
+  {
+    "text": "駐車",
+    "value": 30
+  },
+  {
+    "text": "図面",
+    "value": 30
+  },
+  {
+    "text": "器",
+    "value": 30
+  },
+  {
+    "text": "電線",
+    "value": 30
+  },
+  {
+    "text": "街道",
+    "value": 30
+  },
+  {
+    "text": "坂",
+    "value": 30
+  },
+  {
+    "text": "練",
+    "value": 30
+  },
+  {
+    "text": "飾西",
+    "value": 30
+  },
+  {
+    "text": "和田",
+    "value": 30
+  },
+  {
+    "text": "堀",
+    "value": 30
+  },
+  {
+    "text": "印刷",
+    "value": 27
+  },
+  {
+    "text": "提供",
+    "value": 27
+  },
+  {
+    "text": "付",
+    "value": 27
+  },
+  {
+    "text": "概算",
+    "value": 27
+  },
+  {
+    "text": "紙",
+    "value": 27
+  },
+  {
+    "text": "生活",
+    "value": 27
+  },
+  {
+    "text": "再建",
+    "value": 27
+  },
+  {
+    "text": "賠償",
+    "value": 27
+  },
+  {
+    "text": "動物",
+    "value": 27
+  },
+  {
+    "text": "歩道橋",
+    "value": 27
+  },
+  {
+    "text": "ｶﾗｰ",
+    "value": 27
+  },
+  {
+    "text": "対策",
+    "value": 27
+  },
+  {
+    "text": "管",
+    "value": 27
+  },
+  {
+    "text": "一般",
+    "value": 27
+  },
+  {
+    "text": "基本",
+    "value": 27
+  },
+  {
+    "text": "文書",
+    "value": 27
+  },
+  {
+    "text": "しゅんせつ",
+    "value": 27
+  },
+  {
+    "text": "世田谷",
+    "value": 27
+  },
+  {
+    "text": "日本経済新聞",
+    "value": 27
+  },
+  {
+    "text": "台東",
+    "value": 27
+  },
+  {
+    "text": "出張所",
+    "value": 27
+  },
+  {
+    "text": "燃料",
+    "value": 27
+  },
+  {
+    "text": "温室",
+    "value": 27
+  },
+  {
+    "text": "TAIMS",
+    "value": 24
+  },
+  {
+    "text": "保険",
+    "value": 24
+  },
+  {
+    "text": "ETC",
+    "value": 24
+  },
+  {
+    "text": "通行",
+    "value": 24
+  },
+  {
+    "text": "法規",
+    "value": 24
+  },
+  {
+    "text": "図書",
+    "value": 24
+  },
+  {
+    "text": "監督",
+    "value": 24
+  },
+  {
+    "text": "通話",
+    "value": 24
+  },
+  {
+    "text": "購読",
+    "value": 24
+  },
+  {
+    "text": "福生",
+    "value": 24
+  },
+  {
+    "text": "港",
+    "value": 24
+  },
+  {
+    "text": "手数料",
+    "value": 24
+  },
+  {
+    "text": "千駄ヶ谷",
+    "value": 24
+  },
+  {
+    "text": "ｽﾎﾟｰﾂ",
+    "value": 24
+  },
+  {
+    "text": "装置",
+    "value": 24
+  },
+  {
+    "text": "レスナビ",
+    "value": 24
+  },
+  {
+    "text": "泥土",
+    "value": 24
+  },
+  {
+    "text": "目",
+    "value": 24
+  },
+  {
+    "text": "陸橋",
+    "value": 24
+  },
+  {
+    "text": "主",
+    "value": 24
+  },
+  {
+    "text": "善福寺",
+    "value": 24
+  },
+  {
+    "text": "損害",
+    "value": 24
+  },
+  {
+    "text": "説明",
+    "value": 24
+  },
+  {
+    "text": "舗装",
+    "value": 24
+  },
+  {
+    "text": "歩道",
+    "value": 24
+  },
+  {
+    "text": "川北",
+    "value": 24
+  },
+  {
+    "text": "飾東",
+    "value": 24
+  },
+  {
+    "text": "現況",
+    "value": 24
+  },
+  {
+    "text": "南部",
+    "value": 24
+  },
+  {
+    "text": "修理",
+    "value": 24
+  },
+  {
+    "text": "国分寺",
+    "value": 24
+  },
+  {
+    "text": "北部",
+    "value": 24
+  },
+  {
+    "text": "場外",
+    "value": 24
+  },
+  {
+    "text": "便所",
+    "value": 24
+  },
+  {
+    "text": "栽培",
+    "value": 24
+  },
+  {
+    "text": "協定",
+    "value": 21
+  },
+  {
+    "text": "管外",
+    "value": 21
+  },
+  {
+    "text": "有料",
+    "value": 21
+  },
+  {
+    "text": "部",
+    "value": 21
+  },
+  {
+    "text": "日本",
+    "value": 21
+  },
+  {
+    "text": "検査",
+    "value": 21
+  },
+  {
+    "text": "ﾘｰｽ",
+    "value": 21
+  },
+  {
+    "text": "ネットワーク",
+    "value": 21
+  },
+  {
+    "text": "南小岩",
+    "value": 21
+  },
+  {
+    "text": "大崎",
+    "value": 21
+  },
+  {
+    "text": "プリント",
+    "value": 21
+  },
+  {
+    "text": "品川",
+    "value": 21
+  },
+  {
+    "text": "借上げ",
+    "value": 21
+  },
+  {
+    "text": "都道",
+    "value": 21
+  },
+  {
+    "text": "江戸川",
+    "value": 21
+  },
+  {
+    "text": "南東",
+    "value": 21
+  },
+  {
+    "text": "ﾄﾝﾈﾙ",
+    "value": 21
+  },
+  {
+    "text": "野川",
+    "value": 21
+  },
+  {
+    "text": "日比谷公会堂",
+    "value": 21
+  },
+  {
+    "text": "水",
+    "value": 21
+  },
+  {
+    "text": "スポーツ",
+    "value": 21
+  },
+  {
+    "text": "高",
+    "value": 21
+  },
+  {
+    "text": "災害",
+    "value": 21
+  },
+  {
+    "text": "カメラ",
+    "value": 21
+  },
+  {
+    "text": "路上",
+    "value": 21
+  },
+  {
+    "text": "庶務",
+    "value": 21
+  },
+  {
+    "text": "広幅",
+    "value": 21
+  },
+  {
+    "text": "資料",
+    "value": 21
+  },
+  {
+    "text": "交通",
+    "value": 21
+  },
+  {
+    "text": "一括",
+    "value": 21
+  },
+  {
+    "text": "物価",
+    "value": 21
+  },
+  {
+    "text": "供給",
+    "value": 21
+  },
+  {
+    "text": "丁",
+    "value": 21
+  },
+  {
+    "text": "小型",
+    "value": 21
+  },
+  {
+    "text": "神宝",
+    "value": 21
+  },
+  {
+    "text": "空堀",
+    "value": 21
+  },
+  {
+    "text": "無線",
+    "value": 18
+  },
+  {
+    "text": "現行",
+    "value": 18
+  },
+  {
+    "text": "自賠責",
+    "value": 18
+  },
+  {
+    "text": "リース",
+    "value": 18
+  },
+  {
+    "text": "再々",
+    "value": 18
+  },
+  {
+    "text": "ｾｷｭﾘﾃｨｷｬﾋﾞﾈｯﾄ",
+    "value": 18
+  },
+  {
+    "text": "大井",
+    "value": 18
+  },
+  {
+    "text": "復旧",
+    "value": 18
+  },
+  {
+    "text": "書籍",
+    "value": 18
+  },
+  {
+    "text": "練馬",
+    "value": 18
+  },
+  {
+    "text": "運営",
+    "value": 18
+  },
+  {
+    "text": "追給",
+    "value": 18
+  },
+  {
+    "text": "うち",
+    "value": 18
+  },
+  {
+    "text": "路線",
+    "value": 18
+  },
+  {
+    "text": "庭園",
+    "value": 18
+  },
+  {
+    "text": "臨海",
+    "value": 18
+  },
+  {
+    "text": "河",
+    "value": 18
+  },
+  {
+    "text": "区域",
+    "value": 18
+  },
+  {
+    "text": "テラス",
+    "value": 18
+  },
+  {
+    "text": "検討",
+    "value": 18
+  },
+  {
+    "text": "溶解",
+    "value": 18
+  },
+  {
+    "text": "第一建設",
+    "value": 18
+  },
+  {
+    "text": "障害",
+    "value": 18
+  },
+  {
+    "text": "収用",
+    "value": 18
+  },
+  {
+    "text": "仮設",
+    "value": 18
+  },
+  {
+    "text": "リサイクル",
+    "value": 18
+  },
+  {
+    "text": "荒川",
+    "value": 18
+  },
+  {
+    "text": "文京",
+    "value": 18
+  },
+  {
+    "text": "奥多摩",
+    "value": 18
+  },
+  {
+    "text": "受講",
+    "value": 18
+  },
+  {
+    "text": "乗用",
+    "value": 18
+  },
+  {
+    "text": "収納",
+    "value": 15
+  },
+  {
+    "text": "帯",
+    "value": 15
+  },
+  {
+    "text": "デジタル",
+    "value": 15
+  },
+  {
+    "text": ".",
+    "value": 15
+  },
+  {
+    "text": "HP",
+    "value": 15
+  },
+  {
+    "text": "スキャナー",
+    "value": 15
+  },
+  {
+    "text": "賃貸借",
+    "value": 15
+  },
+  {
+    "text": "他",
+    "value": 15
+  },
+  {
+    "text": "重量",
+    "value": 15
+  },
+  {
+    "text": "税",
+    "value": 15
+  },
+  {
+    "text": "必要",
+    "value": 15
+  },
+  {
+    "text": "支援",
+    "value": 15
+  },
+  {
+    "text": "電子",
+    "value": 15
+  },
+  {
+    "text": "貸付",
+    "value": 15
+  },
+  {
+    "text": "収入",
+    "value": 15
+  },
+  {
+    "text": "用途",
+    "value": 15
+  },
+  {
+    "text": "編",
+    "value": 15
+  },
+  {
+    "text": "借地",
+    "value": 15
+  },
+  {
+    "text": "ﾌﾟﾗﾝﾅｰ",
+    "value": 15
+  },
+  {
+    "text": "上",
+    "value": 15
+  },
+  {
+    "text": "台帳",
+    "value": 15
+  },
+  {
+    "text": "モバイルルーター",
+    "value": 15
+  },
+  {
+    "text": "/～　",
+    "value": 15
+  },
+  {
+    "text": "占",
+    "value": 15
+  },
+  {
+    "text": "長寿",
+    "value": 15
+  },
+  {
+    "text": "命",
+    "value": 15
+  },
+  {
+    "text": "法",
+    "value": 15
+  },
+  {
+    "text": "/～/　",
+    "value": 15
+  },
+  {
+    "text": "街",
+    "value": 15
+  },
+  {
+    "text": "宿",
+    "value": 15
+  },
+  {
+    "text": "県",
+    "value": 15
+  },
+  {
+    "text": "大泉",
+    "value": 15
+  },
+  {
+    "text": "確定",
+    "value": 15
+  },
+  {
+    "text": "監理",
+    "value": 15
+  },
+  {
+    "text": "葛西",
+    "value": 15
+  },
+  {
+    "text": "館",
+    "value": 15
+  },
+  {
+    "text": "ｾﾝﾀｰ",
+    "value": 15
+  },
+  {
+    "text": "技術",
+    "value": 15
+  },
+  {
+    "text": "講習",
+    "value": 15
+  },
+  {
+    "text": "水防",
+    "value": 15
+  },
+  {
+    "text": "総合",
+    "value": 15
+  },
+  {
+    "text": "防潮",
+    "value": 15
+  },
+  {
+    "text": "堤",
+    "value": 15
+  },
+  {
+    "text": "護岸",
+    "value": 15
+  },
+  {
+    "text": "上流",
+    "value": 15
+  },
+  {
+    "text": "旅行",
+    "value": 15
+  },
+  {
+    "text": "標識",
+    "value": 15
+  },
+  {
+    "text": "概要",
+    "value": 15
+  },
+  {
+    "text": "交換",
+    "value": 15
+  },
+  {
+    "text": "地下道",
+    "value": 15
+  },
+  {
+    "text": "桜",
+    "value": 15
+  },
+  {
+    "text": "公私",
+    "value": 15
+  },
+  {
+    "text": "長",
+    "value": 15
+  },
+  {
+    "text": "寿命",
+    "value": 15
+  },
+  {
+    "text": "分水",
+    "value": 15
+  },
+  {
+    "text": "橋りょう",
+    "value": 15
+  },
+  {
+    "text": "中",
+    "value": 15
+  },
+  {
+    "text": "敷地",
+    "value": 15
+  },
+  {
+    "text": "梅屋敷",
+    "value": 15
+  },
+  {
+    "text": "取水",
+    "value": 15
+  },
+  {
+    "text": "下流",
+    "value": 15
+  },
+  {
+    "text": "樹木",
+    "value": 15
+  },
+  {
+    "text": "市外",
+    "value": 15
+  },
+  {
+    "text": "会場",
+    "value": 15
+  },
+  {
+    "text": "最終",
+    "value": 15
+  },
+  {
+    "text": "保障",
+    "value": 15
+  },
+  {
+    "text": "約款",
+    "value": 15
+  },
+  {
+    "text": "板",
+    "value": 15
+  },
+  {
+    "text": "CCB",
+    "value": 15
+  },
+  {
+    "text": "機械",
+    "value": 15
+  },
+  {
+    "text": "Ⅱ",
+    "value": 15
+  },
+  {
+    "text": "福",
+    "value": 15
+  },
+  {
+    "text": "秋川",
+    "value": 15
+  },
+  {
+    "text": "防除",
+    "value": 15
+  },
+  {
+    "text": "プロパンガス",
+    "value": 15
+  },
+  {
+    "text": "平山",
+    "value": 15
+  },
+  {
+    "text": "西東京",
+    "value": 15
+  },
+  {
+    "text": "府中",
+    "value": 15
+  },
+  {
+    "text": "^",
+    "value": 15
+  },
+  {
+    "text": "篠崎",
+    "value": 15
+  },
+  {
+    "text": "祖師谷",
+    "value": 15
+  },
+  {
+    "text": "職員",
+    "value": 12
+  },
+  {
+    "text": "事務",
+    "value": 12
+  },
+  {
+    "text": "小笠原",
+    "value": 12
+  },
+  {
+    "text": "境界",
+    "value": 12
+  },
+  {
+    "text": "後納",
+    "value": 12
+  },
+  {
+    "text": "診断",
+    "value": 12
+  },
+  {
+    "text": "取得",
+    "value": 12
+  },
+  {
+    "text": "住宅",
+    "value": 12
+  },
+  {
+    "text": "プランナー",
+    "value": 12
+  },
+  {
+    "text": "戸越",
+    "value": 12
+  },
+  {
+    "text": "代沢",
+    "value": 12
+  },
+  {
+    "text": "共",
+    "value": 12
+  },
+  {
+    "text": "大田",
+    "value": 12
+  },
+  {
+    "text": "虎ノ門",
+    "value": 12
+  },
+  {
+    "text": "走行",
+    "value": 12
+  },
+  {
+    "text": "豊島",
+    "value": 12
+  },
+  {
+    "text": "空調",
+    "value": 12
+  },
+  {
+    "text": "集",
+    "value": 12
+  },
+  {
+    "text": "墨田",
+    "value": 12
+  },
+  {
+    "text": "施行",
+    "value": 12
+  },
+  {
+    "text": "負担",
+    "value": 12
+  },
+  {
+    "text": "七",
+    "value": 12
+  },
+  {
+    "text": "シュレッダー",
+    "value": 12
+  },
+  {
+    "text": "常用",
+    "value": 12
+  },
+  {
+    "text": "接地",
+    "value": 12
+  },
+  {
+    "text": "立体",
+    "value": 12
+  },
+  {
+    "text": "戸山",
+    "value": 12
+  },
+  {
+    "text": "浜離宮",
+    "value": 12
+  },
+  {
+    "text": "払金",
+    "value": 12
+  },
+  {
+    "text": "報償",
+    "value": 12
+  },
+  {
+    "text": "夢の島",
+    "value": 12
+  },
+  {
+    "text": "熱帯",
+    "value": 12
+  },
+  {
+    "text": "還付",
+    "value": 12
+  },
+  {
+    "text": "行政",
+    "value": 12
+  },
+  {
+    "text": "水辺",
+    "value": 12
+  },
+  {
+    "text": "保全",
+    "value": 12
+  },
+  {
+    "text": "類",
+    "value": 12
+  },
+  {
+    "text": "新中川",
+    "value": 12
+  },
+  {
+    "text": "妙",
+    "value": 12
+  },
+  {
+    "text": "寺川",
+    "value": 12
+  },
+  {
+    "text": "下水道",
+    "value": 12
+  },
+  {
+    "text": "新河岸川",
+    "value": 12
+  },
+  {
+    "text": "完",
+    "value": 12
+  },
+  {
+    "text": "側溝",
+    "value": 12
+  },
+  {
+    "text": "事件",
+    "value": 12
+  },
+  {
+    "text": "三建設事務所管理工区等庁舎清掃委託",
+    "value": 12
+  },
+  {
+    "text": "白鷺",
+    "value": 12
+  },
+  {
+    "text": "日刊",
+    "value": 12
+  },
+  {
+    "text": "読売新聞",
+    "value": 12
+  },
+  {
+    "text": "量",
+    "value": 12
+  },
+  {
+    "text": "改良",
+    "value": 12
+  },
+  {
+    "text": "支障",
+    "value": 12
+  },
+  {
+    "text": "申請",
+    "value": 12
+  },
+  {
+    "text": "設営",
+    "value": 12
+  },
+  {
+    "text": "面",
+    "value": 12
+  },
+  {
+    "text": "前金",
+    "value": 12
+  },
+  {
+    "text": "ｶﾞｿﾘﾝ",
+    "value": 12
+  },
+  {
+    "text": "放射",
+    "value": 12
+  },
+  {
+    "text": "棟",
+    "value": 12
+  },
+  {
+    "text": "川南",
+    "value": 12
+  },
+  {
+    "text": "除草",
+    "value": 12
+  },
+  {
+    "text": "券",
+    "value": 12
+  },
+  {
+    "text": "月給",
+    "value": 12
+  },
+  {
+    "text": "油",
+    "value": 12
+  },
+  {
+    "text": "代",
+    "value": 12
+  },
+  {
+    "text": "霞",
+    "value": 12
+  },
+  {
+    "text": "砂防",
+    "value": 12
+  },
+  {
+    "text": "及",
+    "value": 12
+  },
+  {
+    "text": "奥",
+    "value": 12
+  },
+  {
+    "text": "教育",
+    "value": 12
+  },
+  {
+    "text": "構造",
+    "value": 12
+  },
+  {
+    "text": "残堀",
+    "value": 12
+  },
+  {
+    "text": "水位",
+    "value": 12
+  },
+  {
+    "text": "小山",
+    "value": 12
+  },
+  {
+    "text": "金属",
+    "value": 12
+  },
+  {
+    "text": "プラ",
+    "value": 12
+  },
+  {
+    "text": "落川",
+    "value": 12
+  },
+  {
+    "text": "松が谷",
+    "value": 12
+  },
+  {
+    "text": "武蔵野",
+    "value": 12
+  },
+  {
+    "text": "ｻ",
+    "value": 12
+  },
+  {
+    "text": "ﾋﾞｽ",
+    "value": 12
+  },
+  {
+    "text": "産廃",
+    "value": 12
+  },
+  {
+    "text": "奈良橋",
+    "value": 12
+  },
+  {
+    "text": "昭島",
+    "value": 12
+  },
+  {
+    "text": "休憩",
+    "value": 12
+  },
+  {
+    "text": "舎",
+    "value": 12
+  },
+  {
+    "text": "森",
+    "value": 12
+  },
+  {
+    "text": "官報",
+    "value": 9
+  },
+  {
+    "text": "MCA",
+    "value": 9
+  },
+  {
+    "text": "プリンター",
+    "value": 9
+  },
+  {
+    "text": "前",
+    "value": 9
+  },
+  {
+    "text": "総務",
+    "value": 9
+  },
+  {
+    "text": "出勤",
+    "value": 9
+  },
+  {
+    "text": "認証",
+    "value": 9
+  },
+  {
+    "text": "普通",
+    "value": 9
+  },
+  {
+    "text": "地図",
+    "value": 9
+  },
+  {
+    "text": "電",
+    "value": 9
+  },
+  {
+    "text": "西口",
+    "value": 9
+  },
+  {
+    "text": "モノレール",
+    "value": 9
+  },
+  {
+    "text": "区画",
+    "value": 9
+  },
+  {
+    "text": "規模",
+    "value": 9
+  },
+  {
+    "text": "調書",
+    "value": 9
+  },
+  {
+    "text": "築地",
+    "value": 9
+  },
+  {
+    "text": "画像",
+    "value": 9
+  },
+  {
+    "text": "目黒",
+    "value": 9
+  },
+  {
+    "text": "/～",
+    "value": 9
+  },
+  {
+    "text": "以外",
+    "value": 9
+  },
+  {
+    "text": "大橋",
+    "value": 9
+  },
+  {
+    "text": "関係",
+    "value": 9
+  },
+  {
+    "text": "内装",
+    "value": 9
+  },
+  {
+    "text": "跨線橋",
+    "value": 9
+  },
+  {
+    "text": "パンフレット",
+    "value": 9
+  },
+  {
+    "text": "横断",
+    "value": 9
+  },
+  {
+    "text": "北町",
+    "value": 9
+  },
+  {
+    "text": "委託料",
+    "value": 9
+  },
+  {
+    "text": "払旅",
+    "value": 9
+  },
+  {
+    "text": "ﾌﾟﾘﾝﾄｻｰﾋﾞｽ",
+    "value": 9
+  },
+  {
+    "text": "日比谷公園",
+    "value": 9
+  },
+  {
+    "text": "多磨",
+    "value": 9
+  },
+  {
+    "text": "葬儀",
+    "value": 9
+  },
+  {
+    "text": "ﾚｽｷｭｰﾅﾋﾞｹﾞｰｼｮﾝ",
+    "value": 9
+  },
+  {
+    "text": "代々木公園",
+    "value": 9
+  },
+  {
+    "text": "西園",
+    "value": 9
+  },
+  {
+    "text": "LAN",
+    "value": 9
+  },
+  {
+    "text": "MacOS",
+    "value": 9
+  },
+  {
+    "text": "検証",
+    "value": 9
+  },
+  {
+    "text": "電話機",
+    "value": 9
+  },
+  {
+    "text": "水面",
+    "value": 9
+  },
+  {
+    "text": "分室",
+    "value": 9
+  },
+  {
+    "text": "ため",
+    "value": 9
+  },
+  {
+    "text": "時間",
+    "value": 9
+  },
+  {
+    "text": "神田",
+    "value": 9
+  },
+  {
+    "text": "大栗",
+    "value": 9
+  },
+  {
+    "text": "城山",
+    "value": 9
+  },
+  {
+    "text": "城北",
+    "value": 9
+  },
+  {
+    "text": "左岸",
+    "value": 9
+  },
+  {
+    "text": "綾瀬川",
+    "value": 9
+  },
+  {
+    "text": "郵券",
+    "value": 9
+  },
+  {
+    "text": "選任",
+    "value": 9
+  },
+  {
+    "text": "高速",
+    "value": 9
+  },
+  {
+    "text": "撤去",
+    "value": 9
+  },
+  {
+    "text": "ジャーナル",
+    "value": 9
+  },
+  {
+    "text": "西大井",
+    "value": 9
+  },
+  {
+    "text": "東馬込",
+    "value": 9
+  },
+  {
+    "text": "宮坂",
+    "value": 9
+  },
+  {
+    "text": "ポンプ",
+    "value": 9
+  },
+  {
+    "text": "植樹",
+    "value": 9
+  },
+  {
+    "text": "鷹",
+    "value": 9
+  },
+  {
+    "text": "エレベータ",
+    "value": 9
+  },
+  {
+    "text": "塗装",
+    "value": 9
+  },
+  {
+    "text": "高圧",
+    "value": 9
+  },
+  {
+    "text": "受電",
+    "value": 9
+  },
+  {
+    "text": "大和",
+    "value": 9
+  },
+  {
+    "text": "薬王寺",
+    "value": 9
+  },
+  {
+    "text": "発電",
+    "value": 9
+  },
+  {
+    "text": "マイク",
+    "value": 9
+  },
+  {
+    "text": "市内",
+    "value": 9
+  },
+  {
+    "text": "鋼材",
+    "value": 9
+  },
+  {
+    "text": "交差点",
+    "value": 9
+  },
+  {
+    "text": "電動",
+    "value": 9
+  },
+  {
+    "text": "自動",
+    "value": 9
+  },
+  {
+    "text": "石神井",
+    "value": 9
+  },
+  {
+    "text": "警報",
+    "value": 9
+  },
+  {
+    "text": "レター",
+    "value": 9
+  },
+  {
+    "text": "パック",
+    "value": 9
+  },
+  {
+    "text": "通知",
+    "value": 9
+  },
+  {
+    "text": "ｽｷｬﾅｰ",
+    "value": 9
+  },
+  {
+    "text": "対象",
+    "value": 9
+  },
+  {
+    "text": "暴力",
+    "value": 9
+  },
+  {
+    "text": "家屋",
+    "value": 9
+  },
+  {
+    "text": "小学校",
+    "value": 9
+  },
+  {
+    "text": "旧江戸川",
+    "value": 9
+  },
+  {
+    "text": "新小岩",
+    "value": 9
+  },
+  {
+    "text": "橋架",
+    "value": 9
+  },
+  {
+    "text": "空間",
+    "value": 9
+  },
+  {
+    "text": "防護",
+    "value": 9
+  },
+  {
+    "text": "ＥＴＣ",
+    "value": 9
+  },
+  {
+    "text": "神明南",
+    "value": 9
+  },
+  {
+    "text": "回分",
+    "value": 9
+  },
+  {
+    "text": "輪",
+    "value": 9
+  },
+  {
+    "text": "放送",
+    "value": 9
+  },
+  {
+    "text": "スタッドレスタイヤ",
+    "value": 9
+  },
+  {
+    "text": "貸借",
+    "value": 9
+  },
+  {
+    "text": "丹三郎",
+    "value": 9
+  },
+  {
+    "text": "沢",
+    "value": 9
+  },
+  {
+    "text": "A",
+    "value": 9
+  },
+  {
+    "text": "委",
+    "value": 9
+  },
+  {
+    "text": "施工",
+    "value": 9
+  },
+  {
+    "text": "南岸",
+    "value": 9
+  },
+  {
+    "text": "安定",
+    "value": 9
+  },
+  {
+    "text": "ロール",
+    "value": 9
+  },
+  {
+    "text": "状",
+    "value": 9
+  },
+  {
+    "text": "草刈り",
+    "value": 9
+  },
+  {
+    "text": "師",
+    "value": 9
+  },
+  {
+    "text": "仮",
+    "value": 9
+  },
+  {
+    "text": "部材",
+    "value": 9
+  },
+  {
+    "text": "主要",
+    "value": 9
+  },
+  {
+    "text": "地方",
+    "value": 9
+  },
+  {
+    "text": "あきる野",
+    "value": 9
+  },
+  {
+    "text": "国立",
+    "value": 9
+  },
+  {
+    "text": "版",
+    "value": 9
+  },
+  {
+    "text": "現地",
+    "value": 9
+  },
+  {
+    "text": "擁",
+    "value": 9
+  },
+  {
+    "text": "壁",
+    "value": 9
+  },
+  {
+    "text": "東伏見",
+    "value": 9
+  },
+  {
+    "text": "国領",
+    "value": 9
+  },
+  {
+    "text": "新設",
+    "value": 9
+  },
+  {
+    "text": "需給",
+    "value": 9
+  },
+  {
+    "text": "黒目",
+    "value": 9
+  },
+  {
+    "text": "宮前",
+    "value": 9
+  },
+  {
+    "text": "二の橋",
+    "value": 9
+  },
+  {
+    "text": "保谷",
+    "value": 9
+  },
+  {
+    "text": "ﾚﾀﾊﾟ",
+    "value": 9
+  },
+  {
+    "text": "在庫",
+    "value": 9
+  },
+  {
+    "text": "試験",
+    "value": 9
+  },
+  {
+    "text": "ｾﾐﾅｰ",
+    "value": 9
+  },
+  {
+    "text": "ﾃｷｽﾄ",
+    "value": 9
+  },
+  {
+    "text": "夜間",
+    "value": 9
+  },
+  {
+    "text": "案内",
+    "value": 9
+  },
+  {
+    "text": "林地",
+    "value": 9
+  },
+  {
+    "text": "本",
+    "value": 9
+  },
+  {
+    "text": "新川",
+    "value": 9
+  },
+  {
+    "text": "扇橋",
+    "value": 9
+  },
+  {
+    "text": "閘門",
+    "value": 9
+  },
+  {
+    "text": "ボックス",
+    "value": 6
+  },
+  {
+    "text": "MHz",
+    "value": 6
+  },
+  {
+    "text": "ホテル",
+    "value": 6
+  },
+  {
+    "text": "まち",
+    "value": 6
+  },
+  {
+    "text": "づくり",
+    "value": 6
+  },
+  {
+    "text": "NO",
+    "value": 6
+  },
+  {
+    "text": "監",
+    "value": 6
+  },
+  {
+    "text": "派遣",
+    "value": 6
+  },
+  {
+    "text": "インターネット",
+    "value": 6
+  },
+  {
+    "text": "会議",
+    "value": 6
+  },
+  {
+    "text": "任意",
+    "value": 6
+  },
+  {
+    "text": "ブルーレイディスクレコーダー",
+    "value": 6
+  },
+  {
+    "text": "登記",
+    "value": 6
+  },
+  {
+    "text": "総覧",
+    "value": 6
+  },
+  {
+    "text": "加入",
+    "value": 6
+  },
+  {
+    "text": "指定",
+    "value": 6
+  },
+  {
+    "text": "AD",
+    "value": 6
+  },
+  {
+    "text": "ソフトウェア",
+    "value": 6
+  },
+  {
+    "text": "調達",
+    "value": 6
+  },
+  {
+    "text": "納品",
+    "value": 6
+  },
+  {
+    "text": "PC",
+    "value": 6
+  },
+  {
+    "text": "ＦＳ",
+    "value": 6
+  },
+  {
+    "text": "増設",
+    "value": 6
+  },
+  {
+    "text": "ディスク",
+    "value": 6
+  },
+  {
+    "text": "共有",
+    "value": 6
+  },
+  {
+    "text": "Web",
+    "value": 6
+  },
+  {
+    "text": "ファイル",
+    "value": 6
+  },
+  {
+    "text": "及賃",
+    "value": 6
+  },
+  {
+    "text": "借料",
+    "value": 6
+  },
+  {
+    "text": "方式",
+    "value": 6
+  },
+  {
+    "text": "権",
+    "value": 6
+  },
+  {
+    "text": "消滅",
+    "value": 6
+  },
+  {
+    "text": "閲覧",
+    "value": 6
+  },
+  {
+    "text": "長崎",
+    "value": 6
+  },
+  {
+    "text": "法律",
+    "value": 6
+  },
+  {
+    "text": "相談",
+    "value": 6
+  },
+  {
+    "text": "口座",
+    "value": 6
+  },
+  {
+    "text": "振替",
+    "value": 6
+  },
+  {
+    "text": "裁決",
+    "value": 6
+  },
+  {
+    "text": "広場",
+    "value": 6
+  },
+  {
+    "text": "借り入れ",
+    "value": 6
+  },
+  {
+    "text": "責任",
+    "value": 6
+  },
+  {
+    "text": "型",
+    "value": 6
+  },
+  {
+    "text": "計測",
+    "value": 6
+  },
+  {
+    "text": "死体",
+    "value": 6
+  },
+  {
+    "text": "永富",
+    "value": 6
+  },
+  {
+    "text": "連絡",
+    "value": 6
+  },
+  {
+    "text": "緩衝",
+    "value": 6
+  },
+  {
+    "text": "増刷",
+    "value": 6
+  },
+  {
+    "text": "データ",
+    "value": 6
+  },
+  {
+    "text": "通り",
+    "value": 6
+  },
+  {
+    "text": "赴任",
+    "value": 6
+  },
+  {
+    "text": "こ",
+    "value": 6
+  },
+  {
+    "text": "人道",
+    "value": 6
+  },
+  {
+    "text": "上部",
+    "value": 6
+  },
+  {
+    "text": "需",
+    "value": 6
+  },
+  {
+    "text": "大阪",
+    "value": 6
+  },
+  {
+    "text": "府",
+    "value": 6
+  },
+  {
+    "text": "青ヶ島",
+    "value": 6
+  },
+  {
+    "text": "防止",
+    "value": 6
+  },
+  {
+    "text": "様式",
+    "value": 6
+  },
+  {
+    "text": "破傷風",
+    "value": 6
+  },
+  {
+    "text": "予防",
+    "value": 6
+  },
+  {
+    "text": "接種",
+    "value": 6
+  },
+  {
+    "text": "交差",
+    "value": 6
+  },
+  {
+    "text": "賃料",
+    "value": 6
+  },
+  {
+    "text": "長沼",
+    "value": 6
+  },
+  {
+    "text": "瑞江",
+    "value": 6
+  },
+  {
+    "text": "白",
+    "value": 6
+  },
+  {
+    "text": "鬚",
+    "value": 6
+  },
+  {
+    "text": "ｸﾗｳﾄﾞ",
+    "value": 6
+  },
+  {
+    "text": "払霊",
+    "value": 6
+  },
+  {
+    "text": "水元公園",
+    "value": 6
+  },
+  {
+    "text": "花",
+    "value": 6
+  },
+  {
+    "text": "族",
+    "value": 6
+  },
+  {
+    "text": "横網",
+    "value": 6
+  },
+  {
+    "text": "広域",
+    "value": 6
+  },
+  {
+    "text": "猿江",
+    "value": 6
+  },
+  {
+    "text": "埋蔵",
+    "value": 6
+  },
+  {
+    "text": "終了",
+    "value": 6
+  },
+  {
+    "text": "公衆",
+    "value": 6
+  },
+  {
+    "text": "船舶",
+    "value": 6
+  },
+  {
+    "text": "船",
+    "value": 6
+  },
+  {
+    "text": "FRICS",
+    "value": 6
+  },
+  {
+    "text": "ｲﾝﾀｰﾈｯﾄ",
+    "value": 6
+  },
+  {
+    "text": "制御",
+    "value": 6
+  },
+  {
+    "text": "災",
+    "value": 6
+  },
+  {
+    "text": "土砂",
+    "value": 6
+  },
+  {
+    "text": "警戒",
+    "value": 6
+  },
+  {
+    "text": "中小",
+    "value": 6
+  },
+  {
+    "text": "白鬚橋",
+    "value": 6
+  },
+  {
+    "text": "上下",
+    "value": 6
+  },
+  {
+    "text": "新島",
+    "value": 6
+  },
+  {
+    "text": "羽伏浦",
+    "value": 6
+  },
+  {
+    "text": "海岸",
+    "value": 6
+  },
+  {
+    "text": "侵食",
+    "value": 6
+  },
+  {
+    "text": "委員",
+    "value": 6
+  },
+  {
+    "text": "上平井",
+    "value": 6
+  },
+  {
+    "text": "竪",
+    "value": 6
+  },
+  {
+    "text": "日比谷",
+    "value": 6
+  },
+  {
+    "text": "新橋",
+    "value": 6
+  },
+  {
+    "text": "モニター",
+    "value": 6
+  },
+  {
+    "text": "港南",
+    "value": 6
+  },
+  {
+    "text": "廃車",
+    "value": 6
+  },
+  {
+    "text": "六本木",
+    "value": 6
+  },
+  {
+    "text": "乃木坂",
+    "value": 6
+  },
+  {
+    "text": "消毒",
+    "value": 6
+  },
+  {
+    "text": "コピー",
+    "value": 6
+  },
+  {
+    "text": "エレベーター",
+    "value": 6
+  },
+  {
+    "text": "三宿",
+    "value": 6
+  },
+  {
+    "text": "上祖師谷",
+    "value": 6
+  },
+  {
+    "text": "安全灯",
+    "value": 6
+  },
+  {
+    "text": "階",
+    "value": 6
+  },
+  {
+    "text": "谷",
+    "value": 6
+  },
+  {
+    "text": "平和",
+    "value": 6
+  },
+  {
+    "text": "活動",
+    "value": 6
+  },
+  {
+    "text": "塗",
+    "value": 6
+  },
+  {
+    "text": "膜",
+    "value": 6
+  },
+  {
+    "text": "有害",
+    "value": 6
+  },
+  {
+    "text": "物質",
+    "value": 6
+  },
+  {
+    "text": "緑化",
+    "value": 6
+  },
+  {
+    "text": "モノクロ",
+    "value": 6
+  },
+  {
+    "text": "廃材",
+    "value": 6
+  },
+  {
+    "text": "消火",
+    "value": 6
+  },
+  {
+    "text": "給排水",
+    "value": 6
+  },
+  {
+    "text": "号線",
+    "value": 6
+  },
+  {
+    "text": "レンガタガネ",
+    "value": 6
+  },
+  {
+    "text": "背",
+    "value": 6
+  },
+  {
+    "text": "マクラ",
+    "value": 6
+  },
+  {
+    "text": "スピーカー",
+    "value": 6
+  },
+  {
+    "text": "カレンダー",
+    "value": 6
+  },
+  {
+    "text": "体外",
+    "value": 6
+  },
+  {
+    "text": "式",
+    "value": 6
+  },
+  {
+    "text": "除",
+    "value": 6
+  },
+  {
+    "text": "細",
+    "value": 6
+  },
+  {
+    "text": "動",
+    "value": 6
+  },
+  {
+    "text": "AED",
+    "value": 6
+  },
+  {
+    "text": "ﾎﾞｯｸｽ",
+    "value": 6
+  },
+  {
+    "text": "搬入",
+    "value": 6
+  },
+  {
+    "text": "春日",
+    "value": 6
+  },
+  {
+    "text": "設",
+    "value": 6
+  },
+  {
+    "text": "熊野",
+    "value": 6
+  },
+  {
+    "text": "大型",
+    "value": 6
+  },
+  {
+    "text": "小竹",
+    "value": 6
+  },
+  {
+    "text": "白子",
+    "value": 6
+  },
+  {
+    "text": "石",
+    "value": 6
+  },
+  {
+    "text": "改善",
+    "value": 6
+  },
+  {
+    "text": "ONEST",
+    "value": 6
+  },
+  {
+    "text": "南大塚",
+    "value": 6
+  },
+  {
+    "text": "ビル",
+    "value": 6
+  },
+  {
+    "text": "検知",
+    "value": 6
+  },
+  {
+    "text": "古紙",
+    "value": 6
+  },
+  {
+    "text": "蓮根",
+    "value": 6
+  },
+  {
+    "text": "高島平",
+    "value": 6
+  },
+  {
+    "text": "駅",
+    "value": 6
+  },
+  {
+    "text": "換気",
+    "value": 6
+  },
+  {
+    "text": "袋",
+    "value": 6
+  },
+  {
+    "text": "概略",
+    "value": 6
+  },
+  {
+    "text": "自営",
+    "value": 6
+  },
+  {
+    "text": "構内",
+    "value": 6
+  },
+  {
+    "text": "八広",
+    "value": 6
+  },
+  {
+    "text": "所内",
+    "value": 6
+  },
+  {
+    "text": "船堀",
+    "value": 6
+  },
+  {
+    "text": "総武",
+    "value": 6
+  },
+  {
+    "text": "奥戸",
+    "value": 6
+  },
+  {
+    "text": "軽油",
+    "value": 6
+  },
+  {
+    "text": "木造",
+    "value": 6
+  },
+  {
+    "text": "柴又",
+    "value": 6
+  },
+  {
+    "text": "係留",
+    "value": 6
+  },
+  {
+    "text": "材料",
+    "value": 6
+  },
+  {
+    "text": "グレーチング",
+    "value": 6
+  },
+  {
+    "text": "下",
+    "value": 6
+  },
+  {
+    "text": "アンダー",
+    "value": 6
+  },
+  {
+    "text": "パス",
+    "value": 6
+  },
+  {
+    "text": "モバイルチョイス",
+    "value": 6
+  },
+  {
+    "text": "花畑",
+    "value": 6
+  },
+  {
+    "text": "総額",
+    "value": 6
+  },
+  {
+    "text": "ﾃﾗｽ",
+    "value": 6
+  },
+  {
+    "text": "尾長",
+    "value": 6
+  },
+  {
+    "text": "汚水",
+    "value": 6
+  },
+  {
+    "text": "右岸",
+    "value": 6
+  },
+  {
+    "text": "調整",
+    "value": 6
+  },
+  {
+    "text": "光",
+    "value": 6
+  },
+  {
+    "text": "箱根ヶ崎",
+    "value": 6
+  },
+  {
+    "text": "給油",
+    "value": 6
+  },
+  {
+    "text": "日",
+    "value": 6
+  },
+  {
+    "text": "笹平",
+    "value": 6
+  },
+  {
+    "text": "仮称",
+    "value": 6
+  },
+  {
+    "text": "ロープ",
+    "value": 6
+  },
+  {
+    "text": "志茂",
+    "value": 6
+  },
+  {
+    "text": "平井川",
+    "value": 6
+  },
+  {
+    "text": "伐木",
+    "value": 6
+  },
+  {
+    "text": "参加",
+    "value": 6
+  },
+  {
+    "text": "申込",
+    "value": 6
+  },
+  {
+    "text": "伊奈",
+    "value": 6
+  },
+  {
+    "text": "草花",
+    "value": 6
+  },
+  {
+    "text": "多摩川",
+    "value": 6
+  },
+  {
+    "text": "濃度",
+    "value": 6
+  },
+  {
+    "text": "ＰＣＢ",
+    "value": 6
+  },
+  {
+    "text": "計",
+    "value": 6
+  },
+  {
+    "text": "通訳",
+    "value": 6
+  },
+  {
+    "text": "払渡",
+    "value": 6
+  },
+  {
+    "text": "ビジネス",
+    "value": 6
+  },
+  {
+    "text": "LTE",
+    "value": 6
+  },
+  {
+    "text": "歴",
+    "value": 6
+  },
+  {
+    "text": "傾斜地",
+    "value": 6
+  },
+  {
+    "text": "石川",
+    "value": 6
+  },
+  {
+    "text": "大沢川",
+    "value": 6
+  },
+  {
+    "text": "谷地",
+    "value": 6
+  },
+  {
+    "text": "湯殿",
+    "value": 6
+  },
+  {
+    "text": "兵衛",
+    "value": 6
+  },
+  {
+    "text": "支承",
+    "value": 6
+  },
+  {
+    "text": "便覧",
+    "value": 6
+  },
+  {
+    "text": "平成",
+    "value": 6
+  },
+  {
+    "text": "改訂",
+    "value": 6
+  },
+  {
+    "text": "鋲",
+    "value": 6
+  },
+  {
+    "text": "接続",
+    "value": 6
+  },
+  {
+    "text": "小金井",
+    "value": 6
+  },
+  {
+    "text": "仙川",
+    "value": 6
+  },
+  {
+    "text": "機密",
+    "value": 6
+  },
+  {
+    "text": "関前",
+    "value": 6
+  },
+  {
+    "text": "大沢",
+    "value": 6
+  },
+  {
+    "text": "可燃",
+    "value": 6
+  },
+  {
+    "text": "軽四",
+    "value": 6
+  },
+  {
+    "text": "貨物",
+    "value": 6
+  },
+  {
+    "text": "外道",
+    "value": 6
+  },
+  {
+    "text": "家電",
+    "value": 6
+  },
+  {
+    "text": ".、",
+    "value": 6
+  },
+  {
+    "text": "ﾌｧｸｼﾐﾘ",
+    "value": 6
+  },
+  {
+    "text": "床",
+    "value": 6
+  },
+  {
+    "text": "ゴム印",
+    "value": 6
+  },
+  {
+    "text": "損傷",
+    "value": 6
+  },
+  {
+    "text": "液晶",
+    "value": 6
+  },
+  {
+    "text": "三ツ木",
+    "value": 6
+  },
+  {
+    "text": "久米川",
+    "value": 6
+  },
+  {
+    "text": "芝山",
+    "value": 6
+  },
+  {
+    "text": "音",
+    "value": 6
+  },
+  {
+    "text": "地盤",
+    "value": 6
+  },
+  {
+    "text": "モバイルルータ",
+    "value": 6
+  },
+  {
+    "text": "対応",
+    "value": 6
+  },
+  {
+    "text": "山",
+    "value": 6
+  },
+  {
+    "text": "決済",
+    "value": 6
+  },
+  {
+    "text": "捕獲",
+    "value": 6
+  },
+  {
+    "text": "大戸",
+    "value": 6
+  },
+  {
+    "text": "保育",
+    "value": 6
+  },
+  {
+    "text": "狭山",
+    "value": 6
+  },
+  {
+    "text": "野山",
+    "value": 6
+  },
+  {
+    "text": "仙",
+    "value": 6
+  },
+  {
+    "text": "パーク",
+    "value": 6
+  },
+  {
+    "text": "ガード",
+    "value": 6
+  },
+  {
+    "text": "ラン",
+    "value": 6
+  },
+  {
+    "text": "観音寺",
+    "value": 6
+  },
+  {
+    "text": "開園",
+    "value": 6
+  },
+  {
+    "text": "多様",
+    "value": 6
+  },
+  {
+    "text": "性",
+    "value": 6
+  },
+  {
+    "text": "清澄",
+    "value": 6
+  },
+  {
+    "text": "小名木",
+    "value": 6
+  },
+  {
+    "text": "運転",
+    "value": 6
+  },
+  {
+    "text": "官庁",
+    "value": 3
+  },
+  {
+    "text": "速報",
+    "value": 3
+  },
+  {
+    "text": "通",
+    "value": 3
+  },
+  {
+    "text": "安否",
+    "value": 3
+  },
+  {
+    "text": "確認",
+    "value": 3
+  },
+  {
+    "text": "労働",
+    "value": 3
+  },
+  {
+    "text": "秘書",
+    "value": 3
+  },
+  {
+    "text": "プロバイダー",
+    "value": 3
+  },
+  {
+    "text": "ＮＴＴ",
+    "value": 3
+  },
+  {
+    "text": "技",
+    "value": 3
+  },
+  {
+    "text": "速記",
+    "value": 3
+  },
+  {
+    "text": "鉢",
+    "value": 3
+  },
+  {
+    "text": "マイクロ",
+    "value": 3
+  },
+  {
+    "text": "三建設事務所新宿工区仮庁舎等",
+    "value": 3
+  },
+  {
+    "text": "椅子",
+    "value": 3
+  },
+  {
+    "text": "カバー",
+    "value": 3
+  },
+  {
+    "text": "洗濯",
+    "value": 3
+  },
+  {
+    "text": "運行",
+    "value": 3
+  },
+  {
+    "text": "医師",
+    "value": 3
+  },
+  {
+    "text": "資格",
+    "value": 3
+  },
+  {
+    "text": "出力",
+    "value": 3
+  },
+  {
+    "text": "CAD",
+    "value": 3
+  },
+  {
+    "text": "DCAD",
+    "value": 3
+  },
+  {
+    "text": "ノート",
+    "value": 3
+  },
+  {
+    "text": "ライセンス",
+    "value": 3
+  },
+  {
+    "text": "地理",
+    "value": 3
+  },
+  {
+    "text": "ナレッジサーバ",
+    "value": 3
+  },
+  {
+    "text": "統合",
+    "value": 3
+  },
+  {
+    "text": "併用",
+    "value": 3
+  },
+  {
+    "text": "不動産",
+    "value": 3
+  },
+  {
+    "text": "入手",
+    "value": 3
+  },
+  {
+    "text": "東小岩",
+    "value": 3
+  },
+  {
+    "text": "千早",
+    "value": 3
+  },
+  {
+    "text": "興野",
+    "value": 3
+  },
+  {
+    "text": "池袋本",
+    "value": 3
+  },
+  {
+    "text": "池袋",
+    "value": 3
+  },
+  {
+    "text": "巣鴨",
+    "value": 3
+  },
+  {
+    "text": "償還",
+    "value": 3
+  },
+  {
+    "text": "運用",
+    "value": 3
+  },
+  {
+    "text": "西五反田",
+    "value": 3
+  },
+  {
+    "text": "千代田歩行者専用道第号線",
+    "value": 3
+  },
+  {
+    "text": "赤羽西",
+    "value": 3
+  },
+  {
+    "text": "都心",
+    "value": 3
+  },
+  {
+    "text": "前期",
+    "value": 3
+  },
+  {
+    "text": "整理",
+    "value": 3
+  },
+  {
+    "text": ",",
+    "value": 3
+  },
+  {
+    "text": "窓口",
+    "value": 3
+  },
+  {
+    "text": "防音",
+    "value": 3
+  },
+  {
+    "text": "助成",
+    "value": 3
+  },
+  {
+    "text": "開削",
+    "value": 3
+  },
+  {
+    "text": "山岳",
+    "value": 3
+  },
+  {
+    "text": "朝凪",
+    "value": 3
+  },
+  {
+    "text": "アセットマネジメントシステム",
+    "value": 3
+  },
+  {
+    "text": "広島",
+    "value": 3
+  },
+  {
+    "text": "市",
+    "value": 3
+  },
+  {
+    "text": "例規",
+    "value": 3
+  },
+  {
+    "text": "監察",
+    "value": 3
+  },
+  {
+    "text": "ライトアップ",
+    "value": 3
+  },
+  {
+    "text": "外堀",
+    "value": 3
+  },
+  {
+    "text": "景観",
+    "value": 3
+  },
+  {
+    "text": "若木",
+    "value": 3
+  },
+  {
+    "text": "電柱",
+    "value": 3
+  },
+  {
+    "text": "広報",
+    "value": 3
+  },
+  {
+    "text": "イベント",
+    "value": 3
+  },
+  {
+    "text": "/～/",
+    "value": 3
+  },
+  {
+    "text": "会計",
+    "value": 3
+  },
+  {
+    "text": "提要",
+    "value": 3
+  },
+  {
+    "text": "使",
+    "value": 3
+  },
+  {
+    "text": "賃",
+    "value": 3
+  },
+  {
+    "text": "沖縄",
+    "value": 3
+  },
+  {
+    "text": "借り上げ",
+    "value": 3
+  },
+  {
+    "text": "発生",
+    "value": 3
+  },
+  {
+    "text": "土",
+    "value": 3
+  },
+  {
+    "text": "村",
+    "value": 3
+  },
+  {
+    "text": "転倒",
+    "value": 3
+  },
+  {
+    "text": "用具",
+    "value": 3
+  },
+  {
+    "text": "西武",
+    "value": 3
+  },
+  {
+    "text": "国分寺線",
+    "value": 3
+  },
+  {
+    "text": "大判",
+    "value": 3
+  },
+  {
+    "text": "需複",
+    "value": 3
+  },
+  {
+    "text": "数",
+    "value": 3
+  },
+  {
+    "text": "ｱｼｽﾀﾝﾄ",
+    "value": 3
+  },
+  {
+    "text": "職",
+    "value": 3
+  },
+  {
+    "text": "潮風",
+    "value": 3
+  },
+  {
+    "text": "台場",
+    "value": 3
+  },
+  {
+    "text": "既済",
+    "value": 3
+  },
+  {
+    "text": "大",
+    "value": 3
+  },
+  {
+    "text": "神山",
+    "value": 3
+  },
+  {
+    "text": "ｼｽﾃﾑﾃﾞｰﾀﾌｧｲﾙ",
+    "value": 3
+  },
+  {
+    "text": "光が丘",
+    "value": 3
+  },
+  {
+    "text": "近郊",
+    "value": 3
+  },
+  {
+    "text": "芝公園",
+    "value": 3
+  },
+  {
+    "text": "舎人公園",
+    "value": 3
+  },
+  {
+    "text": "市政",
+    "value": 3
+  },
+  {
+    "text": "会館",
+    "value": 3
+  },
+  {
+    "text": "共通",
+    "value": 3
+  },
+  {
+    "text": "ごろ",
+    "value": 3
+  },
+  {
+    "text": "夜勤",
+    "value": 3
+  },
+  {
+    "text": "見本",
+    "value": 3
+  },
+  {
+    "text": "アドバイザリー",
+    "value": 3
+  },
+  {
+    "text": "両性",
+    "value": 3
+  },
+  {
+    "text": "爬虫類",
+    "value": 3
+  },
+  {
+    "text": "館脇",
+    "value": 3
+  },
+  {
+    "text": "深井",
+    "value": 3
+  },
+  {
+    "text": "戸",
+    "value": 3
+  },
+  {
+    "text": "徴収",
+    "value": 3
+  },
+  {
+    "text": "券売",
+    "value": 3
+  },
+  {
+    "text": "井戸",
+    "value": 3
+  },
+  {
+    "text": "音波",
+    "value": 3
+  },
+  {
+    "text": "過誤",
+    "value": 3
+  },
+  {
+    "text": "納",
+    "value": 3
+  },
+  {
+    "text": "歳出",
+    "value": 3
+  },
+  {
+    "text": "利根",
+    "value": 3
+  },
+  {
+    "text": "導水",
+    "value": 3
+  },
+  {
+    "text": "地震",
+    "value": 3
+  },
+  {
+    "text": "ﾚｽｷｭｰ・ﾅﾋﾞｹﾞｰｼｮﾝ",
+    "value": 3
+  },
+  {
+    "text": "ﾉｰﾄﾊﾟｿｺﾝ",
+    "value": 3
+  },
+  {
+    "text": "ヒューリック",
+    "value": 3
+  },
+  {
+    "text": "両国",
+    "value": 3
+  },
+  {
+    "text": "リバー",
+    "value": 3
+  },
+  {
+    "text": "気象",
+    "value": 3
+  },
+  {
+    "text": "配信",
+    "value": 3
+  },
+  {
+    "text": "呑川",
+    "value": 3
+  },
+  {
+    "text": "兵庫",
+    "value": 3
+  },
+  {
+    "text": "福岡",
+    "value": 3
+  },
+  {
+    "text": "愛知",
+    "value": 3
+  },
+  {
+    "text": "フランス",
+    "value": 3
+  },
+  {
+    "text": "オランダ",
+    "value": 3
+  },
+  {
+    "text": "流",
+    "value": 3
+  },
+  {
+    "text": "和歌山",
+    "value": 3
+  },
+  {
+    "text": "被覆",
+    "value": 3
+  },
+  {
+    "text": "修",
+    "value": 3
+  },
+  {
+    "text": "景",
+    "value": 3
+  },
+  {
+    "text": "付け",
+    "value": 3
+  },
+  {
+    "text": "塩化",
+    "value": 3
+  },
+  {
+    "text": "カルシウム",
+    "value": 3
+  },
+  {
+    "text": "ケース",
+    "value": 3
+  },
+  {
+    "text": "脇",
+    "value": 3
+  },
+  {
+    "text": "机",
+    "value": 3
+  },
+  {
+    "text": "振込",
+    "value": 3
+  },
+  {
+    "text": "全体",
+    "value": 3
+  },
+  {
+    "text": "状況",
+    "value": 3
+  },
+  {
+    "text": "幹線",
+    "value": 3
+  },
+  {
+    "text": "北側",
+    "value": 3
+  },
+  {
+    "text": "ヤード",
+    "value": 3
+  },
+  {
+    "text": "マンホール",
+    "value": 3
+  },
+  {
+    "text": "蓋",
+    "value": 3
+  },
+  {
+    "text": "開放",
+    "value": 3
+  },
+  {
+    "text": "浄水",
+    "value": 3
+  },
+  {
+    "text": "カートリッジ",
+    "value": 3
+  },
+  {
+    "text": "手",
+    "value": 3
+  },
+  {
+    "text": "指",
+    "value": 3
+  },
+  {
+    "text": "液",
+    "value": 3
+  },
+  {
+    "text": "一建設事務所所管施設内緑地管理委託",
+    "value": 3
+  },
+  {
+    "text": "塩浜",
+    "value": 3
+  },
+  {
+    "text": "倉庫",
+    "value": 3
+  },
+  {
+    "text": "カウンター",
+    "value": 3
+  },
+  {
+    "text": "扉",
+    "value": 3
+  },
+  {
+    "text": "植",
+    "value": 3
+  },
+  {
+    "text": "栽",
+    "value": 3
+  },
+  {
+    "text": "一建設事務所一般廃棄物収集運搬委託",
+    "value": 3
+  },
+  {
+    "text": "古川",
+    "value": 3
+  },
+  {
+    "text": "ヘッド",
+    "value": 3
+  },
+  {
+    "text": "需用",
+    "value": 3
+  },
+  {
+    "text": "秋期",
+    "value": 3
+  },
+  {
+    "text": "振動",
+    "value": 3
+  },
+  {
+    "text": "実態",
+    "value": 3
+  },
+  {
+    "text": "谷沢",
+    "value": 3
+  },
+  {
+    "text": "セグメント",
+    "value": 3
+  },
+  {
+    "text": "価格",
+    "value": 3
+  },
+  {
+    "text": "大森東",
+    "value": 3
+  },
+  {
+    "text": "入場",
+    "value": 3
+  },
+  {
+    "text": "圦樋",
+    "value": 3
+  },
+  {
+    "text": "門外",
+    "value": 3
+  },
+  {
+    "text": "富",
+    "value": 3
+  },
+  {
+    "text": "開通",
+    "value": 3
+  },
+  {
+    "text": "記念",
+    "value": 3
+  },
+  {
+    "text": "式典",
+    "value": 3
+  },
+  {
+    "text": "荏原",
+    "value": 3
+  },
+  {
+    "text": "見学",
+    "value": 3
+  },
+  {
+    "text": "やわ",
+    "value": 3
+  },
+  {
+    "text": "公印",
+    "value": 3
+  },
+  {
+    "text": "所長",
+    "value": 3
+  },
+  {
+    "text": "印",
+    "value": 3
+  },
+  {
+    "text": "刷り",
+    "value": 3
+  },
+  {
+    "text": "込み",
+    "value": 3
+  },
+  {
+    "text": "め",
+    "value": 3
+  },
+  {
+    "text": "東北沢",
+    "value": 3
+  },
+  {
+    "text": "渋",
+    "value": 3
+  },
+  {
+    "text": "島",
+    "value": 3
+  },
+  {
+    "text": "一歩道橋外橋耐震補強設計",
+    "value": 3
+  },
+  {
+    "text": "ふたば",
+    "value": 3
+  },
+  {
+    "text": "MB",
+    "value": 3
+  },
+  {
+    "text": "ょ",
+    "value": 3
+  },
+  {
+    "text": "更生",
+    "value": 3
+  },
+  {
+    "text": "目黒川",
+    "value": 3
+  },
+  {
+    "text": "特例",
+    "value": 3
+  },
+  {
+    "text": "白金",
+    "value": 3
+  },
+  {
+    "text": "富士見",
+    "value": 3
+  },
+  {
+    "text": "大森西",
+    "value": 3
+  },
+  {
+    "text": "番号",
+    "value": 3
+  },
+  {
+    "text": "付与",
+    "value": 3
+  },
+  {
+    "text": "ｴｽｶﾚｰﾀｰ",
+    "value": 3
+  },
+  {
+    "text": "工法",
+    "value": 3
+  },
+  {
+    "text": "夏目",
+    "value": 3
+  },
+  {
+    "text": "プリンタ",
+    "value": 3
+  },
+  {
+    "text": "一部",
+    "value": 3
+  },
+  {
+    "text": "冷凍",
+    "value": 3
+  },
+  {
+    "text": "江原",
+    "value": 3
+  },
+  {
+    "text": "冷水",
+    "value": 3
+  },
+  {
+    "text": "蒸気",
+    "value": 3
+  },
+  {
+    "text": "柳橋",
+    "value": 3
+  },
+  {
+    "text": "本郷",
+    "value": 3
+  },
+  {
+    "text": "大松",
+    "value": 3
+  },
+  {
+    "text": "七号線地下調節池監視設備改良詳細設計月分",
+    "value": 3
+  },
+  {
+    "text": "筑土八幡",
+    "value": 3
+  },
+  {
+    "text": "サクラ",
+    "value": 3
+  },
+  {
+    "text": "枝",
+    "value": 3
+  },
+  {
+    "text": "拡幅",
+    "value": 3
+  },
+  {
+    "text": "御供",
+    "value": 3
+  },
+  {
+    "text": "米",
+    "value": 3
+  },
+  {
+    "text": "ダスト",
+    "value": 3
+  },
+  {
+    "text": "件",
+    "value": 3
+  },
+  {
+    "text": "エスカレーター",
+    "value": 3
+  },
+  {
+    "text": "江古田",
+    "value": 3
+  },
+  {
+    "text": "ｴﾚﾍﾞｰﾀｰ",
+    "value": 3
+  },
+  {
+    "text": "南常盤台",
+    "value": 3
+  },
+  {
+    "text": "非常",
+    "value": 3
+  },
+  {
+    "text": "直流",
+    "value": 3
+  },
+  {
+    "text": "電源",
+    "value": 3
+  },
+  {
+    "text": "土壌",
+    "value": 3
+  },
+  {
+    "text": "谷戸",
+    "value": 3
+  },
+  {
+    "text": "けた",
+    "value": 3
+  },
+  {
+    "text": "架設",
+    "value": 3
+  },
+  {
+    "text": "③",
+    "value": 3
+  },
+  {
+    "text": "工学",
+    "value": 3
+  },
+  {
+    "text": "視線",
+    "value": 3
+  },
+  {
+    "text": "誘導",
+    "value": 3
+  },
+  {
+    "text": "高島",
+    "value": 3
+  },
+  {
+    "text": "伸縮",
+    "value": 3
+  },
+  {
+    "text": "構",
+    "value": 3
+  },
+  {
+    "text": "四建自家用電気工作物定期点検保守委託",
+    "value": 3
+  },
+  {
+    "text": "四建設事務所管理工区庁舎清掃委託",
+    "value": 3
+  },
+  {
+    "text": "四建設事務所石神井工区外箇所",
+    "value": 3
+  },
+  {
+    "text": "ｺﾝｾﾝﾄ",
+    "value": 3
+  },
+  {
+    "text": "向山",
+    "value": 3
+  },
+  {
+    "text": "・",
+    "value": 3
+  },
+  {
+    "text": "共益",
+    "value": 3
+  },
+  {
+    "text": "信号",
+    "value": 3
+  },
+  {
+    "text": "谷原",
+    "value": 3
+  },
+  {
+    "text": "扇",
+    "value": 3
+  },
+  {
+    "text": "集い",
+    "value": 3
+  },
+  {
+    "text": "板橋",
+    "value": 3
+  },
+  {
+    "text": "南池袋",
+    "value": 3
+  },
+  {
+    "text": "PPC",
+    "value": 3
+  },
+  {
+    "text": "家賃",
+    "value": 3
+  },
+  {
+    "text": "欠",
+    "value": 3
+  },
+  {
+    "text": "収",
+    "value": 3
+  },
+  {
+    "text": "木根",
+    "value": 3
+  },
+  {
+    "text": "堤防",
+    "value": 3
+  },
+  {
+    "text": "北砂",
+    "value": 3
+  },
+  {
+    "text": "五建管内橋梁塗膜調査委託",
+    "value": 3
+  },
+  {
+    "text": "松本",
+    "value": 3
+  },
+  {
+    "text": "連続",
+    "value": 3
+  },
+  {
+    "text": "小原",
+    "value": 3
+  },
+  {
+    "text": "晴海",
+    "value": 3
+  },
+  {
+    "text": "押上",
+    "value": 3
+  },
+  {
+    "text": "特",
+    "value": 3
+  },
+  {
+    "text": "北葛西",
+    "value": 3
+  },
+  {
+    "text": "治水",
+    "value": 3
+  },
+  {
+    "text": "附属",
+    "value": 3
+  },
+  {
+    "text": "柵",
+    "value": 3
+  },
+  {
+    "text": "部分",
+    "value": 3
+  },
+  {
+    "text": "錦糸",
+    "value": 3
+  },
+  {
+    "text": "水元",
+    "value": 3
+  },
+  {
+    "text": "川中",
+    "value": 3
+  },
+  {
+    "text": "Ⅳ",
+    "value": 3
+  },
+  {
+    "text": "一之江",
+    "value": 3
+  },
+  {
+    "text": "雨水",
+    "value": 3
+  },
+  {
+    "text": "桝蓋",
+    "value": 3
+  },
+  {
+    "text": "表示",
+    "value": 3
+  },
+  {
+    "text": "置場",
+    "value": 3
+  },
+  {
+    "text": "五建設事務所江東工区機械警備委託",
+    "value": 3
+  },
+  {
+    "text": "福島",
+    "value": 3
+  },
+  {
+    "text": "新柴又",
+    "value": 3
+  },
+  {
+    "text": "上一色",
+    "value": 3
+  },
+  {
+    "text": "境川",
+    "value": 3
+  },
+  {
+    "text": "白山",
+    "value": 3
+  },
+  {
+    "text": "ﾌﾟﾘﾝﾀｰｲﾝｸｶｰﾄﾘｯｼﾞ",
+    "value": 3
+  },
+  {
+    "text": "カセット",
+    "value": 3
+  },
+  {
+    "text": "ボンベ",
+    "value": 3
+  },
+  {
+    "text": "駐輪場",
+    "value": 3
+  },
+  {
+    "text": "小台",
+    "value": 3
+  },
+  {
+    "text": "船着",
+    "value": 3
+  },
+  {
+    "text": "付帯",
+    "value": 3
+  },
+  {
+    "text": "尾久",
+    "value": 3
+  },
+  {
+    "text": "別製",
+    "value": 3
+  },
+  {
+    "text": "窓",
+    "value": 3
+  },
+  {
+    "text": "付き",
+    "value": 3
+  },
+  {
+    "text": "封筒",
+    "value": 3
+  },
+  {
+    "text": "融雪",
+    "value": 3
+  },
+  {
+    "text": "剤",
+    "value": 3
+  },
+  {
+    "text": "カウント",
+    "value": 3
+  },
+  {
+    "text": "メジャー",
+    "value": 3
+  },
+  {
+    "text": "伊興",
+    "value": 3
+  },
+  {
+    "text": "千住",
+    "value": 3
+  },
+  {
+    "text": "ﾏﾆｭﾌｪｽﾄ",
+    "value": 3
+  },
+  {
+    "text": "千住駅前歩道橋昇降機定期点検整備委託",
+    "value": 3
+  },
+  {
+    "text": "洗浄",
+    "value": 3
+  },
+  {
+    "text": "電力",
+    "value": 3
+  },
+  {
+    "text": "競争",
+    "value": 3
+  },
+  {
+    "text": "桝等",
+    "value": 3
+  },
+  {
+    "text": "隙間",
+    "value": 3
+  },
+  {
+    "text": "金具",
+    "value": 3
+  },
+  {
+    "text": "結束",
+    "value": 3
+  },
+  {
+    "text": "バンド",
+    "value": 3
+  },
+  {
+    "text": "関原",
+    "value": 3
+  },
+  {
+    "text": "目地",
+    "value": 3
+  },
+  {
+    "text": "西尾久",
+    "value": 3
+  },
+  {
+    "text": "フレッツ",
+    "value": 3
+  },
+  {
+    "text": "添架",
+    "value": 3
+  },
+  {
+    "text": "ﾗｼﾞｵ",
+    "value": 3
+  },
+  {
+    "text": "大麦",
+    "value": 3
+  },
+  {
+    "text": "デリネーター",
+    "value": 3
+  },
+  {
+    "text": "キャビネット",
+    "value": 3
+  },
+  {
+    "text": "愛宕",
+    "value": 3
+  },
+  {
+    "text": "自然",
+    "value": 3
+  },
+  {
+    "text": "三都郷",
+    "value": 3
+  },
+  {
+    "text": "本宿",
+    "value": 3
+  },
+  {
+    "text": "成木",
+    "value": 3
+  },
+  {
+    "text": "渕上",
+    "value": 3
+  },
+  {
+    "text": "書庫",
+    "value": 3
+  },
+  {
+    "text": "標",
+    "value": 3
+  },
+  {
+    "text": "電波",
+    "value": 3
+  },
+  {
+    "text": "法令",
+    "value": 3
+  },
+  {
+    "text": "岡",
+    "value": 3
+  },
+  {
+    "text": "陸",
+    "value": 3
+  },
+  {
+    "text": "五日市",
+    "value": 3
+  },
+  {
+    "text": "吹上",
+    "value": 3
+  },
+  {
+    "text": "損失",
+    "value": 3
+  },
+  {
+    "text": "額",
+    "value": 3
+  },
+  {
+    "text": "決定",
+    "value": 3
+  },
+  {
+    "text": "締結",
+    "value": 3
+  },
+  {
+    "text": "ｶﾒﾗ",
+    "value": 3
+  },
+  {
+    "text": "公開",
+    "value": 3
+  },
+  {
+    "text": "ｸﾗｳﾄﾞｻｰﾋﾞｽ",
+    "value": 3
+  },
+  {
+    "text": "下元郷",
+    "value": 3
+  },
+  {
+    "text": "ー",
+    "value": 3
+  },
+  {
+    "text": "全額",
+    "value": 3
+  },
+  {
+    "text": "年月日",
+    "value": 3
+  },
+  {
+    "text": "異動",
+    "value": 3
+  },
+  {
+    "text": "橋詰",
+    "value": 3
+  },
+  {
+    "text": "曽川",
+    "value": 3
+  },
+  {
+    "text": "国",
+    "value": 3
+  },
+  {
+    "text": "駒木",
+    "value": 3
+  },
+  {
+    "text": "桝",
+    "value": 3
+  },
+  {
+    "text": "翻訳",
+    "value": 3
+  },
+  {
+    "text": "単月",
+    "value": 3
+  },
+  {
+    "text": "埋設",
+    "value": 3
+  },
+  {
+    "text": "補正",
+    "value": 3
+  },
+  {
+    "text": "器具",
+    "value": 3
+  },
+  {
+    "text": "乗用車",
+    "value": 3
+  },
+  {
+    "text": "読売",
+    "value": 3
+  },
+  {
+    "text": "日経",
+    "value": 3
+  },
+  {
+    "text": "鶴見川",
+    "value": 3
+  },
+  {
+    "text": "トナーカートリッジ",
+    "value": 3
+  },
+  {
+    "text": "支給",
+    "value": 3
+  },
+  {
+    "text": "常盤",
+    "value": 3
+  },
+  {
+    "text": "知識",
+    "value": 3
+  },
+  {
+    "text": "根橋",
+    "value": 3
+  },
+  {
+    "text": "ブラインド",
+    "value": 3
+  },
+  {
+    "text": "旭",
+    "value": 3
+  },
+  {
+    "text": "クレジットカード",
+    "value": 3
+  },
+  {
+    "text": "南平",
+    "value": 3
+  },
+  {
+    "text": "ニッケル",
+    "value": 3
+  },
+  {
+    "text": "水素",
+    "value": 3
+  },
+  {
+    "text": "電池",
+    "value": 3
+  },
+  {
+    "text": "充電",
+    "value": 3
+  },
+  {
+    "text": "丁目",
+    "value": 3
+  },
+  {
+    "text": "崩壊",
+    "value": 3
+  },
+  {
+    "text": "四ツ谷",
+    "value": 3
+  },
+  {
+    "text": "冠水",
+    "value": 3
+  },
+  {
+    "text": "打越",
+    "value": 3
+  },
+  {
+    "text": "土入",
+    "value": 3
+  },
+  {
+    "text": "改",
+    "value": 3
+  },
+  {
+    "text": "裏高尾",
+    "value": 3
+  },
+  {
+    "text": "浅川",
+    "value": 3
+  },
+  {
+    "text": "大和田",
+    "value": 3
+  },
+  {
+    "text": "国有",
+    "value": 3
+  },
+  {
+    "text": "財産",
+    "value": 3
+  },
+  {
+    "text": "時",
+    "value": 3
+  },
+  {
+    "text": "川口",
+    "value": 3
+  },
+  {
+    "text": "一時宿泊療養施設夜勤対応職員分",
+    "value": 3
+  },
+  {
+    "text": "堀之内",
+    "value": 3
+  },
+  {
+    "text": "松枝",
+    "value": 3
+  },
+  {
+    "text": "観測",
+    "value": 3
+  },
+  {
+    "text": "大田川",
+    "value": 3
+  },
+  {
+    "text": "南浅川",
+    "value": 3
+  },
+  {
+    "text": "山田川",
+    "value": 3
+  },
+  {
+    "text": "八王子西工区河川維持委託",
+    "value": 3
+  },
+  {
+    "text": "整",
+    "value": 3
+  },
+  {
+    "text": "正",
+    "value": 3
+  },
+  {
+    "text": "直通",
+    "value": 3
+  },
+  {
+    "text": "周知",
+    "value": 3
+  },
+  {
+    "text": "浄化槽",
+    "value": 3
+  },
+  {
+    "text": "条",
+    "value": 3
+  },
+  {
+    "text": "高橋",
+    "value": 3
+  },
+  {
+    "text": "沢橋",
+    "value": 3
+  },
+  {
+    "text": "変更",
+    "value": 3
+  },
+  {
+    "text": "TS",
+    "value": 3
+  },
+  {
+    "text": "マーク",
+    "value": 3
+  },
+  {
+    "text": "更新",
+    "value": 3
+  },
+  {
+    "text": "ソフトバンク",
+    "value": 3
+  },
+  {
+    "text": "株式会社",
+    "value": 3
+  },
+  {
+    "text": "影響",
+    "value": 3
+  },
+  {
+    "text": "事後",
+    "value": 3
+  },
+  {
+    "text": "E",
+    "value": 3
+  },
+  {
+    "text": "下保谷",
+    "value": 3
+  },
+  {
+    "text": "築",
+    "value": 3
+  },
+  {
+    "text": "防火",
+    "value": 3
+  },
+  {
+    "text": "手話",
+    "value": 3
+  },
+  {
+    "text": "及電",
+    "value": 3
+  },
+  {
+    "text": "交",
+    "value": 3
+  },
+  {
+    "text": "けやき台",
+    "value": 3
+  },
+  {
+    "text": "追加",
+    "value": 3
+  },
+  {
+    "text": "い",
+    "value": 3
+  },
+  {
+    "text": "スキャナ",
+    "value": 3
+  },
+  {
+    "text": "自記",
+    "value": 3
+  },
+  {
+    "text": "原材料",
+    "value": 3
+  },
+  {
+    "text": "ｺﾋﾟｰ",
+    "value": 3
+  },
+  {
+    "text": "ｶﾗｰｺﾋﾟｰ",
+    "value": 3
+  },
+  {
+    "text": "原図",
+    "value": 3
+  },
+  {
+    "text": "下水",
+    "value": 3
+  },
+  {
+    "text": "ﾓﾉﾚｰﾙ",
+    "value": 3
+  },
+  {
+    "text": "テレビ",
+    "value": 3
+  },
+  {
+    "text": "上清戸",
+    "value": 3
+  },
+  {
+    "text": "前原",
+    "value": 3
+  },
+  {
+    "text": "栗木",
+    "value": 3
+  },
+  {
+    "text": "月橋",
+    "value": 3
+  },
+  {
+    "text": "落合川",
+    "value": 3
+  },
+  {
+    "text": "B",
+    "value": 3
+  },
+  {
+    "text": "､",
+    "value": 3
+  },
+  {
+    "text": "H",
+    "value": 3
+  },
+  {
+    "text": "D",
+    "value": 3
+  },
+  {
+    "text": "輪ゴム",
+    "value": 3
+  },
+  {
+    "text": "C",
+    "value": 3
+  },
+  {
+    "text": "つつじが丘",
+    "value": 3
+  },
+  {
+    "text": "合流",
+    "value": 3
+  },
+  {
+    "text": "小前",
+    "value": 3
+  },
+  {
+    "text": "モノ",
+    "value": 3
+  },
+  {
+    "text": "上北台",
+    "value": 3
+  },
+  {
+    "text": "箱根ケ崎",
+    "value": 3
+  },
+  {
+    "text": "河床",
+    "value": 3
+  },
+  {
+    "text": "戸田橋",
+    "value": 3
+  },
+  {
+    "text": "実験",
+    "value": 3
+  },
+  {
+    "text": "OCN",
+    "value": 3
+  },
+  {
+    "text": "安全",
+    "value": 3
+  },
+  {
+    "text": "科",
+    "value": 3
+  },
+  {
+    "text": "開催",
+    "value": 3
+  },
+  {
+    "text": "サーバホスティング",
+    "value": 3
+  },
+  {
+    "text": "品質",
+    "value": 3
+  },
+  {
+    "text": "薄",
+    "value": 3
+  },
+  {
+    "text": "層",
+    "value": 3
+  },
+  {
+    "text": "増",
+    "value": 3
+  },
+  {
+    "text": "厚",
+    "value": 3
+  },
+  {
+    "text": "荷重",
+    "value": 3
+  },
+  {
+    "text": "疲月",
+    "value": 3
+  },
+  {
+    "text": "人材",
+    "value": 3
+  },
+  {
+    "text": "育成",
+    "value": 3
+  },
+  {
+    "text": "ｾﾝﾀ",
+    "value": 3
+  },
+  {
+    "text": "GIS",
+    "value": 3
+  },
+  {
+    "text": "NTT",
+    "value": 3
+  },
+  {
+    "text": "ﾌｧｲﾅﾝｽ",
+    "value": 3
+  },
+  {
+    "text": "株",
+    "value": 3
+  },
+  {
+    "text": "沈下",
+    "value": 3
+  },
+  {
+    "text": "報告",
+    "value": 3
+  },
+  {
+    "text": "耐圧",
+    "value": 3
+  },
+  {
+    "text": "委任",
+    "value": 3
+  },
+  {
+    "text": "柱状",
+    "value": 3
+  },
+  {
+    "text": "ﾃﾞｰﾀ",
+    "value": 3
+  },
+  {
+    "text": "JIS",
+    "value": 3
+  },
+  {
+    "text": "規格",
+    "value": 3
+  },
+  {
+    "text": "ヘッドライト",
+    "value": 3
+  },
+  {
+    "text": "トキ",
+    "value": 3
+  },
+  {
+    "text": "展示",
+    "value": 3
+  },
+  {
+    "text": "ゾーン",
+    "value": 3
+  },
+  {
+    "text": "病院",
+    "value": 3
+  },
+  {
+    "text": "スタッフ",
+    "value": 3
+  },
+  {
+    "text": "新築",
+    "value": 3
+  },
+  {
+    "text": "渠",
+    "value": 3
+  },
+  {
+    "text": "噴水",
+    "value": 3
+  },
+  {
+    "text": "園内",
+    "value": 3
+  },
+  {
+    "text": "石神井公園",
+    "value": 3
+  },
+  {
+    "text": "車両",
+    "value": 3
+  },
+  {
+    "text": "オリンピック",
+    "value": 3
+  },
+  {
+    "text": "パラリンピック",
+    "value": 3
+  },
+  {
+    "text": "五福竜丸展示館展示業務委託",
+    "value": 3
+  },
+  {
+    "text": "岩崎",
+    "value": 3
+  },
+  {
+    "text": "邸",
+    "value": 3
+  },
+  {
+    "text": "野外",
+    "value": 3
+  },
+  {
+    "text": "ステージ",
+    "value": 3
+  },
+  {
+    "text": "サル",
+    "value": 3
+  },
+  {
+    "text": "サイン",
+    "value": 3
+  },
+  {
+    "text": "染井",
+    "value": 3
+  },
+  {
+    "text": "再生",
+    "value": 3
+  },
+  {
+    "text": "美化",
+    "value": 3
+  },
+  {
+    "text": "受付",
+    "value": 3
+  },
+  {
+    "text": "野球",
+    "value": 3
+  },
+  {
+    "text": "ｷｬｯｼｭﾚｽ",
+    "value": 3
+  },
+  {
+    "text": "特殊",
+    "value": 3
+  },
+  {
+    "text": "新規",
+    "value": 3
+  },
+  {
+    "text": "古河",
+    "value": 3
+  },
+  {
+    "text": "修復",
+    "value": 3
+  },
+  {
+    "text": "祖師",
+    "value": 3
+  },
+  {
+    "text": "青山",
+    "value": 3
+  },
+  {
+    "text": "緑",
+    "value": 3
+  },
+  {
+    "text": "市民",
+    "value": 3
+  },
+  {
+    "text": "カレッジ",
+    "value": 3
+  },
+  {
+    "text": "ドア",
+    "value": 3
+  },
+  {
+    "text": "加",
+    "value": 3
+  },
+  {
+    "text": "用水",
+    "value": 3
+  },
+  {
+    "text": "既存",
+    "value": 3
+  },
+  {
+    "text": "解体",
+    "value": 3
+  },
+  {
+    "text": "ディスプレイ",
+    "value": 3
+  },
+  {
+    "text": "認定",
+    "value": 3
+  },
+  {
+    "text": "堀ノ内",
+    "value": 3
+  },
+  {
+    "text": "ｶﾗｽﾄﾗｯﾌﾟ",
+    "value": 3
+  },
+  {
+    "text": "八王子霊園園路改修実施設計",
+    "value": 3
+  },
+  {
+    "text": "テニス",
+    "value": 3
+  },
+  {
+    "text": "コート",
+    "value": 3
+  },
+  {
+    "text": "八王子霊園調節池現況測量井",
+    "value": 3
+  },
+  {
+    "text": "頭",
+    "value": 3
+  },
+  {
+    "text": "託児",
+    "value": 3
+  },
+  {
+    "text": "スルー",
+    "value": 3
+  },
+  {
+    "text": "井の頭公園",
+    "value": 3
+  },
+  {
+    "text": "キャッシュ",
+    "value": 3
+  },
+  {
+    "text": "レス",
+    "value": 3
+  },
+  {
+    "text": "六道山公園峰田地区法枠改修実施設計",
+    "value": 3
+  },
+  {
+    "text": "熱",
+    "value": 3
+  },
+  {
+    "text": "滝山",
+    "value": 3
+  },
+  {
+    "text": "東大和",
+    "value": 3
+  },
+  {
+    "text": "放置",
+    "value": 3
+  },
+  {
+    "text": "移動",
+    "value": 3
+  },
+  {
+    "text": "圧",
+    "value": 3
+  },
+  {
+    "text": "分布",
+    "value": 3
+  },
+  {
+    "text": "運動",
+    "value": 3
+  },
+  {
+    "text": "応接",
+    "value": 3
+  },
+  {
+    "text": "ランドスケープデザイン",
+    "value": 3
+  },
+  {
+    "text": "内裏",
+    "value": 3
+  },
+  {
+    "text": "周辺",
+    "value": 3
+  },
+  {
+    "text": "落葉",
+    "value": 3
+  },
+  {
+    "text": "保存",
+    "value": 3
+  },
+  {
+    "text": "基準",
+    "value": 3
+  },
+  {
+    "text": "植込み",
+    "value": 3
+  },
+  {
+    "text": "所外",
+    "value": 3
+  },
+  {
+    "text": "集合",
+    "value": 3
+  },
+  {
+    "text": "墓地",
+    "value": 3
+  },
+  {
+    "text": "杭",
+    "value": 3
+  },
+  {
+    "text": "ﾗﾝ",
+    "value": 3
+  },
+  {
+    "text": "六道",
+    "value": 3
+  },
+  {
+    "text": "カラス",
+    "value": 3
+  },
+  {
+    "text": "トラップ",
+    "value": 3
+  },
+  {
+    "text": "源",
+    "value": 3
+  },
+  {
+    "text": "森川",
+    "value": 3
+  },
+  {
+    "text": "大島",
+    "value": 3
+  },
+  {
+    "text": "~",
+    "value": 3
+  },
+  {
+    "text": "水質",
+    "value": 3
+  },
+  {
+    "text": "蛍光",
+    "value": 3
+  },
+  {
+    "text": "木下",
+    "value": 3
+  },
+  {
+    "text": "大場",
+    "value": 3
+  },
+  {
+    "text": "性能",
+    "value": 3
+  },
+  {
+    "text": "水神",
+    "value": 3
+  },
+  {
+    "text": "左",
+    "value": 3
+  },
+  {
+    "text": "クレーン",
+    "value": 3
+  },
+  {
+    "text": "士",
+    "value": 3
+  },
+  {
+    "text": "免許",
+    "value": 3
+  },
+  {
+    "text": "受験",
+    "value": 3
+  },
+  {
+    "text": "飲料",
+    "value": 3
+  },
+  {
+    "text": "水槽",
+    "value": 3
+  },
+  {
+    "text": "タンク",
+    "value": 3
+  },
+  {
+    "text": "漏洩",
+    "value": 3
+  },
+  {
+    "text": "舞浜",
+    "value": 3
+  },
+  {
+    "text": "亀島",
+    "value": 3
+  },
+  {
+    "text": "量水",
+    "value": 3
+  },
+  {
+    "text": "消防",
+    "value": 3
+  },
+  {
+    "text": "不備",
+    "value": 3
+  },
+  {
+    "text": "予定",
+    "value": 3
+  },
+  {
+    "text": "[",
+    "value": 3
+  },
+  {
+    "text": "]　",
+    "value": 3
+  },
+  {
+    "text": "天井",
+    "value": 3
+  },
+  {
+    "text": "ｸﾚｰﾝ",
+    "value": 3
+  }
+]

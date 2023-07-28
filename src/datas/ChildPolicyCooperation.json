@@ -1,0 +1,442 @@
+[
+  {
+    "text": "謝礼",
+    "value": 36
+  },
+  {
+    "text": "審査",
+    "value": 27
+  },
+  {
+    "text": "金",
+    "value": 27
+  },
+  {
+    "text": "委員",
+    "value": 21
+  },
+  {
+    "text": "会",
+    "value": 21
+  },
+  {
+    "text": "回",
+    "value": 18
+  },
+  {
+    "text": "業務",
+    "value": 18
+  },
+  {
+    "text": "委託",
+    "value": 15
+  },
+  {
+    "text": "技術",
+    "value": 15
+  },
+  {
+    "text": "購入",
+    "value": 15
+  },
+  {
+    "text": "海外",
+    "value": 15
+  },
+  {
+    "text": "月",
+    "value": 12
+  },
+  {
+    "text": "分",
+    "value": 12
+  },
+  {
+    "text": "支出",
+    "value": 12
+  },
+  {
+    "text": "支払",
+    "value": 9
+  },
+  {
+    "text": "経費",
+    "value": 9
+  },
+  {
+    "text": "支払い",
+    "value": 9
+  },
+  {
+    "text": "事業",
+    "value": 9
+  },
+  {
+    "text": "こども",
+    "value": 9
+  },
+  {
+    "text": "未来",
+    "value": 9
+  },
+  {
+    "text": "会議",
+    "value": 9
+  },
+  {
+    "text": "外",
+    "value": 9
+  },
+  {
+    "text": "点",
+    "value": 9
+  },
+  {
+    "text": "育",
+    "value": 9
+  },
+  {
+    "text": "業",
+    "value": 9
+  },
+  {
+    "text": "事務",
+    "value": 9
+  },
+  {
+    "text": "等",
+    "value": 9
+  },
+  {
+    "text": "有識者",
+    "value": 9
+  },
+  {
+    "text": "研修",
+    "value": 9
+  },
+  {
+    "text": "国際",
+    "value": 9
+  },
+  {
+    "text": "競争",
+    "value": 9
+  },
+  {
+    "text": "力",
+    "value": 9
+  },
+  {
+    "text": "強化",
+    "value": 9
+  },
+  {
+    "text": "プロジェクト",
+    "value": 9
+  },
+  {
+    "text": "旅行",
+    "value": 9
+  },
+  {
+    "text": "手配",
+    "value": 9
+  },
+  {
+    "text": "少額",
+    "value": 6
+  },
+  {
+    "text": "案件",
+    "value": 6
+  },
+  {
+    "text": "一般",
+    "value": 6
+  },
+  {
+    "text": "費",
+    "value": 6
+  },
+  {
+    "text": "契約",
+    "value": 6
+  },
+  {
+    "text": "商標",
+    "value": 6
+  },
+  {
+    "text": "登録",
+    "value": 6
+  },
+  {
+    "text": "弁理",
+    "value": 6
+  },
+  {
+    "text": "士",
+    "value": 6
+  },
+  {
+    "text": "用",
+    "value": 6
+  },
+  {
+    "text": "机",
+    "value": 6
+  },
+  {
+    "text": "画像",
+    "value": 6
+  },
+  {
+    "text": "運営",
+    "value": 6
+  },
+  {
+    "text": "HP",
+    "value": 6
+  },
+  {
+    "text": "構築",
+    "value": 6
+  },
+  {
+    "text": "視察",
+    "value": 6
+  },
+  {
+    "text": "定点",
+    "value": 3
+  },
+  {
+    "text": "調査",
+    "value": 3
+  },
+  {
+    "text": "需用",
+    "value": 3
+  },
+  {
+    "text": "役務",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "紙",
+    "value": 3
+  },
+  {
+    "text": "ほか",
+    "value": 3
+  },
+  {
+    "text": "購読",
+    "value": 3
+  },
+  {
+    "text": "スマイル",
+    "value": 3
+  },
+  {
+    "text": "冒険",
+    "value": 3
+  },
+  {
+    "text": "悩み",
+    "value": 3
+  },
+  {
+    "text": "相談",
+    "value": 3
+  },
+  {
+    "text": "複写",
+    "value": 3
+  },
+  {
+    "text": "サービス",
+    "value": 3
+  },
+  {
+    "text": "手話",
+    "value": 3
+  },
+  {
+    "text": "通訳",
+    "value": 3
+  },
+  {
+    "text": "度",
+    "value": 3
+  },
+  {
+    "text": "カメラ",
+    "value": 3
+  },
+  {
+    "text": "令和",
+    "value": 3
+  },
+  {
+    "text": "年度",
+    "value": 3
+  },
+  {
+    "text": "労働",
+    "value": 3
+  },
+  {
+    "text": "者",
+    "value": 3
+  },
+  {
+    "text": "派遣",
+    "value": 3
+  },
+  {
+    "text": "秘書",
+    "value": 3
+  },
+  {
+    "text": "単価",
+    "value": 3
+  },
+  {
+    "text": "スマイルムーブメント",
+    "value": 3
+  },
+  {
+    "text": "夏",
+    "value": 3
+  },
+  {
+    "text": "イベント",
+    "value": 3
+  },
+  {
+    "text": "チケット",
+    "value": 3
+  },
+  {
+    "text": "タクシー",
+    "value": 3
+  },
+  {
+    "text": "ロゴ",
+    "value": 3
+  },
+  {
+    "text": "マーク",
+    "value": 3
+  },
+  {
+    "text": "ネット",
+    "value": 3
+  },
+  {
+    "text": "中継",
+    "value": 3
+  },
+  {
+    "text": "放送",
+    "value": 3
+  },
+  {
+    "text": "教育",
+    "value": 3
+  },
+  {
+    "text": "保育",
+    "value": 3
+  },
+  {
+    "text": "施設",
+    "value": 3
+  },
+  {
+    "text": "重大",
+    "value": 3
+  },
+  {
+    "text": "事故",
+    "value": 3
+  },
+  {
+    "text": "予防",
+    "value": 3
+  },
+  {
+    "text": "動画",
+    "value": 3
+  },
+  {
+    "text": "制作",
+    "value": 3
+  },
+  {
+    "text": "リ・デザイン",
+    "value": 3
+  },
+  {
+    "text": "ヤングケアラー",
+    "value": 3
+  },
+  {
+    "text": "ユース",
+    "value": 3
+  },
+  {
+    "text": "ヘルスケア",
+    "value": 3
+  },
+  {
+    "text": "意見",
+    "value": 3
+  },
+  {
+    "text": "聴取",
+    "value": 3
+  },
+  {
+    "text": "セーフティ",
+    "value": 3
+  },
+  {
+    "text": "レビュー",
+    "value": 3
+  },
+  {
+    "text": "推進",
+    "value": 3
+  },
+  {
+    "text": "企画",
+    "value": 3
+  },
+  {
+    "text": "子供",
+    "value": 3
+  },
+  {
+    "text": "安全",
+    "value": 3
+  },
+  {
+    "text": "安心",
+    "value": 3
+  },
+  {
+    "text": "出前",
+    "value": 3
+  },
+  {
+    "text": "授業",
+    "value": 3
+  }
+]

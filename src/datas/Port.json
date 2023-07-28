@@ -1,0 +1,2834 @@
+[
+  {
+    "text": "支払",
+    "value": 909
+  },
+  {
+    "text": "月",
+    "value": 846
+  },
+  {
+    "text": "分",
+    "value": 843
+  },
+  {
+    "text": "料金",
+    "value": 780
+  },
+  {
+    "text": "令和",
+    "value": 750
+  },
+  {
+    "text": "年度",
+    "value": 744
+  },
+  {
+    "text": "公共",
+    "value": 666
+  },
+  {
+    "text": "委託",
+    "value": 234
+  },
+  {
+    "text": "支払い",
+    "value": 231
+  },
+  {
+    "text": "支出",
+    "value": 201
+  },
+  {
+    "text": "契約",
+    "value": 183
+  },
+  {
+    "text": "港湾",
+    "value": 144
+  },
+  {
+    "text": "工事",
+    "value": 135
+  },
+  {
+    "text": "等",
+    "value": 129
+  },
+  {
+    "text": "購入",
+    "value": 126
+  },
+  {
+    "text": "業務",
+    "value": 126
+  },
+  {
+    "text": "サービス",
+    "value": 114
+  },
+  {
+    "text": "東京",
+    "value": 111
+  },
+  {
+    "text": "外",
+    "value": 102
+  },
+  {
+    "text": "単価",
+    "value": 96
+  },
+  {
+    "text": "施設",
+    "value": 96
+  },
+  {
+    "text": "点",
+    "value": 87
+  },
+  {
+    "text": "用",
+    "value": 87
+  },
+  {
+    "text": "複写",
+    "value": 84
+  },
+  {
+    "text": "賃貸借",
+    "value": 81
+  },
+  {
+    "text": "点検",
+    "value": 78
+  },
+  {
+    "text": "料",
+    "value": 75
+  },
+  {
+    "text": "港",
+    "value": 75
+  },
+  {
+    "text": "建設",
+    "value": 75
+  },
+  {
+    "text": "R",
+    "value": 72
+  },
+  {
+    "text": "電気",
+    "value": 69
+  },
+  {
+    "text": "自動車",
+    "value": 66
+  },
+  {
+    "text": "局",
+    "value": 66
+  },
+  {
+    "text": "機器",
+    "value": 66
+  },
+  {
+    "text": "少額",
+    "value": 63
+  },
+  {
+    "text": "案件",
+    "value": 63
+  },
+  {
+    "text": "ほか",
+    "value": 63
+  },
+  {
+    "text": "システム",
+    "value": 60
+  },
+  {
+    "text": "管理",
+    "value": 57
+  },
+  {
+    "text": "整備",
+    "value": 54
+  },
+  {
+    "text": "電話",
+    "value": 51
+  },
+  {
+    "text": "前渡金",
+    "value": 51
+  },
+  {
+    "text": "借入れ",
+    "value": 51
+  },
+  {
+    "text": "海",
+    "value": 51
+  },
+  {
+    "text": "旅費",
+    "value": 45
+  },
+  {
+    "text": "公園",
+    "value": 45
+  },
+  {
+    "text": "課",
+    "value": 45
+  },
+  {
+    "text": "ふ頭",
+    "value": 45
+  },
+  {
+    "text": "保守",
+    "value": 45
+  },
+  {
+    "text": "設備",
+    "value": 42
+  },
+  {
+    "text": "地",
+    "value": 42
+  },
+  {
+    "text": "購読",
+    "value": 42
+  },
+  {
+    "text": "その他",
+    "value": 42
+  },
+  {
+    "text": "使用",
+    "value": 39
+  },
+  {
+    "text": "機",
+    "value": 39
+  },
+  {
+    "text": "概算",
+    "value": 39
+  },
+  {
+    "text": "利用",
+    "value": 39
+  },
+  {
+    "text": "高潮",
+    "value": 39
+  },
+  {
+    "text": "設計",
+    "value": 39
+  },
+  {
+    "text": "清掃",
+    "value": 39
+  },
+  {
+    "text": "庁舎",
+    "value": 39
+  },
+  {
+    "text": "港南",
+    "value": 39
+  },
+  {
+    "text": "調査",
+    "value": 36
+  },
+  {
+    "text": "代金",
+    "value": 36
+  },
+  {
+    "text": "場",
+    "value": 36
+  },
+  {
+    "text": "二",
+    "value": 36
+  },
+  {
+    "text": "新聞",
+    "value": 33
+  },
+  {
+    "text": "会",
+    "value": 33
+  },
+  {
+    "text": "通信",
+    "value": 33
+  },
+  {
+    "text": "費用",
+    "value": 33
+  },
+  {
+    "text": "サーバ",
+    "value": 33
+  },
+  {
+    "text": "森",
+    "value": 33
+  },
+  {
+    "text": "金",
+    "value": 33
+  },
+  {
+    "text": "修繕",
+    "value": 30
+  },
+  {
+    "text": "複数",
+    "value": 30
+  },
+  {
+    "text": "部",
+    "value": 30
+  },
+  {
+    "text": "ファイル",
+    "value": 30
+  },
+  {
+    "text": "費",
+    "value": 30
+  },
+  {
+    "text": "号",
+    "value": 30
+  },
+  {
+    "text": "センター",
+    "value": 30
+  },
+  {
+    "text": "保全",
+    "value": 30
+  },
+  {
+    "text": "飛行場",
+    "value": 30
+  },
+  {
+    "text": "警備",
+    "value": 30
+  },
+  {
+    "text": "補修",
+    "value": 30
+  },
+  {
+    "text": "資金",
+    "value": 27
+  },
+  {
+    "text": "渡",
+    "value": 27
+  },
+  {
+    "text": "近接",
+    "value": 27
+  },
+  {
+    "text": "研修",
+    "value": 27
+  },
+  {
+    "text": "調布",
+    "value": 27
+  },
+  {
+    "text": "検査",
+    "value": 27
+  },
+  {
+    "text": "携帯",
+    "value": 24
+  },
+  {
+    "text": "/-/",
+    "value": 24
+  },
+  {
+    "text": "都",
+    "value": 24
+  },
+  {
+    "text": "情報",
+    "value": 24
+  },
+  {
+    "text": "海浜",
+    "value": 24
+  },
+  {
+    "text": "負担",
+    "value": 24
+  },
+  {
+    "text": "対策",
+    "value": 24
+  },
+  {
+    "text": "建築",
+    "value": 24
+  },
+  {
+    "text": "船舶",
+    "value": 24
+  },
+  {
+    "text": "払",
+    "value": 24
+  },
+  {
+    "text": "道路",
+    "value": 24
+  },
+  {
+    "text": "か所",
+    "value": 24
+  },
+  {
+    "text": "ヘリポート",
+    "value": 24
+  },
+  {
+    "text": "地区",
+    "value": 24
+  },
+  {
+    "text": "大井",
+    "value": 24
+  },
+  {
+    "text": "昇降",
+    "value": 24
+  },
+  {
+    "text": "確定",
+    "value": 21
+  },
+  {
+    "text": "回線",
+    "value": 21
+  },
+  {
+    "text": "改良",
+    "value": 21
+  },
+  {
+    "text": "監視",
+    "value": 21
+  },
+  {
+    "text": "積算",
+    "value": 21
+  },
+  {
+    "text": "土木",
+    "value": 21
+  },
+  {
+    "text": "物",
+    "value": 21
+  },
+  {
+    "text": "内",
+    "value": 21
+  },
+  {
+    "text": "資格",
+    "value": 21
+  },
+  {
+    "text": "取得",
+    "value": 21
+  },
+  {
+    "text": "受講",
+    "value": 21
+  },
+  {
+    "text": "ガソリン",
+    "value": 21
+  },
+  {
+    "text": "軽油",
+    "value": 21
+  },
+  {
+    "text": "品川",
+    "value": 21
+  },
+  {
+    "text": "機械",
+    "value": 21
+  },
+  {
+    "text": "準備",
+    "value": 18
+  },
+  {
+    "text": "海事",
+    "value": 18
+  },
+  {
+    "text": "追録",
+    "value": 18
+  },
+  {
+    "text": "室",
+    "value": 18
+  },
+  {
+    "text": "四半期",
+    "value": 18
+  },
+  {
+    "text": "航路",
+    "value": 18
+  },
+  {
+    "text": "実施",
+    "value": 18
+  },
+  {
+    "text": "一",
+    "value": 18
+  },
+  {
+    "text": "護岸",
+    "value": 18
+  },
+  {
+    "text": "所",
+    "value": 18
+  },
+  {
+    "text": "空港",
+    "value": 18
+  },
+  {
+    "text": "計画",
+    "value": 18
+  },
+  {
+    "text": "トンネル",
+    "value": 18
+  },
+  {
+    "text": "ﾄﾝﾈﾙ",
+    "value": 18
+  },
+  {
+    "text": "技士",
+    "value": 18
+  },
+  {
+    "text": "免許",
+    "value": 18
+  },
+  {
+    "text": "継続",
+    "value": 18
+  },
+  {
+    "text": "建",
+    "value": 15
+  },
+  {
+    "text": "日本",
+    "value": 15
+  },
+  {
+    "text": "の",
+    "value": 15
+  },
+  {
+    "text": "者",
+    "value": 15
+  },
+  {
+    "text": "船",
+    "value": 15
+  },
+  {
+    "text": "審議",
+    "value": 15
+  },
+  {
+    "text": "職員",
+    "value": 15
+  },
+  {
+    "text": "作業",
+    "value": 15
+  },
+  {
+    "text": "青海",
+    "value": 15
+  },
+  {
+    "text": "丁目",
+    "value": 15
+  },
+  {
+    "text": "運河",
+    "value": 15
+  },
+  {
+    "text": "資材",
+    "value": 15
+  },
+  {
+    "text": "特別",
+    "value": 15
+  },
+  {
+    "text": "気象",
+    "value": 15
+  },
+  {
+    "text": "しゅんせつ",
+    "value": 15
+  },
+  {
+    "text": "海岸",
+    "value": 15
+  },
+  {
+    "text": "更新",
+    "value": 15
+  },
+  {
+    "text": "基本",
+    "value": 15
+  },
+  {
+    "text": "岡田",
+    "value": 15
+  },
+  {
+    "text": "新築",
+    "value": 15
+  },
+  {
+    "text": "ターミナル",
+    "value": 15
+  },
+  {
+    "text": "駐車",
+    "value": 15
+  },
+  {
+    "text": "離島",
+    "value": 15
+  },
+  {
+    "text": "定期",
+    "value": 15
+  },
+  {
+    "text": "臨海",
+    "value": 15
+  },
+  {
+    "text": "芝浦",
+    "value": 15
+  },
+  {
+    "text": "桟橋",
+    "value": 15
+  },
+  {
+    "text": "保安",
+    "value": 15
+  },
+  {
+    "text": "除草",
+    "value": 15
+  },
+  {
+    "text": "一般",
+    "value": 15
+  },
+  {
+    "text": "/",
+    "value": 12
+  },
+  {
+    "text": "ファクシミリ",
+    "value": 12
+  },
+  {
+    "text": "賃借",
+    "value": 12
+  },
+  {
+    "text": "雑誌",
+    "value": 12
+  },
+  {
+    "text": "労働",
+    "value": 12
+  },
+  {
+    "text": "接続",
+    "value": 12
+  },
+  {
+    "text": "交換",
+    "value": 12
+  },
+  {
+    "text": "チケット",
+    "value": 12
+  },
+  {
+    "text": "タクシー",
+    "value": 12
+  },
+  {
+    "text": "統計",
+    "value": 12
+  },
+  {
+    "text": "運用",
+    "value": 12
+  },
+  {
+    "text": "年月",
+    "value": 12
+  },
+  {
+    "text": "広告",
+    "value": 12
+  },
+  {
+    "text": "掲載",
+    "value": 12
+  },
+  {
+    "text": "線",
+    "value": 12
+  },
+  {
+    "text": "東",
+    "value": 12
+  },
+  {
+    "text": "水門",
+    "value": 12
+  },
+  {
+    "text": "地盤",
+    "value": 12
+  },
+  {
+    "text": "海面",
+    "value": 12
+  },
+  {
+    "text": "客船",
+    "value": 12
+  },
+  {
+    "text": "橋梁",
+    "value": 12
+  },
+  {
+    "text": "貿",
+    "value": 12
+  },
+  {
+    "text": "台場",
+    "value": 12
+  },
+  {
+    "text": "処分",
+    "value": 12
+  },
+  {
+    "text": "ビル",
+    "value": 12
+  },
+  {
+    "text": "測量",
+    "value": 12
+  },
+  {
+    "text": "カラー",
+    "value": 12
+  },
+  {
+    "text": "モノクロ",
+    "value": 12
+  },
+  {
+    "text": "航空",
+    "value": 12
+  },
+  {
+    "text": "委託料",
+    "value": 12
+  },
+  {
+    "text": "維持",
+    "value": 12
+  },
+  {
+    "text": "運搬",
+    "value": 12
+  },
+  {
+    "text": "自家用",
+    "value": 12
+  },
+  {
+    "text": "工作",
+    "value": 12
+  },
+  {
+    "text": "監理",
+    "value": 12
+  },
+  {
+    "text": "艇",
+    "value": 12
+  },
+  {
+    "text": "物価",
+    "value": 12
+  },
+  {
+    "text": "会計",
+    "value": 12
+  },
+  {
+    "text": "住宅",
+    "value": 12
+  },
+  {
+    "text": "端末",
+    "value": 9
+  },
+  {
+    "text": "接地",
+    "value": 9
+  },
+  {
+    "text": "通",
+    "value": 9
+  },
+  {
+    "text": "インターネット",
+    "value": 9
+  },
+  {
+    "text": "バス",
+    "value": 9
+  },
+  {
+    "text": "作成",
+    "value": 9
+  },
+  {
+    "text": "見学",
+    "value": 9
+  },
+  {
+    "text": "運航",
+    "value": 9
+  },
+  {
+    "text": "処理",
+    "value": 9
+  },
+  {
+    "text": "借入",
+    "value": 9
+  },
+  {
+    "text": "事業",
+    "value": 9
+  },
+  {
+    "text": "経費",
+    "value": 9
+  },
+  {
+    "text": "葛西",
+    "value": 9
+  },
+  {
+    "text": "防潮",
+    "value": 9
+  },
+  {
+    "text": "堤",
+    "value": 9
+  },
+  {
+    "text": "土砂",
+    "value": 9
+  },
+  {
+    "text": "配信",
+    "value": 9
+  },
+  {
+    "text": "製作",
+    "value": 9
+  },
+  {
+    "text": "朝",
+    "value": 9
+  },
+  {
+    "text": "潮",
+    "value": 9
+  },
+  {
+    "text": "晴海",
+    "value": 9
+  },
+  {
+    "text": "箇所",
+    "value": 9
+  },
+  {
+    "text": "操作",
+    "value": 9
+  },
+  {
+    "text": "竹",
+    "value": 9
+  },
+  {
+    "text": "芝",
+    "value": 9
+  },
+  {
+    "text": "リース",
+    "value": 9
+  },
+  {
+    "text": "防災",
+    "value": 9
+  },
+  {
+    "text": "技術",
+    "value": 9
+  },
+  {
+    "text": "地質",
+    "value": 9
+  },
+  {
+    "text": "大判",
+    "value": 9
+  },
+  {
+    "text": "プリンタ",
+    "value": 9
+  },
+  {
+    "text": "法律",
+    "value": 9
+  },
+  {
+    "text": "相談",
+    "value": 9
+  },
+  {
+    "text": "防波堤",
+    "value": 9
+  },
+  {
+    "text": "無線",
+    "value": 9
+  },
+  {
+    "text": "冷蔵庫",
+    "value": 9
+  },
+  {
+    "text": "漁港",
+    "value": 9
+  },
+  {
+    "text": "報酬",
+    "value": 9
+  },
+  {
+    "text": "岸壁",
+    "value": 9
+  },
+  {
+    "text": "補助",
+    "value": 9
+  },
+  {
+    "text": "路",
+    "value": 9
+  },
+  {
+    "text": "海底",
+    "value": 9
+  },
+  {
+    "text": "消防",
+    "value": 9
+  },
+  {
+    "text": "手数料",
+    "value": 9
+  },
+  {
+    "text": "信号",
+    "value": 9
+  },
+  {
+    "text": "ﾚｲﾝﾎﾞｰﾌﾞﾘｯｼﾞ",
+    "value": 9
+  },
+  {
+    "text": "観測",
+    "value": 9
+  },
+  {
+    "text": "事務所",
+    "value": 9
+  },
+  {
+    "text": "有明",
+    "value": 9
+  },
+  {
+    "text": "水道",
+    "value": 9
+  },
+  {
+    "text": "橋",
+    "value": 9
+  },
+  {
+    "text": "改修",
+    "value": 9
+  },
+  {
+    "text": "車",
+    "value": 9
+  },
+  {
+    "text": "普通",
+    "value": 9
+  },
+  {
+    "text": "ＰＨＶ",
+    "value": 9
+  },
+  {
+    "text": "親水",
+    "value": 9
+  },
+  {
+    "text": "敷地",
+    "value": 9
+  },
+  {
+    "text": "砂",
+    "value": 9
+  },
+  {
+    "text": "指揮",
+    "value": 9
+  },
+  {
+    "text": "日本経済新聞",
+    "value": 9
+  },
+  {
+    "text": "工場",
+    "value": 9
+  },
+  {
+    "text": "免税",
+    "value": 9
+  },
+  {
+    "text": "確認",
+    "value": 6
+  },
+  {
+    "text": "設置",
+    "value": 6
+  },
+  {
+    "text": "TAIMS",
+    "value": 6
+  },
+  {
+    "text": "八丈島",
+    "value": 6
+  },
+  {
+    "text": "自動",
+    "value": 6
+  },
+  {
+    "text": "器",
+    "value": 6
+  },
+  {
+    "text": "小笠原",
+    "value": 6
+  },
+  {
+    "text": "表",
+    "value": 6
+  },
+  {
+    "text": "科",
+    "value": 6
+  },
+  {
+    "text": "派遣",
+    "value": 6
+  },
+  {
+    "text": "事務",
+    "value": 6
+  },
+  {
+    "text": "～",
+    "value": 6
+  },
+  {
+    "text": "視察",
+    "value": 6
+  },
+  {
+    "text": "貸切",
+    "value": 6
+  },
+  {
+    "text": "代",
+    "value": 6
+  },
+  {
+    "text": "海外",
+    "value": 6
+  },
+  {
+    "text": "資料",
+    "value": 6
+  },
+  {
+    "text": "インターネットサービスプロバイダ",
+    "value": 6
+  },
+  {
+    "text": "屋形船",
+    "value": 6
+  },
+  {
+    "text": "し尿",
+    "value": 6
+  },
+  {
+    "text": "受入",
+    "value": 6
+  },
+  {
+    "text": "支援",
+    "value": 6
+  },
+  {
+    "text": "収集",
+    "value": 6
+  },
+  {
+    "text": "誘導",
+    "value": 6
+  },
+  {
+    "text": "員",
+    "value": 6
+  },
+  {
+    "text": "宿泊",
+    "value": 6
+  },
+  {
+    "text": "なぎさ",
+    "value": 6
+  },
+  {
+    "text": "東雲",
+    "value": 6
+  },
+  {
+    "text": "水底",
+    "value": 6
+  },
+  {
+    "text": "有効",
+    "value": 6
+  },
+  {
+    "text": "上半期",
+    "value": 6
+  },
+  {
+    "text": "データ",
+    "value": 6
+  },
+  {
+    "text": "あけぼの",
+    "value": 6
+  },
+  {
+    "text": "上段",
+    "value": 6
+  },
+  {
+    "text": "扉",
+    "value": 6
+  },
+  {
+    "text": "据付",
+    "value": 6
+  },
+  {
+    "text": "内部",
+    "value": 6
+  },
+  {
+    "text": "増築",
+    "value": 6
+  },
+  {
+    "text": "埋立",
+    "value": 6
+  },
+  {
+    "text": "Rd",
+    "value": 6
+  },
+  {
+    "text": "ﾀｰﾐﾅﾙｴｽｶﾚｰﾀｰ",
+    "value": 6
+  },
+  {
+    "text": "基礎",
+    "value": 6
+  },
+  {
+    "text": "CAD",
+    "value": 6
+  },
+  {
+    "text": "保有",
+    "value": 6
+  },
+  {
+    "text": "ｼｽﾃﾑ",
+    "value": 6
+  },
+  {
+    "text": "ﾊﾟｰｿﾅﾙｺﾝﾋﾟｭｰﾀ",
+    "value": 6
+  },
+  {
+    "text": "データベース",
+    "value": 6
+  },
+  {
+    "text": "装置",
+    "value": 6
+  },
+  {
+    "text": "ﾀｸｼｰ",
+    "value": 6
+  },
+  {
+    "text": "受変",
+    "value": 6
+  },
+  {
+    "text": "電",
+    "value": 6
+  },
+  {
+    "text": "環境",
+    "value": 6
+  },
+  {
+    "text": "聴取",
+    "value": 6
+  },
+  {
+    "text": "謝金",
+    "value": 6
+  },
+  {
+    "text": "払近",
+    "value": 6
+  },
+  {
+    "text": "日除け",
+    "value": 6
+  },
+  {
+    "text": "雨",
+    "value": 6
+  },
+  {
+    "text": "補足",
+    "value": 6
+  },
+  {
+    "text": "三宅島",
+    "value": 6
+  },
+  {
+    "text": "赴任",
+    "value": 6
+  },
+  {
+    "text": "提供",
+    "value": 6
+  },
+  {
+    "text": "_",
+    "value": 6
+  },
+  {
+    "text": "若郷",
+    "value": 6
+  },
+  {
+    "text": "-",
+    "value": 6
+  },
+  {
+    "text": "伊豆",
+    "value": 6
+  },
+  {
+    "text": "小笠原諸島",
+    "value": 6
+  },
+  {
+    "text": "改定",
+    "value": 6
+  },
+  {
+    "text": "検討",
+    "value": 6
+  },
+  {
+    "text": "委員",
+    "value": 6
+  },
+  {
+    "text": "特定",
+    "value": 6
+  },
+  {
+    "text": "有人",
+    "value": 6
+  },
+  {
+    "text": "運賃",
+    "value": 6
+  },
+  {
+    "text": "光熱",
+    "value": 6
+  },
+  {
+    "text": "水",
+    "value": 6
+  },
+  {
+    "text": "動物",
+    "value": 6
+  },
+  {
+    "text": "死体",
+    "value": 6
+  },
+  {
+    "text": "港内",
+    "value": 6
+  },
+  {
+    "text": "ごみ",
+    "value": 6
+  },
+  {
+    "text": "建物",
+    "value": 6
+  },
+  {
+    "text": "運転",
+    "value": 6
+  },
+  {
+    "text": "日の出",
+    "value": 6
+  },
+  {
+    "text": "担当",
+    "value": 6
+  },
+  {
+    "text": "長",
+    "value": 6
+  },
+  {
+    "text": "ｻｰﾋﾞｽ",
+    "value": 6
+  },
+  {
+    "text": "ﾍﾘﾎﾟｰﾄ",
+    "value": 6
+  },
+  {
+    "text": "南部",
+    "value": 6
+  },
+  {
+    "text": "城南島",
+    "value": 6
+  },
+  {
+    "text": "中央",
+    "value": 6
+  },
+  {
+    "text": "ｹﾞｰﾄﾌﾞﾘｯｼﾞ",
+    "value": 6
+  },
+  {
+    "text": "看板",
+    "value": 6
+  },
+  {
+    "text": "化",
+    "value": 6
+  },
+  {
+    "text": "舗装",
+    "value": 6
+  },
+  {
+    "text": "衛星",
+    "value": 6
+  },
+  {
+    "text": "小型",
+    "value": 6
+  },
+  {
+    "text": "ハードル",
+    "value": 6
+  },
+  {
+    "text": "車外",
+    "value": 6
+  },
+  {
+    "text": "型",
+    "value": 6
+  },
+  {
+    "text": "辰巳",
+    "value": 6
+  },
+  {
+    "text": "深浅",
+    "value": 6
+  },
+  {
+    "text": "分室",
+    "value": 6
+  },
+  {
+    "text": "朝日新聞",
+    "value": 6
+  },
+  {
+    "text": "青",
+    "value": 6
+  },
+  {
+    "text": "フロ",
+    "value": 6
+  },
+  {
+    "text": "フロンティア",
+    "value": 6
+  },
+  {
+    "text": "保管",
+    "value": 6
+  },
+  {
+    "text": "場所",
+    "value": 6
+  },
+  {
+    "text": "排水",
+    "value": 6
+  },
+  {
+    "text": "毎日新聞",
+    "value": 6
+  },
+  {
+    "text": "汐見",
+    "value": 6
+  },
+  {
+    "text": "汚泥",
+    "value": 6
+  },
+  {
+    "text": "五",
+    "value": 6
+  },
+  {
+    "text": "級",
+    "value": 6
+  },
+  {
+    "text": "航海",
+    "value": 6
+  },
+  {
+    "text": "身体",
+    "value": 6
+  },
+  {
+    "text": "多目的",
+    "value": 6
+  },
+  {
+    "text": "安否",
+    "value": 3
+  },
+  {
+    "text": "充電",
+    "value": 3
+  },
+  {
+    "text": "事前",
+    "value": 3
+  },
+  {
+    "text": "キャンセル",
+    "value": 3
+  },
+  {
+    "text": "体外",
+    "value": 3
+  },
+  {
+    "text": "式",
+    "value": 3
+  },
+  {
+    "text": "除",
+    "value": 3
+  },
+  {
+    "text": "細",
+    "value": 3
+  },
+  {
+    "text": "動",
+    "value": 3
+  },
+  {
+    "text": "AED",
+    "value": 3
+  },
+  {
+    "text": "複合",
+    "value": 3
+  },
+  {
+    "text": "植木",
+    "value": 3
+  },
+  {
+    "text": "時刻",
+    "value": 3
+  },
+  {
+    "text": "重点",
+    "value": 3
+  },
+  {
+    "text": "課題",
+    "value": 3
+  },
+  {
+    "text": "人権",
+    "value": 3
+  },
+  {
+    "text": "問題",
+    "value": 3
+  },
+  {
+    "text": "講師",
+    "value": 3
+  },
+  {
+    "text": "謝礼",
+    "value": 3
+  },
+  {
+    "text": "秘書",
+    "value": 3
+  },
+  {
+    "text": "判例",
+    "value": 3
+  },
+  {
+    "text": "地方",
+    "value": 3
+  },
+  {
+    "text": "自治",
+    "value": 3
+  },
+  {
+    "text": "賃料",
+    "value": 3
+  },
+  {
+    "text": "後半",
+    "value": 3
+  },
+  {
+    "text": "プリンター",
+    "value": 3
+  },
+  {
+    "text": "文書",
+    "value": 3
+  },
+  {
+    "text": "入港",
+    "value": 3
+  },
+  {
+    "text": "退任",
+    "value": 3
+  },
+  {
+    "text": "感謝",
+    "value": 3
+  },
+  {
+    "text": "状",
+    "value": 3
+  },
+  {
+    "text": "総務",
+    "value": 3
+  },
+  {
+    "text": "アメリカ",
+    "value": 3
+  },
+  {
+    "text": "回",
+    "value": 3
+  },
+  {
+    "text": "会議",
+    "value": 3
+  },
+  {
+    "text": "源泉",
+    "value": 3
+  },
+  {
+    "text": "徴収",
+    "value": 3
+  },
+  {
+    "text": "票",
+    "value": 3
+  },
+  {
+    "text": "送付",
+    "value": 3
+  },
+  {
+    "text": "社会",
+    "value": 3
+  },
+  {
+    "text": "電子",
+    "value": 3
+  },
+  {
+    "text": "計算",
+    "value": 3
+  },
+  {
+    "text": "入力",
+    "value": 3
+  },
+  {
+    "text": "データファイル",
+    "value": 3
+  },
+  {
+    "text": "経営",
+    "value": 3
+  },
+  {
+    "text": "ﾌｧｲﾙｻｰﾊﾞｰ",
+    "value": 3
+  },
+  {
+    "text": "払旅",
+    "value": 3
+  },
+  {
+    "text": "日刊",
+    "value": 3
+  },
+  {
+    "text": "プレス",
+    "value": 3
+  },
+  {
+    "text": "増刊",
+    "value": 3
+  },
+  {
+    "text": "国際",
+    "value": 3
+  },
+  {
+    "text": "輸送",
+    "value": 3
+  },
+  {
+    "text": "ハンドブック",
+    "value": 3
+  },
+  {
+    "text": "アライアンス",
+    "value": 3
+  },
+  {
+    "text": "更改",
+    "value": 3
+  },
+  {
+    "text": "借上げ",
+    "value": 3
+  },
+  {
+    "text": "CONTAINER",
+    "value": 3
+  },
+  {
+    "text": "AGE",
+    "value": 3
+  },
+  {
+    "text": "予約",
+    "value": 3
+  },
+  {
+    "text": "制",
+    "value": 3
+  },
+  {
+    "text": "運営",
+    "value": 3
+  },
+  {
+    "text": "車両",
+    "value": 3
+  },
+  {
+    "text": "待機",
+    "value": 3
+  },
+  {
+    "text": "Q",
+    "value": 3
+  },
+  {
+    "text": "自転車",
+    "value": 3
+  },
+  {
+    "text": "通行",
+    "value": 3
+  },
+  {
+    "text": "空間",
+    "value": 3
+  },
+  {
+    "text": "時",
+    "value": 3
+  },
+  {
+    "text": "療養",
+    "value": 3
+  },
+  {
+    "text": "対応",
+    "value": 3
+  },
+  {
+    "text": "郵便",
+    "value": 3
+  },
+  {
+    "text": "切手",
+    "value": 3
+  },
+  {
+    "text": "広域",
+    "value": 3
+  },
+  {
+    "text": "海上",
+    "value": 3
+  },
+  {
+    "text": "移送",
+    "value": 3
+  },
+  {
+    "text": "ガスミオ",
+    "value": 3
+  },
+  {
+    "text": "昭和島",
+    "value": 3
+  },
+  {
+    "text": "工",
+    "value": 3
+  },
+  {
+    "text": "解析",
+    "value": 3
+  },
+  {
+    "text": "パソコン",
+    "value": 3
+  },
+  {
+    "text": "新砂",
+    "value": 3
+  },
+  {
+    "text": "呑川",
+    "value": 3
+  },
+  {
+    "text": "サブ",
+    "value": 3
+  },
+  {
+    "text": "解体",
+    "value": 3
+  },
+  {
+    "text": "置送",
+    "value": 3
+  },
+  {
+    "text": "泥",
+    "value": 3
+  },
+  {
+    "text": "新設",
+    "value": 3
+  },
+  {
+    "text": "シュレッダー",
+    "value": 3
+  },
+  {
+    "text": "ライセンス",
+    "value": 3
+  },
+  {
+    "text": "図面",
+    "value": 3
+  },
+  {
+    "text": "動画",
+    "value": 3
+  },
+  {
+    "text": "外角",
+    "value": 3
+  },
+  {
+    "text": "交差",
+    "value": 3
+  },
+  {
+    "text": "総合",
+    "value": 3
+  },
+  {
+    "text": "映像",
+    "value": 3
+  },
+  {
+    "text": "制御",
+    "value": 3
+  },
+  {
+    "text": "ﾁｹｯﾄ",
+    "value": 3
+  },
+  {
+    "text": "供給",
+    "value": 3
+  },
+  {
+    "text": "中",
+    "value": 3
+  },
+  {
+    "text": "防",
+    "value": 3
+  },
+  {
+    "text": "外側",
+    "value": 3
+  },
+  {
+    "text": "コンテナ",
+    "value": 3
+  },
+  {
+    "text": "水域",
+    "value": 3
+  },
+  {
+    "text": "改善",
+    "value": 3
+  },
+  {
+    "text": "航行",
+    "value": 3
+  },
+  {
+    "text": "安全",
+    "value": 3
+  },
+  {
+    "text": "実務",
+    "value": 3
+  },
+  {
+    "text": "製図",
+    "value": 3
+  },
+  {
+    "text": "編",
+    "value": 3
+  },
+  {
+    "text": "生物",
+    "value": 3
+  },
+  {
+    "text": "結果",
+    "value": 3
+  },
+  {
+    "text": "モバイルルーター",
+    "value": 3
+  },
+  {
+    "text": "青ヶ島",
+    "value": 3
+  },
+  {
+    "text": "西",
+    "value": 3
+  },
+  {
+    "text": "鋼",
+    "value": 3
+  },
+  {
+    "text": "枠",
+    "value": 3
+  },
+  {
+    "text": "元町",
+    "value": 3
+  },
+  {
+    "text": "二見漁港臨港道路交差点道路台帳補正測量近接地外旅費",
+    "value": 3
+  },
+  {
+    "text": "宝島",
+    "value": 3
+  },
+  {
+    "text": "みそら",
+    "value": 3
+  },
+  {
+    "text": "便",
+    "value": 3
+  },
+  {
+    "text": "公衆",
+    "value": 3
+  },
+  {
+    "text": "LAN",
+    "value": 3
+  },
+  {
+    "text": "大島",
+    "value": 3
+  },
+  {
+    "text": "デジタルサイネージ",
+    "value": 3
+  },
+  {
+    "text": "借り入れ",
+    "value": 3
+  },
+  {
+    "text": "感染",
+    "value": 3
+  },
+  {
+    "text": "リスク",
+    "value": 3
+  },
+  {
+    "text": "お知らせ",
+    "value": 3
+  },
+  {
+    "text": "②",
+    "value": 3
+  },
+  {
+    "text": "神津島",
+    "value": 3
+  },
+  {
+    "text": "電波",
+    "value": 3
+  },
+  {
+    "text": "年間",
+    "value": 3
+  },
+  {
+    "text": "月刊",
+    "value": 3
+  },
+  {
+    "text": "エアライン",
+    "value": 3
+  },
+  {
+    "text": "Wi",
+    "value": 3
+  },
+  {
+    "text": "Fi",
+    "value": 3
+  },
+  {
+    "text": "ルーター",
+    "value": 3
+  },
+  {
+    "text": "阿古",
+    "value": 3
+  },
+  {
+    "text": "M",
+    "value": 3
+  },
+  {
+    "text": "路線",
+    "value": 3
+  },
+  {
+    "text": "補",
+    "value": 3
+  },
+  {
+    "text": "払職",
+    "value": 3
+  },
+  {
+    "text": "現地",
+    "value": 3
+  },
+  {
+    "text": "停電",
+    "value": 3
+  },
+  {
+    "text": "電源",
+    "value": 3
+  },
+  {
+    "text": "設定",
+    "value": 3
+  },
+  {
+    "text": "照明",
+    "value": 3
+  },
+  {
+    "text": "柱",
+    "value": 3
+  },
+  {
+    "text": "オイル",
+    "value": 3
+  },
+  {
+    "text": "ＥＴＣ",
+    "value": 3
+  },
+  {
+    "text": "巡回",
+    "value": 3
+  },
+  {
+    "text": "側",
+    "value": 3
+  },
+  {
+    "text": "換気",
+    "value": 3
+  },
+  {
+    "text": "空気",
+    "value": 3
+  },
+  {
+    "text": "圧縮",
+    "value": 3
+  },
+  {
+    "text": "設",
+    "value": 3
+  },
+  {
+    "text": "東八潮",
+    "value": 3
+  },
+  {
+    "text": "緑",
+    "value": 3
+  },
+  {
+    "text": "道",
+    "value": 3
+  },
+  {
+    "text": "歩道",
+    "value": 3
+  },
+  {
+    "text": "庇",
+    "value": 3
+  },
+  {
+    "text": "カメラ",
+    "value": 3
+  },
+  {
+    "text": "予測",
+    "value": 3
+  },
+  {
+    "text": "分析",
+    "value": 3
+  },
+  {
+    "text": "火災",
+    "value": 3
+  },
+  {
+    "text": "検知",
+    "value": 3
+  },
+  {
+    "text": "揚陸",
+    "value": 3
+  },
+  {
+    "text": "中部",
+    "value": 3
+  },
+  {
+    "text": "協定",
+    "value": 3
+  },
+  {
+    "text": "係",
+    "value": 3
+  },
+  {
+    "text": "船員",
+    "value": 3
+  },
+  {
+    "text": "詰所",
+    "value": 3
+  },
+  {
+    "text": "ﾄﾝﾈﾙ・",
+    "value": 3
+  },
+  {
+    "text": "路肩",
+    "value": 3
+  },
+  {
+    "text": "K",
+    "value": 3
+  },
+  {
+    "text": "L",
+    "value": 3
+  },
+  {
+    "text": "契",
+    "value": 3
+  },
+  {
+    "text": "継",
+    "value": 3
+  },
+  {
+    "text": "灯台",
+    "value": 3
+  },
+  {
+    "text": "HB",
+    "value": 3
+  },
+  {
+    "text": "キセノン",
+    "value": 3
+  },
+  {
+    "text": "ランプ",
+    "value": 3
+  },
+  {
+    "text": "リサイクル",
+    "value": 3
+  },
+  {
+    "text": "ボックス",
+    "value": 3
+  },
+  {
+    "text": "潤滑",
+    "value": 3
+  },
+  {
+    "text": "油",
+    "value": 3
+  },
+  {
+    "text": "クーラー",
+    "value": 3
+  },
+  {
+    "text": "亜鉛",
+    "value": 3
+  },
+  {
+    "text": "図書",
+    "value": 3
+  },
+  {
+    "text": "緑地",
+    "value": 3
+  },
+  {
+    "text": "害虫",
+    "value": 3
+  },
+  {
+    "text": "駆除",
+    "value": 3
+  },
+  {
+    "text": "Ｒｄ",
+    "value": 3
+  },
+  {
+    "text": "ｱﾝｶﾚｲｼﾞ",
+    "value": 3
+  },
+  {
+    "text": "ﾄﾞｱ",
+    "value": 3
+  },
+  {
+    "text": "路面",
+    "value": 3
+  },
+  {
+    "text": "SG",
+    "value": 3
+  },
+  {
+    "text": "ﾀｰﾐﾅﾙ",
+    "value": 3
+  },
+  {
+    "text": "指定",
+    "value": 3
+  },
+  {
+    "text": "出退勤",
+    "value": 3
+  },
+  {
+    "text": "分離",
+    "value": 3
+  },
+  {
+    "text": "帯",
+    "value": 3
+  },
+  {
+    "text": "wifi",
+    "value": 3
+  },
+  {
+    "text": "ラミネートフィルム",
+    "value": 3
+  },
+  {
+    "text": "観音",
+    "value": 3
+  },
+  {
+    "text": "製本",
+    "value": 3
+  },
+  {
+    "text": "ＰＤＦ",
+    "value": 3
+  },
+  {
+    "text": "通路",
+    "value": 3
+  },
+  {
+    "text": "縦貫",
+    "value": 3
+  },
+  {
+    "text": "ｺﾝﾃﾅ",
+    "value": 3
+  },
+  {
+    "text": "ﾚｰﾝ",
+    "value": 3
+  },
+  {
+    "text": "固定",
+    "value": 3
+  },
+  {
+    "text": "外装",
+    "value": 3
+  },
+  {
+    "text": "船着",
+    "value": 3
+  },
+  {
+    "text": "現況",
+    "value": 3
+  },
+  {
+    "text": "北",
+    "value": 3
+  },
+  {
+    "text": "撤去",
+    "value": 3
+  },
+  {
+    "text": "跡",
+    "value": 3
+  },
+  {
+    "text": "海図",
+    "value": 3
+  },
+  {
+    "text": "補正",
+    "value": 3
+  },
+  {
+    "text": "材",
+    "value": 3
+  },
+  {
+    "text": "四",
+    "value": 3
+  },
+  {
+    "text": "輪",
+    "value": 3
+  },
+  {
+    "text": "貨物",
+    "value": 3
+  },
+  {
+    "text": "水産物",
+    "value": 3
+  },
+  {
+    "text": "防食",
+    "value": 3
+  },
+  {
+    "text": "テレビ",
+    "value": 3
+  },
+  {
+    "text": "産業",
+    "value": 3
+  },
+  {
+    "text": "医",
+    "value": 3
+  },
+  {
+    "text": "年次",
+    "value": 3
+  },
+  {
+    "text": "テニス",
+    "value": 3
+  },
+  {
+    "text": "コート",
+    "value": 3
+  },
+  {
+    "text": "土",
+    "value": 3
+  },
+  {
+    "text": "タブレット",
+    "value": 3
+  },
+  {
+    "text": "臨港",
+    "value": 3
+  },
+  {
+    "text": "レインボー",
+    "value": 3
+  },
+  {
+    "text": "ブリッジ",
+    "value": 3
+  },
+  {
+    "text": "風向",
+    "value": 3
+  },
+  {
+    "text": "風速",
+    "value": 3
+  },
+  {
+    "text": "専用",
+    "value": 3
+  },
+  {
+    "text": "指令",
+    "value": 3
+  },
+  {
+    "text": "トン",
+    "value": 3
+  },
+  {
+    "text": "標識",
+    "value": 3
+  },
+  {
+    "text": "三宿泊所鋼製建具改修工事電波利用料",
+    "value": 3
+  },
+  {
+    "text": "みやこ",
+    "value": 3
+  },
+  {
+    "text": "セントラルビル",
+    "value": 3
+  },
+  {
+    "text": "高",
+    "value": 3
+  },
+  {
+    "text": "濃度",
+    "value": 3
+  },
+  {
+    "text": "ＰＣＢ",
+    "value": 3
+  },
+  {
+    "text": "含有",
+    "value": 3
+  },
+  {
+    "text": "廃棄",
+    "value": 3
+  },
+  {
+    "text": "プロバイダ",
+    "value": 3
+  },
+  {
+    "text": "申請",
+    "value": 3
+  },
+  {
+    "text": "あけみ",
+    "value": 3
+  },
+  {
+    "text": "P",
+    "value": 3
+  },
+  {
+    "text": "橋台",
+    "value": 3
+  },
+  {
+    "text": "落橋",
+    "value": 3
+  },
+  {
+    "text": "防止",
+    "value": 3
+  },
+  {
+    "text": "立入禁止",
+    "value": 3
+  },
+  {
+    "text": "メール",
+    "value": 3
+  },
+  {
+    "text": "一斉",
+    "value": 3
+  },
+  {
+    "text": "予定",
+    "value": 3
+  },
+  {
+    "text": "ＦＡＸ",
+    "value": 3
+  },
+  {
+    "text": "鎌",
+    "value": 3
+  },
+  {
+    "text": "操縦",
+    "value": 3
+  },
+  {
+    "text": "士",
+    "value": 3
+  },
+  {
+    "text": "講習",
+    "value": 3
+  },
+  {
+    "text": "読売新聞",
+    "value": 3
+  },
+  {
+    "text": "寝具",
+    "value": 3
+  },
+  {
+    "text": "乾燥",
+    "value": 3
+  },
+  {
+    "text": "殺菌",
+    "value": 3
+  },
+  {
+    "text": "清海",
+    "value": 3
+  },
+  {
+    "text": "丸",
+    "value": 3
+  },
+  {
+    "text": "足立",
+    "value": 3
+  },
+  {
+    "text": "ゆ",
+    "value": 3
+  },
+  {
+    "text": "豊洲",
+    "value": 3
+  },
+  {
+    "text": "町",
+    "value": 3
+  },
+  {
+    "text": "かぜ",
+    "value": 3
+  },
+  {
+    "text": "新海",
+    "value": 3
+  },
+  {
+    "text": "ＧＰＳ",
+    "value": 3
+  },
+  {
+    "text": "基準局",
+    "value": 3
+  },
+  {
+    "text": "泊地",
+    "value": 3
+  },
+  {
+    "text": "産経新聞",
+    "value": 3
+  },
+  {
+    "text": "さくら",
+    "value": 3
+  },
+  {
+    "text": "給排水",
+    "value": 3
+  },
+  {
+    "text": "空調",
+    "value": 3
+  },
+  {
+    "text": "フィルター",
+    "value": 3
+  },
+  {
+    "text": "プロパンガス",
+    "value": 3
+  },
+  {
+    "text": "共用",
+    "value": 3
+  },
+  {
+    "text": "行政",
+    "value": 3
+  },
+  {
+    "text": "FAX",
+    "value": 3
+  },
+  {
+    "text": "試掘",
+    "value": 3
+  },
+  {
+    "text": "ウェアラブルカメラ",
+    "value": 3
+  },
+  {
+    "text": "しぶき",
+    "value": 3
+  },
+  {
+    "text": "オルタネータ",
+    "value": 3
+  },
+  {
+    "text": "庶務",
+    "value": 3
+  },
+  {
+    "text": "タイムス",
+    "value": 3
+  },
+  {
+    "text": "ポンプ",
+    "value": 3
+  },
+  {
+    "text": "油圧",
+    "value": 3
+  },
+  {
+    "text": "シリンダー",
+    "value": 3
+  },
+  {
+    "text": "セ",
+    "value": 3
+  },
+  {
+    "text": "ネットワーク",
+    "value": 3
+  },
+  {
+    "text": "未来",
+    "value": 3
+  },
+  {
+    "text": "オフィス",
+    "value": 3
+  },
+  {
+    "text": "陸",
+    "value": 3
+  },
+  {
+    "text": "非常時",
+    "value": 3
+  },
+  {
+    "text": "D",
+    "value": 3
+  },
+  {
+    "text": "ﾌﾞﾛｯｸ",
+    "value": 3
+  },
+  {
+    "text": "三池",
+    "value": 3
+  },
+  {
+    "text": "仮設",
+    "value": 3
+  },
+  {
+    "text": "船客",
+    "value": 3
+  },
+  {
+    "text": "待合",
+    "value": 3
+  },
+  {
+    "text": "五丁目陸上防潮堤撤去補足設計令和年度城南大橋",
+    "value": 3
+  },
+  {
+    "text": "南",
+    "value": 3
+  },
+  {
+    "text": "寿命",
+    "value": 3
+  },
+  {
+    "text": "パーソナル",
+    "value": 3
+  },
+  {
+    "text": "コンピューター",
+    "value": 3
+  },
+  {
+    "text": "障害",
+    "value": 3
+  },
+  {
+    "text": "灯",
+    "value": 3
+  },
+  {
+    "text": "救難",
+    "value": 3
+  },
+  {
+    "text": "需用",
+    "value": 3
+  },
+  {
+    "text": "役務",
+    "value": 3
+  },
+  {
+    "text": "トナーカートリッジ",
+    "value": 3
+  }
+]
