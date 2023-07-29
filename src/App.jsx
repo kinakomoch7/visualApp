@@ -67,11 +67,24 @@ function App() {
     setSelectedIndex(selectIndex);
   };
 
+  const handleChangeProperty = (event) => {
+    setSelectedIndex(event.target.value);
+  };
+
   console.log(deptLabels);
 
   return (
     <div className="bdy">
       <Header />
+
+      <h2></h2>
+      <select onChange={handleChangeProperty}>
+        {deptLabels.map((item, index) => (
+          <option key={item} value={index}>
+            {item}
+          </option>
+        ))}
+      </select>
 
       <div className="LineChart">
         <DisplayLineChart

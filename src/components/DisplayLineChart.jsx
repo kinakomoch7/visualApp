@@ -87,10 +87,16 @@ export const DisplayLineChart = (props) => {
   const x0 = d3.scaleLinear().domain([0, 3]).range([0, 800]).nice();
   const y0 = d3.scaleLinear().domain([0, maxMoney]).range([0, 400]).nice();
 
+  console.log(selectedIndex);
+
   return (
     <>
-      {/* x座標ラベル、線 */}
       <svg width="100%" height={600}>
+        {/* x座標ラベル、線 */}
+        <g transform="translate(140, 70)">
+          <text>（億円）</text>
+        </g>
+
         <g transform="translate(200, 100)">
           {x0.ticks(3).map((item, i) => {
             if (i !== 0) {
@@ -130,8 +136,16 @@ export const DisplayLineChart = (props) => {
                   textAnchor="end"
                   transform="scale(1, -1)"
                 >
-                  {item / 100000000000}
+                  {item / 100000000}
                 </text>
+
+                <line
+                  x1="200"
+                  y1={-y0(item) + 5}
+                  x2="1000"
+                  y2={-y0(item) + 5}
+                  stroke="gray"
+                />
               </g>
             );
           })}

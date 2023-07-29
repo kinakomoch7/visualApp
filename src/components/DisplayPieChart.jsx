@@ -157,18 +157,22 @@ export const DisplayPieChart = (props) => {
     const x = cx + radius * Math.cos(-midAngle * RADIAN);
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
-    return (
-      <text
-        x={x}
-        y={y}
-        fill="black"
-        textAnchor={x > cx ? "start" : "end"}
-        fontSize={8}
-        dominantBaseline="central"
-      >
-        {name}
-      </text>
-    );
+    if (value > 3000000) {
+      return (
+        <text
+          x={x}
+          y={y}
+          fill="black"
+          textAnchor={x > cx ? "start" : "end"}
+          fontSize={8}
+          dominantBaseline="central"
+        >
+          {name}
+        </text>
+      );
+    } else {
+      return;
+    }
   };
 
   return (
