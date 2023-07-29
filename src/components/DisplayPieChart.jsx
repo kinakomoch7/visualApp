@@ -1,5 +1,5 @@
 import React from "react";
-import { LabelList, Pie, PieChart, ResponsiveContainer } from "recharts";
+import { Pie, PieChart, ResponsiveContainer, Tooltip } from "recharts";
 
 export const DisplayPieChart = (props) => {
   const { data, labels, selectedIndex, deptLabels } = props;
@@ -157,22 +157,36 @@ export const DisplayPieChart = (props) => {
     const x = cx + radius * Math.cos(-midAngle * RADIAN);
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
-    if (value > 3000000) {
+    if (value > 15000000000) {
+      console.log(value);
       return (
         <text
           x={x}
           y={y}
           fill="black"
           textAnchor={x > cx ? "start" : "end"}
-          fontSize={8}
           dominantBaseline="central"
         >
           {name}
         </text>
       );
     } else {
-      return;
+      return <></>;
     }
+  };
+
+  const CustomTooltip = ({ active, payload, label }) => {
+    if (active && payload && payload.length) {
+      return (
+        <div className="custom-tooltip">
+          <p className="label">{`${label} : ${payload[0].value}`}</p>
+          <p className="intro">{getIntroOfPage(label)}</p>
+          <p className="desc">Anything you want can be displayed here.</p>
+        </div>
+      );
+    }
+
+    return null;
   };
 
   return (
@@ -186,25 +200,45 @@ export const DisplayPieChart = (props) => {
             cy="50%"
             outerRadius={60}
             fill="#8884d8"
-            labelLine={false}
-            label={renderCustomizedLabel}
           />
+          <Tooltip />
+
           <Pie
             data={formattedSectionDataChanged}
             dataKey="value"
             innerRadius={70}
             outerRadius={90}
             fill="#82ca9d"
-          >
-            <LabelList
+            labelLine={false}
+            label={renderCustomizedLabel}
+          />
+          <Tooltip constent={<CustomTooltip />} />
+          {/* <LabelList
               dataKey="name"
               position="outside"
               stroke="black"
               offset={50}
-            />
-          </Pie>
+            /> */}
         </PieChart>
       </ResponsiveContainer>
+
+      <svg transform="translate(100, -450)">
+        <text x="0" y="50">
+          {deptLabels[selectedIndex]}の各部・課ごと合計金額内訳
+        </text>
+      </svg>
+
+      <svg transform="translate(0, -250)">
+        <rect x="200" y="5" width="10" height="10" fill="#8884d8" />
+        <rect x="200" y="55" width="10" height="10" fill="#82ca9d" />
+
+        <text x="230" y="15">
+          部名
+        </text>
+        <text x="230" y="65">
+          課名
+        </text>
+      </svg>
     </div>
   );
 };

@@ -28,7 +28,7 @@ function App() {
   const [MarData, setMarData] = useState([]);
 
   //データ選択のindex保持
-  const [selectedIndex, setSelectedIndex] = useState([0]);
+  const [selectedIndex, setSelectedIndex] = useState(0);
 
   const JanURL =
     "https://raw.githubusercontent.com/kinakomoch7/TokyoOpenData/main/opData01.json";
@@ -68,7 +68,7 @@ function App() {
   };
 
   const handleChangeProperty = (event) => {
-    setSelectedIndex(event.target.value);
+    setSelectedIndex(Number(event.target.value));
   };
 
   console.log(deptLabels);
@@ -77,14 +77,16 @@ function App() {
     <div className="bdy">
       <Header />
 
-      <h2></h2>
-      <select onChange={handleChangeProperty}>
-        {deptLabels.map((item, index) => (
-          <option key={item} value={index}>
-            {item}
-          </option>
-        ))}
-      </select>
+      <div className="selection">
+        <h3>局を選択してください</h3>
+        <select onChange={handleChangeProperty}>
+          {deptLabels.map((item, index) => (
+            <option key={item} value={index}>
+              {item}
+            </option>
+          ))}
+        </select>
+      </div>
 
       <div className="LineChart">
         <DisplayLineChart

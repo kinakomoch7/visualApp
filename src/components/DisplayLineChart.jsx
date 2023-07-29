@@ -138,14 +138,6 @@ export const DisplayLineChart = (props) => {
                 >
                   {item / 100000000}
                 </text>
-
-                <line
-                  x1="200"
-                  y1={-y0(item) + 5}
-                  x2="1000"
-                  y2={-y0(item) + 5}
-                  stroke="gray"
-                />
               </g>
             );
           })}
@@ -159,7 +151,8 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[0])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 0) {
+              if (selectedIndex == 0) {
+                console.log(typeof selectedIndex);
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -194,7 +187,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[1])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 1) {
+              if (selectedIndex == 1) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -229,7 +222,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[2])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 2) {
+              if (selectedIndex == 2) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -264,7 +257,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[3])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 3) {
+              if (selectedIndex == 3) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -299,7 +292,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[4])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 4) {
+              if (selectedIndex == 4) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -334,7 +327,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[5])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 5) {
+              if (selectedIndex == 5) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -369,7 +362,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[6])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 6) {
+              if (selectedIndex == 6) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -404,7 +397,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[7])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 7) {
+              if (selectedIndex == 7) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -439,7 +432,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[8])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 8) {
+              if (selectedIndex == 8) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -474,7 +467,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[9])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 9) {
+              if (selectedIndex == 9) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -509,7 +502,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[10])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 10) {
+              if (selectedIndex == 10) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -544,7 +537,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[11])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 11) {
+              if (selectedIndex == 11) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -579,7 +572,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[12])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 12) {
+              if (selectedIndex == 12) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -614,7 +607,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[13])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 13) {
+              if (selectedIndex == 13) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -649,7 +642,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[14])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 14) {
+              if (selectedIndex == 14) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -684,7 +677,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[15])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 15) {
+              if (selectedIndex == 15) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -719,7 +712,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[16])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 16) {
+              if (selectedIndex == 16) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -754,7 +747,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[17])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 17) {
+              if (selectedIndex == 17) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -789,7 +782,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[18])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 18) {
+              if (selectedIndex == 18) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -824,7 +817,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[19])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 19) {
+              if (selectedIndex == 19) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -859,7 +852,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[20])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 20) {
+              if (selectedIndex == 20) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -894,7 +887,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[21])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 21) {
+              if (selectedIndex == 21) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -929,7 +922,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[22])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 22) {
+              if (selectedIndex == 22) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -964,7 +957,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[23])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 23) {
+              if (selectedIndex == 23) {
                 color = "red";
                 strokeWid = "5";
               } else {
@@ -999,7 +992,7 @@ export const DisplayLineChart = (props) => {
             .map((item, index, arr) => item[24])
             .map((value, i, arr) => {
               let color, strokeWid;
-              if (selectedIndex === 24) {
+              if (selectedIndex == 24) {
                 color = "red";
                 strokeWid = "5";
               } else {
