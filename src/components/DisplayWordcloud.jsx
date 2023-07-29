@@ -59,8 +59,8 @@ export const DisplayWordcloud = (props) => {
   ];
 
   return (
-    <>
+    <div translate="200px" width={800}>
       <WordCloud data={dataSets[index]} />
-    </>
+    </div>
   );
 };
