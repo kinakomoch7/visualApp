@@ -191,7 +191,7 @@ export const DisplayPieChart = (props) => {
 
   return (
     <div id="pieChart">
-      <svg height="100" transform="translate(200, 0)">
+      <svg height="70" transform="translate(130, 0)">
         <text x="0" y="50">
           {deptLabels[selectedIndex]}の各部・課ごと合計金額内訳
         </text>
@@ -228,7 +228,7 @@ export const DisplayPieChart = (props) => {
         </PieChart>
       </ResponsiveContainer>
 
-      <svg height="150" transform="translate(0, 100)">
+      <svg height="150" transform="translate(0, 50)">
         <rect x="200" y="5" width="10" height="10" fill="#8884d8" />
         <rect x="200" y="55" width="10" height="10" fill="#82ca9d" />
 
