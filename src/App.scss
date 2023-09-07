@@ -7,7 +7,7 @@
         grid-template-columns: repeat(2, 1fr);
         grid-template-areas:
             "header header header header"
-            "overview overview  PieChart PieChart"
+            "leftCharts leftCharts  rightCharts rightCharts"
             "selection selection PieChart PieChart"
             "lineChart lineChart wordcloud wordcloud"
             "footer footer footer footer";
