@@ -21,7 +21,7 @@ const Overview = () => {
       </Text>
       <Flex alignItems="center">
         <Text fontSize="-moz-initial">
-          下記の選択した部局対応した以下のグラフが表示されます。
+          下記の選択した部局に対応するグラフが表示されます。
         </Text>
         <Popover>
           <PopoverTrigger>
@@ -40,17 +40,13 @@ const Overview = () => {
             <PopoverCloseButton />
             <PopoverHeader>東京都庁の部局とは？</PopoverHeader>
             <PopoverBody>
-              <Text>
-                部局とは組織の単位であり、 今回は局＞部＞課の順となります。
-              </Text>
+              <Text>部局とは組織の単位であり、局＞部＞課の順となります。</Text>
               <Text>ただし、立場により順番が異なる場合があります。</Text>
             </PopoverBody>
           </PopoverContent>
         </Popover>
       </Flex>
-      <Text>・月毎の局の総支出額の変化を表した折れ線グラフ（下部）</Text>
-      <Text>・その管理下の部・課の合計金額を円グラフ（右上）</Text>
-      <Text> ・支払い品目の頻度を表したワードクラウド（右下）</Text>
+      <Text> </Text>
     </>
   );
 };
