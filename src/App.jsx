@@ -1,4 +1,4 @@
-import { Container, Grid, GridItem } from "@chakra-ui/react";
+import { Container, Grid, GridItem, Select, Text } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 
 import { DisplayLineChart } from "./components/DisplayLineChart.jsx";
@@ -65,8 +65,6 @@ function App() {
     deptLabels.map((item, index) => [index, item])
   );
 
-  console.log(deptLabelsObject);
-
   const onSelect = (props) => {
     const selectIndex = props;
 
@@ -80,26 +78,32 @@ function App() {
   return (
     <Container maxW="container.xl">
       <Header />
-
       <Grid
-        templateRows="repeat(12, 1fr)"
-        templateColumns="repeat(12, 1fr)"
-        gap={4}
+        templateAreas={`
+          "overview  PieChart"
+          "lineChart PieChart"
+          "lineChart wordCloud"`}
+        gridTemplateRows={"30% 10% 40%"}
+        gridTemplateColumns={"65% 30%"}
+        gap="4"
       >
-        <GridItem>
+        <GridItem area={"overview"}>
+          <Text fontSize="xl">
+            こんああああああああああああああああああこんああああああああああああああああああこんああああああああああああああああああ
+          </Text>
+        </GridItem>
+
+        <GridItem area={"lineChart"}>
           <div className="selection">
-            <h3>局を選択してください</h3>
-            <select onChange={handleChangeProperty}>
+            <Text fontSize="lg">東京都に属する局を選択してください</Text>
+            <Select onChange={handleChangeProperty} size="sm">
               {deptLabels.map((item, index) => (
                 <option key={item} value={index}>
                   {item}
                 </option>
               ))}
-            </select>
+            </Select>
           </div>
-        </GridItem>
-
-        <GridItem>
           <DisplayLineChart
             JanData={JanData}
             FebData={FebData}
@@ -110,7 +114,7 @@ function App() {
           />
         </GridItem>
 
-        <GridItem>
+        <GridItem area={"PieChart"}>
           <DisplayPieChart
             data={[JanData, FebData, MarData]}
             labels={labels}
@@ -119,7 +123,7 @@ function App() {
           />
         </GridItem>
 
-        <GridItem>
+        <GridItem area={"wordCloud"}>
           <DisplayWordcloud index={selectedIndex} deptLabels={deptLabels} />
         </GridItem>
       </Grid>

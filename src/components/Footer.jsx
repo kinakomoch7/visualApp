@@ -1,11 +1,21 @@
-import { Flex } from "@chakra-ui/react";
+import { Container, Flex, Stack, Text } from "@chakra-ui/react";
 import React from "react";
 
 const Footer = () => {
   return (
-    <div className="content">
-      <Flex>&copy; 小出朋希</Flex>
-    </div>
+    <Flex bg={"gray.50"}>
+      <Container
+        as={Stack}
+        maxW={"6xl"}
+        py={4}
+        direction={{ base: "column", md: "row" }}
+        spacing={4}
+        justify={{ base: "center", md: "space-between" }}
+        align={{ base: "center", md: "center" }}
+      >
+        <Text>&copy; 小出朋希</Text>
+      </Container>
+    </Flex>
   );
 };
 

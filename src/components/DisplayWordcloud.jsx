@@ -1,3 +1,4 @@
+import { Text } from "@chakra-ui/react";
 import * as d3 from "d3";
 import React from "react";
 import WordCloud from "react-d3-cloud";
@@ -69,15 +70,11 @@ export const DisplayWordcloud = (props) => {
 
   return (
     <>
-      <svg transform="translate(200, 0)">
-        <text>{deptLabels[index]}の支払い品目</text>
-      </svg>
-      <div>
-        <WordCloud
-          data={dataSets[index]}
-          fontSize={(word) => wordScale(word.value)}
-        />
-      </div>
+      <Text>{deptLabels[index]}の支払い品目</Text>
+      <WordCloud
+        data={dataSets[index]}
+        fontSize={(word) => wordScale(word.value)}
+      />
     </>
   );
 };

@@ -1,11 +1,10 @@
+import { Text } from "@chakra-ui/react";
 import * as d3 from "d3";
 import React from "react";
-import { Pie, PieChart, ResponsiveContainer, Tooltip } from "recharts";
+import { Pie, PieChart, Tooltip } from "recharts";
 
 export const DisplayPieChart = (props) => {
   const { data, labels, selectedIndex, deptLabels } = props;
-
-  console.log(selectedIndex);
 
   const selectedJanData = data[0].filter(
     (item) => item[labels[0]] === deptLabels[selectedIndex]
@@ -190,36 +189,32 @@ export const DisplayPieChart = (props) => {
 
   return (
     <div id="pieChart">
-      <svg transform="translate(130, 0)">
-        <text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</text>
-      </svg>
+      <Text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</Text>
 
-      <ResponsiveContainer>
-        <PieChart>
-          <Pie
-            data={formattedDivisionData}
-            dataKey="value"
-            cx="50%"
-            cy="50%"
-            outerRadius={60}
-            fill="#8884d8"
-          />
-          <Tooltip />
+      <PieChart width={300} height={300}>
+        <Pie
+          data={formattedDivisionData}
+          dataKey="value"
+          cx="50%"
+          cy="50%"
+          outerRadius={60}
+          fill="#8884d8"
+        />
+        <Tooltip />
 
-          <Pie
-            data={formattedSectionDataChanged}
-            dataKey="value"
-            innerRadius={70}
-            outerRadius={90}
-            fill="#82ca9d"
-            labelLine={false}
-            label={renderCustomizedLabel}
-          />
-          <Tooltip />
-        </PieChart>
-      </ResponsiveContainer>
+        <Pie
+          data={formattedSectionDataChanged}
+          dataKey="value"
+          innerRadius={70}
+          outerRadius={90}
+          fill="#82ca9d"
+          labelLine={false}
+          label={renderCustomizedLabel}
+        />
+        <Tooltip />
+      </PieChart>
 
-      <svg transform="translate(0, 50)">
+      {/* <svg transform="translate(0, 50)">
         <rect fill="#8884d8" />
         <rect x="200" fill="#82ca9d" />
 
@@ -227,7 +222,7 @@ export const DisplayPieChart = (props) => {
         <text x="230" y="65">
           課名
         </text>
-      </svg>
+      </svg> */}
     </div>
   );
 };

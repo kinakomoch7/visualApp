@@ -88,8 +88,8 @@ export const DisplayLineChart = (props) => {
   const y0 = d3.scaleLinear().domain([0, maxMoney]).range([0, 400]).nice();
 
   return (
-    <div className="svgDisplay">
-      <svg viewBox="0 0 1000 1000">
+    <div>
+      <svg viewBox="0 0 1200 600">
         {/* x座標ラベル、線 */}
         <g transform="translate(40, 70)">
           <text>（億円）</text>
