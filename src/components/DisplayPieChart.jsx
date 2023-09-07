@@ -189,13 +189,11 @@ export const DisplayPieChart = (props) => {
 
   return (
     <div id="pieChart">
-      <svg height="70" transform="translate(130, 0)">
-        <text x="0" y="50">
-          {deptLabels[selectedIndex]}の各部・課ごと合計金額内訳
-        </text>
+      <svg transform="translate(130, 0)">
+        <text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</text>
       </svg>
 
-      <ResponsiveContainer width={500} height={200}>
+      <ResponsiveContainer>
         <PieChart>
           <Pie
             data={formattedDivisionData}
@@ -220,13 +218,11 @@ export const DisplayPieChart = (props) => {
         </PieChart>
       </ResponsiveContainer>
 
-      <svg height="150" transform="translate(0, 50)">
-        <rect x="200" y="5" width="10" height="10" fill="#8884d8" />
-        <rect x="200" y="55" width="10" height="10" fill="#82ca9d" />
+      <svg transform="translate(0, 50)">
+        <rect fill="#8884d8" />
+        <rect x="200" fill="#82ca9d" />
 
-        <text x="230" y="15">
-          部名
-        </text>
+        <text x="230">部名</text>
         <text x="230" y="65">
           課名
         </text>

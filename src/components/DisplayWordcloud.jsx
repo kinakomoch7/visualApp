@@ -68,12 +68,10 @@ export const DisplayWordcloud = (props) => {
 
   return (
     <>
-      <svg height="70" transform="translate(200, 0)">
-        <text x="0" y="50">
-          {deptLabels[index]}の支払い品目
-        </text>
+      <svg transform="translate(200, 0)">
+        <text>{deptLabels[index]}の支払い品目</text>
       </svg>
-      <div width={800} height={300}>
+      <div>
         <WordCloud
           data={dataSets[index]}
           fontSize={(word) => wordScale(word.value)}

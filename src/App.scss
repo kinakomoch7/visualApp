@@ -2,29 +2,47 @@
     margin: 0px;
     padding: 0px;
 
-    .selection{
-        margin-left: 100px;
-        margin-top: 100px;
-    }
+    .container{
+        display: grid;
+        grid-template-areas: "header header" "leftCharts rightChars" "footer footer";
+        grid-template-rows: auto 200px;
+        grid-template-columns: auto 200px;
 
-    .lineChart{
-        height:600px;
-        width:auto;
-    }
-    
-    .subCharts{
-        display: flex;
-        align-items:stretch; 
-        margin-left: 50px;
-
-       .PieChart{
-            width: 500px;
-            height: 500px
+        .header{
+            grid-area: header;
         }
-        .Wordcloud{
+        
+        .leftCharts{
+            grid-area: leftCharts;
+            .selection{
+                margin-left: 50px;
+                margin-top: 50px;
+            }
+            
+            .lineChart{
+                height:400px;
+                width:400px;
+            }
+        }
+            
+        .rightCharts{
+            grid-area: rightCharts;
+            align-items:stretch;
             margin-left: 50px;
-            width: 600px;
-            height: 600px;
+        
+            .PieChart{
+                width: 300px;
+                height: 300px
+            }
+            .Wordcloud{
+                margin-left: 50px;
+                width: 300px;
+                height: 300px;
+            }
+        }
+
+        .footer{
+            grid-area: footer;
         }
     }
 }

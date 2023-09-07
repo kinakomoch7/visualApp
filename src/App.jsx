@@ -61,6 +61,12 @@ function App() {
     new Set(JanData.map((item) => item[labels[0]]))
   );
 
+  const deptLabelsObject = Object.fromEntries(
+    deptLabels.map((item, index) => [index, item])
+  );
+
+  console.log(deptLabelsObject);
+
   const onSelect = (props) => {
     const selectIndex = props;
 
@@ -71,35 +77,39 @@ function App() {
     setSelectedIndex(Number(event.target.value));
   };
 
-  console.log(deptLabels);
-
   return (
-    <div className="bdy">
-      <Header />
-
-      <div className="selection">
-        <h3>局を選択してください</h3>
-        <select onChange={handleChangeProperty}>
-          {deptLabels.map((item, index) => (
-            <option key={item} value={index}>
-              {item}
-            </option>
-          ))}
-        </select>
+    <div className="container">
+      <div className="header">
+        <Header />
       </div>
 
-      <div className="LineChart">
-        <DisplayLineChart
-          JanData={JanData}
-          FebData={FebData}
-          MarData={MarData}
-          labels={labels}
-          onSelect={onSelect}
-          selectedIndex={selectedIndex}
-        />
+      <div className="leftCharts">
+        <div className="overview"></div>
+
+        <div className="selection">
+          <h3>局を選択してください</h3>
+          <select onChange={handleChangeProperty}>
+            {deptLabels.map((item, index) => (
+              <option key={item} value={index}>
+                {item}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="LineChart">
+          <DisplayLineChart
+            JanData={JanData}
+            FebData={FebData}
+            MarData={MarData}
+            labels={labels}
+            onSelect={onSelect}
+            selectedIndex={selectedIndex}
+          />
+        </div>
       </div>
 
-      <div className="subCharts">
+      <div className="rightCharts">
         <div className="PieChart">
           <DisplayPieChart
             data={[JanData, FebData, MarData]}
@@ -114,7 +124,9 @@ function App() {
         </div>
       </div>
 
-      <Footer />
+      <div className="hooter">
+        <Footer />
+      </div>
     </div>
   );
 }
