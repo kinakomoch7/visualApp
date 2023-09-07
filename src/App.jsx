@@ -7,6 +7,7 @@ import { DisplayWordcloud } from "./components/DisplayWordcloud";
 
 import Footer from "./components/Footer.jsx";
 import Header from "./components/Header.jsx";
+import Overview from "./components/Overview.jsx";
 
 function App() {
   const labels = [
@@ -76,59 +77,59 @@ function App() {
   };
 
   return (
-    <Container maxW="container.xl">
-      <Header />
-      <Grid
-        templateAreas={`
+    <>
+      <Container maxW="container.xl">
+        <Header />
+        <Grid
+          templateAreas={`
           "overview  PieChart"
           "lineChart PieChart"
           "lineChart wordCloud"`}
-        gridTemplateRows={"30% 10% 40%"}
-        gridTemplateColumns={"65% 30%"}
-        gap="4"
-      >
-        <GridItem area={"overview"}>
-          <Text fontSize="xl">
-            こんああああああああああああああああああこんああああああああああああああああああこんああああああああああああああああああ
-          </Text>
-        </GridItem>
+          gridTemplateRows={"30% 10% 40%"}
+          gridTemplateColumns={"65% 30%"}
+          gap="4"
+        >
+          <GridItem area={"overview"}>
+            <Overview />
+          </GridItem>
 
-        <GridItem area={"lineChart"}>
-          <div className="selection">
-            <Text fontSize="lg">東京都に属する局を選択してください</Text>
-            <Select onChange={handleChangeProperty} size="sm">
-              {deptLabels.map((item, index) => (
-                <option key={item} value={index}>
-                  {item}
-                </option>
-              ))}
-            </Select>
-          </div>
-          <DisplayLineChart
-            JanData={JanData}
-            FebData={FebData}
-            MarData={MarData}
-            labels={labels}
-            onSelect={onSelect}
-            selectedIndex={selectedIndex}
-          />
-        </GridItem>
+          <GridItem area={"lineChart"}>
+            <div className="selection">
+              <Text fontSize="lg">東京都に属する局を選択してください</Text>
+              <Select onChange={handleChangeProperty} size="sm">
+                {deptLabels.map((item, index) => (
+                  <option key={item} value={index}>
+                    {item}
+                  </option>
+                ))}
+              </Select>
+            </div>
+            <DisplayLineChart
+              JanData={JanData}
+              FebData={FebData}
+              MarData={MarData}
+              labels={labels}
+              onSelect={onSelect}
+              selectedIndex={selectedIndex}
+            />
+          </GridItem>
 
-        <GridItem area={"PieChart"}>
-          <DisplayPieChart
-            data={[JanData, FebData, MarData]}
-            labels={labels}
-            selectedIndex={selectedIndex}
-            deptLabels={deptLabels}
-          />
-        </GridItem>
+          <GridItem area={"PieChart"}>
+            <DisplayPieChart
+              data={[JanData, FebData, MarData]}
+              labels={labels}
+              selectedIndex={selectedIndex}
+              deptLabels={deptLabels}
+            />
+          </GridItem>
 
-        <GridItem area={"wordCloud"}>
-          <DisplayWordcloud index={selectedIndex} deptLabels={deptLabels} />
-        </GridItem>
-      </Grid>
+          <GridItem area={"wordCloud"}>
+            <DisplayWordcloud index={selectedIndex} deptLabels={deptLabels} />
+          </GridItem>
+        </Grid>
+      </Container>
       <Footer />
-    </Container>
+    </>
   );
 }
 

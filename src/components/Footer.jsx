@@ -13,7 +13,7 @@ const Footer = () => {
         justify={{ base: "center", md: "space-between" }}
         align={{ base: "center", md: "center" }}
       >
-        <Text>&copy; 小出朋希</Text>
+        <Text>&copy; 小出朋希 2023</Text>
       </Container>
     </Flex>
   );
