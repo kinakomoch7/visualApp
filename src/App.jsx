@@ -110,7 +110,7 @@ function App() {
         </div>
 
         <div className="Wordcloud">
-          <DisplayWordcloud index={selectedIndex} />
+          <DisplayWordcloud index={selectedIndex} deptLabels={deptLabels} />
         </div>
       </div>
 

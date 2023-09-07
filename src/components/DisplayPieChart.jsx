@@ -175,13 +175,11 @@ export const DisplayPieChart = (props) => {
     }
   };
 
-  const CustomTooltip = ({ active, payload, label }) => {
+  const CustomTooltip = ({ active, payload, name }) => {
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
-          <p className="label">{`${label} : ${payload[0].value}`}</p>
-          <p className="intro">{getIntroOfPage(label)}</p>
-          <p className="desc">Anything you want can be displayed here.</p>
+          <p className="label">{`${name} : ${payload[0].value}`}</p>
         </div>
       );
     }
@@ -218,13 +216,7 @@ export const DisplayPieChart = (props) => {
             labelLine={false}
             label={renderCustomizedLabel}
           />
-          <Tooltip constent={<CustomTooltip />} />
-          {/* <LabelList
-              dataKey="name"
-              position="outside"
-              stroke="black"
-              offset={50}
-            /> */}
+          <Tooltip />
         </PieChart>
       </ResponsiveContainer>
 

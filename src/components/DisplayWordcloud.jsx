@@ -28,7 +28,7 @@ import urban from "../datas/UrbanDevelopment.json";
 import welfare from "../datas/WelfareAndPublicHealth.json";
 
 export const DisplayWordcloud = (props) => {
-  const { index } = props;
+  const { index, deptLabels } = props;
 
   const dataSets = [
     policy,
@@ -58,9 +58,27 @@ export const DisplayWordcloud = (props) => {
     tokyo,
   ];
 
+  const formattedData = dataSets[index].map((item) => item.value);
+
+  const wordScale = d3
+    .scaleLinear()
+    .domain(d3.extent(formattedData))
+    .range([0, 200])
+    .nice();
+
   return (
-    <div translate="200px" width={800}>
-      <WordCloud data={dataSets[index]} />
-    </div>
+    <>
+      <svg height="70" transform="translate(200, 0)">
+        <text x="0" y="50">
+          {deptLabels[index]}の支払い品目
+        </text>
+      </svg>
+      <div width={800} height={300}>
+        <WordCloud
+          data={dataSets[index]}
+          fontSize={(word) => wordScale(word.value)}
+        />
+      </div>
+    </>
   );
 };
