@@ -7,18 +7,17 @@
         grid-template-columns: repeat(2, 1fr);
         grid-template-areas:
             "header header header header"
-            "leftCharts leftCharts  rightCharts rightCharts"
-            "selection selection PieChart PieChart"
-            "lineChart lineChart wordcloud wordcloud"
+            "leftCharts leftCharts rightCharts rightCharts"
             "footer footer footer footer";
         grid-template-rows: 80px auto 80px;
-        grid-template-columns:auto 200px;
+        grid-template-columns:auto auto 200% 200px;
 
         .header{
             grid-area: header;
         }
         
         .leftCharts{
+            grid-area: leftCharts;
             .overview{
                 grid-area: overview;
             }
@@ -36,6 +35,7 @@
         }
             
         .rightCharts{
+            grid-area: rightCharts;
             align-items:stretch;
             margin-left: 50px;
         

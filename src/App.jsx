@@ -1,3 +1,4 @@
+import { Box, Button } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import "./App.scss";
 
@@ -82,6 +83,10 @@ function App() {
       <div className="header">
         <Header />
       </div>
+
+      <Box>
+        <Button>ボタン</Button>
+      </Box>
 
       <div className="leftCharts">
         <div className="overview"></div>
