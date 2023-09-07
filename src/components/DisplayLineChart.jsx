@@ -128,6 +128,7 @@ export const DisplayLineChart = (props) => {
             <PopoverHeader>折れ線グラフ</PopoverHeader>
             <PopoverBody>
               <Text>各局の支出金額の推移を表示</Text>
+              <Text>選択した局は赤色の太線で表示しています。</Text>
             </PopoverBody>
           </PopoverContent>
         </Popover>

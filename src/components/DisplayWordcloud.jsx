@@ -114,11 +114,10 @@ export const DisplayWordcloud = (props) => {
           <PopoverContent w={500}>
             <PopoverArrow />
             <PopoverCloseButton />
-            <PopoverHeader>このグラフは何？</PopoverHeader>
+            <PopoverHeader>単語の出現頻度を表すグラフ</PopoverHeader>
             <PopoverBody>
-              <Text>
-                選択した局における支払い品目の頻度が多い単語を大きく表示するワードクラウド
-              </Text>
+              <Text>選択した局における支払い品目に含まれる単語を表示。</Text>
+              <Text>出現頻度が多いほど単語の大きさが大きくなっています。</Text>
             </PopoverBody>
           </PopoverContent>
         </Popover>

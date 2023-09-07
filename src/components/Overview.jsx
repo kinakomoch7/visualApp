@@ -2,6 +2,7 @@ import { QuestionIcon } from "@chakra-ui/icons";
 import {
   Flex,
   IconButton,
+  Link,
   Popover,
   PopoverArrow,
   PopoverBody,
@@ -46,7 +47,16 @@ const Overview = () => {
           </PopoverContent>
         </Popover>
       </Flex>
-      <Text> </Text>
+      <Text>
+        引用元のデータは
+        <Link
+          href="https://catalog.data.metro.tokyo.lg.jp/dataset/t000016d0000000044"
+          color="teal.500"
+        >
+          TOKYO OPEN DATA
+        </Link>
+        です。
+      </Text>
     </>
   );
 };

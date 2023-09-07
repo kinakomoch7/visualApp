@@ -223,14 +223,12 @@ export const DisplayPieChart = (props) => {
           <PopoverContent w={500}>
             <PopoverArrow />
             <PopoverCloseButton />
-            <PopoverHeader>このグラフは何？</PopoverHeader>
+            <PopoverHeader>合計金額の割合を表すグラフ</PopoverHeader>
             <PopoverBody>
-              <Text>選択した局の管理下にある部・課の合計金額を円グラフ。</Text>
+              <Text>選択した局に属する部・課の合計金額を表示。</Text>
+              <Text>内側の円が部の割合で、その円に対応する課です。</Text>
               <Text>
-                内側の円が部の割合で、その円に対応する課の割合を表示。
-              </Text>
-              <Text>
-                カーソルを合わせるとその対応する部局名を表示している。
+                カーソルを合わせるとその対応する部局名を表示しています。
               </Text>
             </PopoverBody>
           </PopoverContent>
