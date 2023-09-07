@@ -1,35 +1,11 @@
 [
   {
-    "text": "丁目",
-    "value": 657
-  },
-  {
     "text": "電気",
     "value": 654
   },
   {
-    "text": "分",
-    "value": 633
-  },
-  {
-    "text": "月",
-    "value": 582
-  },
-  {
-    "text": "料",
-    "value": 450
-  },
-  {
     "text": "料金",
     "value": 423
-  },
-  {
-    "text": "-",
-    "value": 408
-  },
-  {
-    "text": "支出",
-    "value": 372
   },
   {
     "text": "住宅",
@@ -40,28 +16,12 @@
     "value": 342
   },
   {
-    "text": "号",
-    "value": 336
-  },
-  {
-    "text": "都営",
-    "value": 279
-  },
-  {
     "text": "経費",
     "value": 270
   },
   {
     "text": "共用",
     "value": 267
-  },
-  {
-    "text": "負担",
-    "value": 264
-  },
-  {
-    "text": "二",
-    "value": 231
   },
   {
     "text": "設備",
@@ -72,31 +32,11 @@
     "value": 216
   },
   {
-    "text": "区",
-    "value": 216
-  },
-  {
     "text": "入居",
     "value": 204
   },
   {
-    "text": "一",
-    "value": 192
-  },
-  {
-    "text": "等",
-    "value": 174
-  },
-  {
-    "text": "支払",
-    "value": 156
-  },
-  {
     "text": "団地",
-    "value": 141
-  },
-  {
-    "text": "東",
     "value": 141
   },
   {
@@ -108,44 +48,16 @@
     "value": 135
   },
   {
-    "text": "AP",
-    "value": 135
-  },
-  {
-    "text": "H",
-    "value": 132
-  },
-  {
     "text": "契約",
     "value": 123
-  },
-  {
-    "text": "金",
-    "value": 114
-  },
-  {
-    "text": "年月",
-    "value": 111
   },
   {
     "text": "公共",
     "value": 108
   },
   {
-    "text": "年度",
-    "value": 96
-  },
-  {
     "text": "管理",
     "value": 96
-  },
-  {
-    "text": "用",
-    "value": 93
-  },
-  {
-    "text": "西",
-    "value": 93
   },
   {
     "text": "アパート",
@@ -164,36 +76,8 @@
     "value": 87
   },
   {
-    "text": "借入れ",
-    "value": 84
-  },
-  {
-    "text": "令和",
-    "value": 84
-  },
-  {
-    "text": "期",
-    "value": 78
-  },
-  {
-    "text": "三",
-    "value": 78
-  },
-  {
-    "text": "東京",
-    "value": 75
-  },
-  {
     "text": "町",
     "value": 75
-  },
-  {
-    "text": "支払い",
-    "value": 72
-  },
-  {
-    "text": "市",
-    "value": 72
   },
   {
     "text": "事業",

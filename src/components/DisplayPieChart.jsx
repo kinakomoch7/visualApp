@@ -1,4 +1,16 @@
-import { Text } from "@chakra-ui/react";
+import { QuestionIcon } from "@chakra-ui/icons";
+import {
+  Flex,
+  IconButton,
+  Popover,
+  PopoverArrow,
+  PopoverBody,
+  PopoverCloseButton,
+  PopoverContent,
+  PopoverHeader,
+  PopoverTrigger,
+  Text,
+} from "@chakra-ui/react";
 import * as d3 from "d3";
 import React from "react";
 import { Pie, PieChart, Tooltip } from "recharts";
@@ -130,7 +142,7 @@ export const DisplayPieChart = (props) => {
       name: sectionLabelsArray[i][index],
     }));
   }
-  //配列に変形
+
   const formattedSectionDataChanged = [];
   for (let i in totalOfSection) {
     for (let j in formattedSectionData[i]) {
@@ -142,7 +154,6 @@ export const DisplayPieChart = (props) => {
     }
   }
 
-  //ラベルの調整
   const RADIAN = Math.PI / 180;
   const renderCustomizedLabel = ({
     cx,
@@ -158,7 +169,7 @@ export const DisplayPieChart = (props) => {
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
     if (value > 15000000000) {
-      console.log(value);
+      console.log(name);
       return (
         <text
           x={x}
@@ -175,11 +186,11 @@ export const DisplayPieChart = (props) => {
     }
   };
 
-  const CustomTooltip = ({ active, payload, name }) => {
+  const CustomTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
-          <p className="label">{`${name} : ${payload[0].value}`}</p>
+          <p className="label">{payload[0].name}</p>
         </div>
       );
     }
@@ -189,9 +200,44 @@ export const DisplayPieChart = (props) => {
 
   return (
     <div id="pieChart">
-      <Text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</Text>
+      <Flex
+        maxW={"6xl"}
+        direction={{ base: "column", md: "row" }}
+        spacing={2}
+        justify={{ base: "center", md: "space-evenly" }}
+        align={{ base: "center", md: "center" }}
+      >
+        <Text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</Text>
+        <Popover>
+          <PopoverTrigger>
+            <IconButton
+              isRound={true}
+              variant="solid"
+              colorScheme="teal"
+              aria-label="Done"
+              fontSize="20px"
+              icon={<QuestionIcon />}
+              size={10}
+            />
+          </PopoverTrigger>
+          <PopoverContent w={500}>
+            <PopoverArrow />
+            <PopoverCloseButton />
+            <PopoverHeader>このグラフは何？</PopoverHeader>
+            <PopoverBody>
+              <Text>選択した局の管理下にある部・課の合計金額を円グラフ。</Text>
+              <Text>
+                内側の円が部の割合で、その円に対応する課の割合を表示。
+              </Text>
+              <Text>
+                カーソルを合わせるとその対応する部局名を表示している。
+              </Text>
+            </PopoverBody>
+          </PopoverContent>
+        </Popover>
+      </Flex>
 
-      <PieChart width={300} height={300}>
+      <PieChart width={400} height={200} margin={{ left: 70 }}>
         <Pie
           data={formattedDivisionData}
           dataKey="value"
@@ -200,7 +246,7 @@ export const DisplayPieChart = (props) => {
           outerRadius={60}
           fill="#8884d8"
         />
-        <Tooltip />
+        <Tooltip content={<CustomTooltip />} />
 
         <Pie
           data={formattedSectionDataChanged}
@@ -211,7 +257,7 @@ export const DisplayPieChart = (props) => {
           labelLine={false}
           label={renderCustomizedLabel}
         />
-        <Tooltip />
+        <Tooltip content={<CustomTooltip />} />
       </PieChart>
 
       {/* <svg transform="translate(0, 50)">

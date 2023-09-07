@@ -1,3 +1,16 @@
+import { QuestionIcon } from "@chakra-ui/icons";
+import {
+  Flex,
+  IconButton,
+  Popover,
+  PopoverArrow,
+  PopoverBody,
+  PopoverCloseButton,
+  PopoverContent,
+  PopoverHeader,
+  PopoverTrigger,
+  Text,
+} from "@chakra-ui/react";
 import * as d3 from "d3";
 import React from "react";
 
@@ -89,7 +102,38 @@ export const DisplayLineChart = (props) => {
 
   return (
     <div>
-      <svg viewBox="0 0 1200 600">
+      <Flex
+        maxW={"6xl"}
+        marginTop={5}
+        spacing={4}
+        justify={{ base: "center", md: "center" }}
+        align={{ base: "center", md: "center" }}
+      >
+        <Text>月毎の合計金額の推移</Text>
+        <Popover>
+          <PopoverTrigger>
+            <IconButton
+              isRound={true}
+              variant="solid"
+              colorScheme="teal"
+              aria-label="Done"
+              fontSize="20px"
+              icon={<QuestionIcon />}
+              size={10}
+            />
+          </PopoverTrigger>
+          <PopoverContent w={500}>
+            <PopoverArrow />
+            <PopoverCloseButton />
+            <PopoverHeader>折れ線グラフ</PopoverHeader>
+            <PopoverBody>
+              <Text>各局の支出金額の推移を表示</Text>
+            </PopoverBody>
+          </PopoverContent>
+        </Popover>
+      </Flex>
+
+      <svg viewBox="0 0 1100 600">
         {/* x座標ラベル、線 */}
         <g transform="translate(40, 70)">
           <text>（億円）</text>

@@ -1,4 +1,16 @@
-import { Text } from "@chakra-ui/react";
+import { QuestionIcon } from "@chakra-ui/icons";
+import {
+  Flex,
+  IconButton,
+  Popover,
+  PopoverArrow,
+  PopoverBody,
+  PopoverCloseButton,
+  PopoverContent,
+  PopoverHeader,
+  PopoverTrigger,
+  Text,
+} from "@chakra-ui/react";
 import * as d3 from "d3";
 import React from "react";
 import WordCloud from "react-d3-cloud";
@@ -65,17 +77,57 @@ export const DisplayWordcloud = (props) => {
   const wordScale = d3
     .scaleLinear()
     .domain(d3.extent(formattedData))
-    .range([0, 200])
+    .range([0, 400])
     .nice();
 
   return (
     <>
-      <Text>{deptLabels[index]}の支払い品目</Text>
+      <Flex
+        maxW={"6xl"}
+        direction={{ base: "column", md: "row" }}
+        spacing={2}
+        justify={{ base: "center", md: "space-evenly" }}
+        align={{ base: "center", md: "center" }}
+      >
+        <Text
+          maxW={"6xl"}
+          py={4}
+          direction={{ base: "column", md: "row" }}
+          spacing={4}
+          justify={{ base: "center", md: "space-between" }}
+          align={{ base: "center", md: "center" }}
+        >
+          {deptLabels[index]}の支払い品目
+        </Text>
+        <Popover>
+          <PopoverTrigger>
+            <IconButton
+              isRound={true}
+              variant="solid"
+              colorScheme="teal"
+              aria-label="Done"
+              fontSize="20px"
+              icon={<QuestionIcon />}
+              size={10}
+            />
+          </PopoverTrigger>
+          <PopoverContent w={500}>
+            <PopoverArrow />
+            <PopoverCloseButton />
+            <PopoverHeader>このグラフは何？</PopoverHeader>
+            <PopoverBody>
+              <Text>
+                選択した局における支払い品目の頻度が多い単語を大きく表示するワードクラウド
+              </Text>
+            </PopoverBody>
+          </PopoverContent>
+        </Popover>
+      </Flex>
       <WordCloud
         data={dataSets[index]}
         fontSize={(word) => wordScale(word.value)}
-        width={900}
-        height={900}
+        width={2000}
+        height={2000}
       />
     </>
   );
