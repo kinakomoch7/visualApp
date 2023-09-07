@@ -1,6 +1,5 @@
-import { Box, Button } from "@chakra-ui/react";
+import { Container, Grid, GridItem } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
-import "./App.scss";
 
 import { DisplayLineChart } from "./components/DisplayLineChart.jsx";
 import { DisplayPieChart } from "./components/DisplayPieChart";
@@ -79,30 +78,28 @@ function App() {
   };
 
   return (
-    <div className="container">
-      <div className="header">
-        <Header />
-      </div>
+    <Container maxW="container.xl">
+      <Header />
 
-      <Box>
-        <Button>ボタン</Button>
-      </Box>
+      <Grid
+        templateRows="repeat(12, 1fr)"
+        templateColumns="repeat(12, 1fr)"
+        gap={4}
+      >
+        <GridItem>
+          <div className="selection">
+            <h3>局を選択してください</h3>
+            <select onChange={handleChangeProperty}>
+              {deptLabels.map((item, index) => (
+                <option key={item} value={index}>
+                  {item}
+                </option>
+              ))}
+            </select>
+          </div>
+        </GridItem>
 
-      <div className="leftCharts">
-        <div className="overview"></div>
-
-        <div className="selection">
-          <h3>局を選択してください</h3>
-          <select onChange={handleChangeProperty}>
-            {deptLabels.map((item, index) => (
-              <option key={item} value={index}>
-                {item}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        <div className="LineChart">
+        <GridItem>
           <DisplayLineChart
             JanData={JanData}
             FebData={FebData}
@@ -111,28 +108,23 @@ function App() {
             onSelect={onSelect}
             selectedIndex={selectedIndex}
           />
-        </div>
-      </div>
+        </GridItem>
 
-      <div className="rightCharts">
-        <div className="PieChart">
+        <GridItem>
           <DisplayPieChart
             data={[JanData, FebData, MarData]}
             labels={labels}
             selectedIndex={selectedIndex}
             deptLabels={deptLabels}
           />
-        </div>
+        </GridItem>
 
-        <div className="Wordcloud">
+        <GridItem>
           <DisplayWordcloud index={selectedIndex} deptLabels={deptLabels} />
-        </div>
-      </div>
-
-      <div className="hooter">
-        <Footer />
-      </div>
-    </div>
+        </GridItem>
+      </Grid>
+      <Footer />
+    </Container>
   );
 }
 
