@@ -6,7 +6,7 @@
         display: grid;
         grid-template-areas: "header header" "leftCharts rightChars" "footer footer";
         grid-template-rows: auto 200px;
-        grid-template-columns: auto 200px;
+        grid-template-columns: 200px auto 200px;
 
         .header{
             grid-area: header;
