@@ -169,7 +169,6 @@ export const DisplayPieChart = (props) => {
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
     if (value > 15000000000) {
-      console.log(name);
       return (
         <text
           x={x}
@@ -257,16 +256,6 @@ export const DisplayPieChart = (props) => {
         />
         <Tooltip content={<CustomTooltip />} />
       </PieChart>
-
-      {/* <svg transform="translate(0, 50)">
-        <rect fill="#8884d8" />
-        <rect x="200" fill="#82ca9d" />
-
-        <text x="230">部名</text>
-        <text x="230" y="65">
-          課名
-        </text>
-      </svg> */}
     </div>
   );
 };
