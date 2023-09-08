@@ -83,9 +83,9 @@ function App() {
         <Grid
           templateAreas={`
           "overview  PieChart"
-          "lineChart wordCloud"
+          "lineChart PieChart"
           "lineChart wordCloud"`}
-          gridTemplateRows={"30% 10% 40%"}
+          gridTemplateRows={"20% 10% 50%"}
           gridTemplateColumns={"65% 35%"}
           gap="4"
         >
@@ -96,7 +96,12 @@ function App() {
           <GridItem area={"lineChart"} gap="1em">
             <div className="selection">
               <Text fontSize="lg">東京都に属する局を選択してください</Text>
-              <Select width="70%" onChange={handleChangeProperty} size="sm">
+              <Select
+                width="70%"
+                onChange={handleChangeProperty}
+                size="sm"
+                borderColor="black"
+              >
                 {deptLabels.map((item, index) => (
                   <option key={item} value={index}>
                     {item}

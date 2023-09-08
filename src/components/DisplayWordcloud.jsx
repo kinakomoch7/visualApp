@@ -125,8 +125,8 @@ export const DisplayWordcloud = (props) => {
       <WordCloud
         data={dataSets[index]}
         fontSize={(word) => wordScale(word.value)}
-        width={2000}
-        height={2000}
+        width={1100}
+        height={700}
       />
     </>
   );
