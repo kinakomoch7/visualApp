@@ -1,4 +1,4 @@
-import { Heading } from "@chakra-ui/react";
+import { Container, Heading, Stack } from "@chakra-ui/react";
 import React from "react";
 
 const Header = () => {
@@ -13,7 +13,7 @@ const Header = () => {
       align={{ base: "center", md: "center" }}
     >
       <Heading as="h1" size="2xl" noOfLines={1}>
-        <h1>公金支出情報の可視化</h1>
+        公金支出情報の可視化
       </Heading>
     </Container>
   );

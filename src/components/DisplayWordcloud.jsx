@@ -96,6 +96,7 @@ export const DisplayWordcloud = (props) => {
           spacing={4}
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
+          fontSize="lg"
         >
           {deptLabels[index]}の支払い品目
         </Text>

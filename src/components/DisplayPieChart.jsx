@@ -168,7 +168,7 @@ export const DisplayPieChart = (props) => {
     const x = cx + radius * Math.cos(-midAngle * RADIAN);
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
-    if (value > 15000000000) {
+    if (value > 1500000000) {
       return (
         <text
           x={x}
@@ -206,7 +206,9 @@ export const DisplayPieChart = (props) => {
         justify={{ base: "center", md: "space-evenly" }}
         align={{ base: "center", md: "center" }}
       >
-        <Text>{deptLabels[selectedIndex]}の各部・課ごと合計金額内訳</Text>
+        <Text textSize="lg">
+          {deptLabels[selectedIndex]}の各部・課ごと合計金額内訳
+        </Text>
         <Popover>
           <PopoverTrigger>
             <IconButton
