@@ -206,7 +206,7 @@ export const DisplayPieChart = (props) => {
         justify={{ base: "center", md: "space-evenly" }}
         align={{ base: "center", md: "center" }}
       >
-        <Text textSize="lg">
+        <Text fontSize="lg">
           {deptLabels[selectedIndex]}の各部・課ごと合計金額内訳
         </Text>
         <Popover>

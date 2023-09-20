@@ -28,7 +28,7 @@ export const DisplayLineChart = (props) => {
     new Set(MarData.map((item) => item[labels[0]]))
   );
 
-  // 月毎の局別合計金額の設定
+  // 月毎の局別合計金額の設定;
   const totalJanDataDept = new Array(deptJanDataLabelsArray.length);
   for (var i in JanData) {
     if (i >= deptJanDataLabelsArray.length) {
@@ -227,6 +227,7 @@ export const DisplayLineChart = (props) => {
           );
         })}
       </svg>
+      {console.timeEnd("LineChart")}
     </div>
   );
 };
