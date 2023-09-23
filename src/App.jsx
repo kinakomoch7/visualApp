@@ -62,10 +62,6 @@ function App() {
     new Set(JanData.map((item) => item[labels[0]]))
   );
 
-  const deptLabelsObject = Object.fromEntries(
-    deptLabels.map((item, index) => [index, item])
-  );
-
   const onSelect = (props) => {
     const selectIndex = props;
 
@@ -110,10 +106,6 @@ function App() {
               </Select>
             </div>
             <DisplayLineChart
-              JanData={JanData}
-              FebData={FebData}
-              MarData={MarData}
-              labels={labels}
               onSelect={onSelect}
               selectedIndex={selectedIndex}
             />

@@ -21,11 +21,11 @@ def csv_to_json(csv_file_path, json_file_path):
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, indent=4, ensure_ascii=False)
 
+for i in 3:
+    # CSVファイルのパス
+    csv_file_path = '../csvDatas/opData0' + str(i+1) + '.csv'
+    # JSONファイルのパス
+    json_file_path = '../jsonDatas/originalDatas/opData0' + str(i+1) + '.json'
 
-# CSVファイルのパス
-csv_file_path = '/Users/koidetomoki/Desktop/opDataJson/opData03.csv'
-# JSONファイルのパス
-json_file_path = '/Users/koidetomoki/Desktop/opDataJson/opData03.json'
-
-# CSVをJSONに変換する
-csv_to_json(csv_file_path, json_file_path)
+    # CSVをJSONに変換する
+    csv_to_json(csv_file_path, json_file_path)

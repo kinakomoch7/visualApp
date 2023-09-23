@@ -12,20 +12,25 @@ import {
   Text,
 } from "@chakra-ui/react";
 import * as d3 from "d3";
-import React from "react";
+
+import JanData from "../../formattedDatas/LineChartDatas/LineChartData01.json";
+import FebData from "../../formattedDatas/LineChartDatas/LineChartData02.json";
+import MarData from "../../formattedDatas/LineChartDatas/LineChartData03.json";
 
 export const DisplayLineChart = (props) => {
-  const { JanData, FebData, MarData, labels, onSelect, selectedIndex } = props;
+  const { onSelect, selectedIndex } = props;
+
+  const start = performance.now();
 
   // 月毎のデータの集計
   const deptJanDataLabelsArray = Array.from(
-    new Set(JanData.map((item) => item[labels[0]]))
+    new Set(JanData.map((item) => item.bureauName))
   );
   const deptFebDataLabelsArray = Array.from(
-    new Set(FebData.map((item) => item[labels[0]]))
+    new Set(FebData.map((item) => item.bureauName))
   );
   const deptMarDataLabelsArray = Array.from(
-    new Set(MarData.map((item) => item[labels[0]]))
+    new Set(MarData.map((item) => item.bureauName))
   );
 
   // 月毎の局別合計金額の設定;
@@ -34,17 +39,12 @@ export const DisplayLineChart = (props) => {
     if (i >= deptJanDataLabelsArray.length) {
       break;
     }
-    let selectDeptData = JanData.filter(
-      (item) => item[labels[0]] === deptJanDataLabelsArray[i]
+    let selectData = JanData.filter(
+      (item) => item.bureauName === deptJanDataLabelsArray[i]
     );
-    const selectData = selectDeptData.map((item) => {
-      const money = parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-      return money;
-    });
-    totalJanDataDept[i] = selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+    totalJanDataDept[i] = selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
 
   const totalFebDataDept = new Array(deptFebDataLabelsArray.length);
@@ -52,17 +52,12 @@ export const DisplayLineChart = (props) => {
     if (i >= deptFebDataLabelsArray.length) {
       break;
     }
-    let selectDeptData = FebData.filter(
-      (item) => item[labels[0]] === deptFebDataLabelsArray[i]
+    let selectData = FebData.filter(
+      (item) => item.bureauName === deptFebDataLabelsArray[i]
     );
-    const selectData = selectDeptData.map((item) => {
-      const money = parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-      return money;
-    });
-    totalFebDataDept[i] = selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+    totalFebDataDept[i] = selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
 
   const totalMarDataDept = new Array(deptMarDataLabelsArray.length);
@@ -70,17 +65,13 @@ export const DisplayLineChart = (props) => {
     if (i >= deptMarDataLabelsArray.length) {
       break;
     }
-    let selectDeptData = MarData.filter(
-      (item) => item[labels[0]] === deptMarDataLabelsArray[i]
+    let selectData = MarData.filter(
+      (item) => item.bureauName === deptMarDataLabelsArray[i]
     );
-    const selectData = selectDeptData.map((item) => {
-      const money = parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-      return money;
-    });
-    totalMarDataDept[i] = selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+
+    totalMarDataDept[i] = selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
 
   const totalDataDept = [totalJanDataDept, totalFebDataDept, totalMarDataDept];
@@ -99,6 +90,10 @@ export const DisplayLineChart = (props) => {
 
   const x0 = d3.scaleLinear().domain([0, 3]).range([0, 800]).nice();
   const y0 = d3.scaleLinear().domain([0, maxMoney]).range([0, 400]).nice();
+
+  const end = performance.now();
+
+  console.log(end - start + "ミリ秒");
 
   return (
     <div>
@@ -227,7 +222,6 @@ export const DisplayLineChart = (props) => {
           );
         })}
       </svg>
-      {console.timeEnd("LineChart")}
     </div>
   );
 };
