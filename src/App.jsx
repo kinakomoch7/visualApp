@@ -25,36 +25,18 @@ function App() {
 
   //月別データ
   const [JanData, setJanData] = useState([]);
-  const [FebData, setFebData] = useState([]);
-  const [MarData, setMarData] = useState([]);
 
   //データ選択のindex保持
   const [selectedIndex, setSelectedIndex] = useState(0);
 
   const JanURL =
     "https://raw.githubusercontent.com/kinakomoch7/TokyoOpenData/main/opData01.json";
-  const FebURL =
-    "https://raw.githubusercontent.com/kinakomoch7/TokyoOpenData/main/opData02.json";
-  const MarURL =
-    "https://raw.githubusercontent.com/kinakomoch7/TokyoOpenData/main/opData03.json";
 
   useEffect(() => {
     fetch(JanURL)
       .then((response) => response.json())
       .then((response) => {
         setJanData(response);
-      });
-
-    fetch(FebURL)
-      .then((response) => response.json())
-      .then((response) => {
-        setFebData(response);
-      });
-
-    fetch(MarURL)
-      .then((response) => response.json())
-      .then((response) => {
-        setMarData(response);
       });
   }, []);
 
@@ -113,7 +95,6 @@ function App() {
 
           <GridItem area={"PieChart"}>
             <DisplayPieChart
-              data={[JanData, FebData, MarData]}
               labels={labels}
               selectedIndex={selectedIndex}
               deptLabels={deptLabels}

@@ -15,22 +15,28 @@ import * as d3 from "d3";
 import React from "react";
 import { Pie, PieChart, Tooltip } from "recharts";
 
-export const DisplayPieChart = (props) => {
-  const { data, labels, selectedIndex, deptLabels } = props;
+import JanData from "../../formattedDatas/PieChartDatas/PieChartData01.json";
+import FebData from "../../formattedDatas/PieChartDatas/PieChartData02.json";
+import MarData from "../../formattedDatas/PieChartDatas/PieChartData03.json";
 
-  const selectedJanData = data[0].filter(
-    (item) => item[labels[0]] === deptLabels[selectedIndex]
+export const DisplayPieChart = (props) => {
+  const { labels, selectedIndex, deptLabels } = props;
+
+  const start = performance.now();
+
+  const selectedJanData = JanData.filter(
+    (item) => item.bureauName === deptLabels[selectedIndex]
   );
-  const selectedFebData = data[1].filter(
-    (item) => item[labels[0]] === deptLabels[selectedIndex]
+  const selectedFebData = FebData.filter(
+    (item) => item.bureauName === deptLabels[selectedIndex]
   );
-  const selectedMarData = data[2].filter(
-    (item) => item[labels[0]] === deptLabels[selectedIndex]
+  const selectedMarData = MarData.filter(
+    (item) => item.bureauName === deptLabels[selectedIndex]
   );
 
   //部名のラベル取得
   const divisionLabelsArray = Array.from(
-    new Set(selectedJanData.map((item) => item[labels[1]]))
+    new Set(selectedJanData.map((item) => item.divisionName))
   );
   // 課名のラベル取得
   let sectionLabelsArray = new Array(divisionLabelsArray.length);
@@ -38,8 +44,8 @@ export const DisplayPieChart = (props) => {
     sectionLabelsArray[i] = Array.from(
       new Set(
         selectedJanData
-          .filter((item) => item[labels[1]] === divisionLabelsArray[i])
-          .map((item) => item[labels[2]])
+          .filter((item) => item.divisionName === divisionLabelsArray[i])
+          .map((item) => item.sectionName)
       )
     );
   }
@@ -50,49 +56,36 @@ export const DisplayPieChart = (props) => {
     if (i >= divisionLabelsArray.length) {
       break;
     }
-    let selectDeptData = selectedJanData.filter(
-      (item) => item[labels[1]] === divisionLabelsArray[i]
+    let selectData = selectedJanData.filter(
+      (item) => item.divisionName === divisionLabelsArray[i]
     );
-    const selectData = selectDeptData.map((item) => {
-      const money = parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-      return money;
-    });
-    totalOfDivision[i] = selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+    totalOfDivision[i] = selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
   for (let i in selectedFebData) {
     if (i >= divisionLabelsArray.length) {
       break;
     }
-    let selectDeptData = selectedFebData.filter(
-      (item) => item[labels[1]] === divisionLabelsArray[i]
+    let selectData = selectedFebData.filter(
+      (item) => item.divisionName === divisionLabelsArray[i]
     );
-    const selectData = selectDeptData.map((item) => {
-      const money = parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-      return money;
-    });
-    totalOfDivision[i] += selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+    totalOfDivision[i] += selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
   for (let i in selectedMarData) {
     if (i >= divisionLabelsArray.length) {
       break;
     }
-    let selectDeptData = selectedMarData.filter(
-      (item) => item[labels[1]] === divisionLabelsArray[i]
+    let selectData = selectedMarData.filter(
+      (item) => item.divisionName === divisionLabelsArray[i]
     );
-    let selectData = selectDeptData.map((item) => {
-      return parseInt(item[labels[9]].replace(/,/g, "") || 0, 10);
-    });
-    totalOfDivision[i] += selectData.reduce(
-      (prev, current) => prev + current,
-      0
-    );
+    totalOfDivision[i] += selectData
+      .map((item) => item.payment)
+      .reduce((prev, current) => prev + current, 0);
   }
+
   //各課ごとの合計
   let totalOfSection = new Array(divisionLabelsArray.length);
   for (let j = 0; j < divisionLabelsArray.length; j++) {
@@ -196,6 +189,10 @@ export const DisplayPieChart = (props) => {
 
     return null;
   };
+
+  const end = performance.now();
+
+  console.log(end - start + "ミリ秒, pie");
 
   return (
     <div id="pieChart">
